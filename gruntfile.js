@@ -202,7 +202,7 @@ module.exports = function (grunt) {
                 flatten: true
             },
             dist: {
-                src: ['./index.html'],
+                src: ['./styleguide.html'],
                 dest: 'resources/css/tidy.css'
             }
         },
