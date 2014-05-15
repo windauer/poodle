@@ -1,19 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <div xmlns="http://www.w3.org/1999/xhtml" data-template="templates:surround" data-template-with="templates/page.html" data-template-at="content">
     <style>
-
         .podcasts *{
-            font-family:Tahoma;
-            font-style: normal;
-            font-weight: normal;
         	-webkit-font-smoothing: antialiased;
-        	position:relative;
         }
         .podcast {
-            display:block;
-            border:1px solid black;
-            width:800px;
-            height:200px;
+            border-top:1px solid #C0C0C0;
+            border-right:1px solid #C0C0C0;
         }
         .title {
             
@@ -25,32 +18,36 @@
             
         }
         .logo {
-            display:block;
-             width:100px;
+            width:100px;
             height:100px;
-            display:block;
-            position:absolute;
-            right:10px;   
-            top:10px;
         }
         
     </style>
-    <h1>Poodle Results</h1>
-    <div class="podcasts" data-template="app:podcasts">
-        <div class="templates:each?from=podcasts&amp;to=podcast">
-            <div class="podcast">
-                <h2 class="title">
-                    <a data-template="app:podcast-title"/>
-                </h2>
-                <h3 class="subtitle">
-                    <a data-template="app:podcast-subtitle"/>
-                </h3>
-                <div class="desc" data-template="app:podcast-desc"/>
-                <div class="logo">
-                    <img class="logo" data-template="app:podcast-icon"/>
-                </div>
+    <div class="row">
+        <div class="col-md-12">
+            <div class="page-header">
+                <h1>Poodle <small>aka 'the Podlove Matrix'</small>
+                </h1>
+                <div>The Podlove way to display, search, aggreagate and to do fancy things with Metadata. Brought to you by the @metaebene</div>
             </div>
         </div>
+    </div>
+    <div class="row podcasts" data-template="app:podcasts">
+        <ul class="media-list">
+            <div class="templates:each?from=podcasts&amp;to=podcast col-md-12">
+                <li class="media podcast">
+                    <a class="pull-left" data-template="app:podcast-icon"/>
+                    <div class="media-body">
+                        <h3 class="title">
+                            <a data-template="app:podcast-title"/>
+                        </h3>
+                        <p class="subtitle">
+                            <a data-template="app:podcast-subtitle"/>
+                        </p>
+                    </div>
+                </li>
+            </div>
+        </ul>
     </div>
     <!-- div data-template="app:rss"/-->
 </div>

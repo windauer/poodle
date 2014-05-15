@@ -95,11 +95,26 @@ function app:podcast-desc($node as node(), $model as map(*)) {
 declare 
     %templates:replace
 function app:podcast-icon($node as node(), $model as map(*)){
-    element { node-name($node)}
-        { 
-            $node/@*,
-            attribute src { $model("podcast")/channel/itunes:image/@href },
-            $node/node() 
+    let $title := $model("podcast")/channel/title/string()
+    let $image := $model("podcast")/channel/itunes:image/@href
+    
+    return 
+        element { node-name($node) } {
+            $node/@*, 
+            if(string(node-name($node)) eq "a") 
+            then (
+                attribute href {"podcast.html?title=" || $title},
+                element img {
+                    attribute class {'logo'},
+                    attribute src { $image }        
+                }
+            )
+            else (
+                element img {
+                    attribute class {'logo'},
+                    attribute src { $image }        
+                }
+            )
         }
 };
 

@@ -261,6 +261,9 @@ li {
   -webkit-transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, -82, 0, 1);
   -moz-transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, -82, 0, 1);
   transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, -82, 0, 1);
+  -webkit-transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, -83, 0, 1);
+  -moz-transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, -83, 0, 1);
+  transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, -83, 0, 1);
   -webkit-transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -2, -83, 0, 1);
   -moz-transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -2, -83, 0, 1);
   transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -2, -83, 0, 1);
@@ -328,15 +331,12 @@ li {
     opacity: 1;
   }
 }
-.logo {
-  width: 100%;
-  margin-top: -5px;
-}
 /* ++++++++++ end of navigation styles ++++++++++ */
 /*  table of contents
     hides for sm and xs devices */
 .toc-col {
   /* not at all sure if this is the best/right way */
+
   padding-right: 0;
 }
 .toc {
@@ -463,10 +463,10 @@ footer a:hover {
 }
 @media (min-width: 1200px) {
   /*
-      body{
-        background:orange;
-      }
-  */
+        body{
+          background:orange;
+        }
+    */
 }
 .color {
   width: 100px;

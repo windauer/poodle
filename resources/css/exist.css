@@ -331,10 +331,6 @@ li {
     opacity: 1;
   }
 }
-.logo {
-  width: 100%;
-  margin-top: -5px;
-}
 /* ++++++++++ end of navigation styles ++++++++++ */
 /*  table of contents
     hides for sm and xs devices */
