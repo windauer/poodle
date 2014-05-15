@@ -6,8 +6,12 @@
         </lucene>
         <range>
             <create qname="atom:name" type="xs:string"/>
+            <create qname="atom:link" type="xs:string"/>
             <create qname="itunes:author" type="xs:string"/>
+            <create qname="itunes:duration" type="xs:string"/>
+            <create qname="itunes:keywords" type="xs:string"/>
             <create qname="itunes:summary" type="xs:string"/>
+            <create qname="itunes:subtitle" type="xs:string"/>
         </range>
     </index>
 </collection>

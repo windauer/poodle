@@ -17,6 +17,13 @@ declare %templates:wrap  function app:rss($node as node(), $model as map(*)) {
     podcast:rss()
 };
 
+declare function app:each($node as node(), $model as map(*), $from as xs:string, $to as xs:string) {
+    for $item in $model($from)
+    return
+           element { node-name($node) } {
+            $node/@*, templates:process($node/node(), map:new(($model, map:entry($to, $item))))
+        }       
+};
 
 declare %templates:wrap  function app:rss-alt($node as node(), $model as map(*)) {
     let $data-root := $config:app-root || "/data/podcast"
@@ -47,6 +54,8 @@ declare %templates:wrap  function app:podcasts($node as node(), $model as map(*)
             "podcasts" := $podcasts
         }
 };
+
+
 
 declare
     %templates:wrap
@@ -117,6 +126,44 @@ function app:podcast-icon($node as node(), $model as map(*)){
             )
         }
 };
+
+declare %templates:wrap  function app:podcast-episodes($node as node(), $model as map(*)) {
+    let $data-root := $config:app-root || "/data/podcast"
+    let $podcast := $model("podcast")
+    
+    let $episodes := for $episode in $podcast//item
+                        return $episode
+    return 
+        map {
+            "episodes" := $episodes
+        }
+};
+
+
+declare 
+    %templates:wrap
+function app:episode-title($node as node(), $model as map(*)) {
+     $model("episode")//title/string() 
+};
+declare 
+    %templates:wrap
+function app:episode-subtitle($node as node(), $model as map(*)) {
+     $model("episode")//itunes:subtitle/string() 
+};
+
+declare 
+    %templates:wrap
+function app:episode-summary($node as node(), $model as map(*)) {
+     $model("episode")//itunes:summary/string() 
+};
+
+
+
+
+
+
+
+
 
 
 

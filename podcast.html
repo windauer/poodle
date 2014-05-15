@@ -24,5 +24,14 @@
                 <div class="desc" data-template="app:podcast-desc"/>
             </div>
         </div>
+        <div class="row episodes" data-template="app:podcast-episodes">
+            <div class="col-md-12" data-template="app:each" data-template-from="episodes" data-template-to="episode">
+                <h4 class="title">
+                    <p data-template="app:episode-title"/>
+                </h4>
+                <p class="subtitle" data-template="app:episode-subtitle"/>
+                <p class="summary" data-template="app:episode-summary"/>
+            </div>
+        </div>
     </div>
 </div>

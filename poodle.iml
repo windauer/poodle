@@ -6,6 +6,7 @@
       <excludeFolder url="file://$MODULE_DIR$/build" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="poodle node_modules" level="project" />
   </component>
 </module>
 
