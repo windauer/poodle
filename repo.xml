@@ -10,5 +10,5 @@
     <target>podlove-matrix</target>
     <prepare>pre-install.xql</prepare>
     <finish>post-install.xql</finish>
-    <deployed>2014-05-16T16:32:14.845+02:00</deployed>
+    <permissions user="lasse" password="solutions!" group="dba" mode="rwxrwxr-x"/>
 </meta>
