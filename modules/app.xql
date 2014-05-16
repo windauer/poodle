@@ -13,10 +13,6 @@ declare namespace itunes="http://www.itunes.com/dtds/podcast-1.0.dtd";
 declare namespace atom="http://www.w3.org/2005/Atom";
 declare namespace content="http://purl.org/rss/1.0/modules/content/";
 
-declare %templates:wrap  function app:rss($node as node(), $model as map(*)) {
-    podcast:rss()
-};
-
 declare function app:each($node as node(), $model as map(*), $from as xs:string, $to as xs:string) {
     for $item in $model($from)
     return
@@ -157,7 +153,11 @@ function app:episode-summary($node as node(), $model as map(*)) {
      $model("episode")//itunes:summary/string() 
 };
 
-
+declare 
+    %templates:wrap
+function app:adminlink($node as node(), $model as map(*)) {
+     $node
+};
 
 
 
@@ -201,4 +201,59 @@ declare
 function app:item-desc($node as node(), $model as map(*)) {
      $model("item")//itunes:subtitle/string() 
 };
+
+declare 
+    %templates:wrap 
+function app:persons($node as node(), $model as map(*)) {
+    let $data-root := $config:app-root || "/data/podcast"
+    let $data := collection($data-root)//rss
+    let $distinct-persons :=  distinct-values($data//atom:name)
+    let $persons := 
+        for $person in $distinct-persons
+            let $count := count($data//atom:name[. eq $person])
+                return 
+                    <person>
+                        <name>{$person}</name>
+                        <count>{$count}</count>
+                    </person>
+    
+    for $person in $persons
+        order by xs:integer($person//count) descending
+        return 
+            <div>
+                <p>
+                    <span>{$person/name/text()} ({$person/count/text()})</span>
+                </p>
+            </div>
+};
+
+declare 
+    %templates:wrap 
+function app:categories($node as node(), $model as map(*)) {
+    let $data-root := $config:app-root || "/data/podcast"
+    let $data := collection($data-root)//rss
+    let $distinct-categories :=  distinct-values($data//itunes:category/@text)
+
+    return 
+        <ul>{
+    
+            for $category in $distinct-categories
+                let $count := count($data//itunes:category/@text[. eq $category])
+                let $podcasts := $data[.//itunes:category/@text[. eq $category]]
+                return 
+                    <li>
+                        <span>{$category} (items: {$count})</span>
+                        <span>
+                            <span> <strong>Podcasts</strong></span>
+                        {
+                            for $podcast in $podcasts 
+                                return 
+                                    <span> - {$podcast//channel/title/text()}</span>
+                        }
+                        </span>
+                    </li>
+        }
+        </ul>
+};
+
 

@@ -1,29 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <div xmlns="http://www.w3.org/1999/xhtml" data-template="templates:surround" data-template-with="templates/page.html" data-template-at="content">
     <style>
-        .podcasts *{
-        	-webkit-font-smoothing: antialiased;
-        }
-        .podcast {
-            border-top:1px solid #C0C0C0;
-            border-right:1px solid #C0C0C0;
-        }
-        .title {
-            
-        }
-        .subtitle {
-            
-        }
-        .desc {
-            
-        }
-        .logo {
-            width:100px;
-            height:100px;
-        }
+        .podcasts *{ -webkit-font-smoothing: antialiased; }
         
+        .thumbnail {
+            height:30em;
+        }
+        img {
+            max-height:300px;
+            max-width:300px;
+        }
     </style>
-    <div class="row">
+    <div class="row row-offcanvas row-offcanvas-righ podcast" data-template="app:podcast">
+        <div class="col-xs-12 col-sm-9">
+            <p class="pull-right visible-xs">
+                <button type="button" class="btn btn-primary btn-xs" data-toggle="offcanvas">Toggle nav</button>
+            </p>
+            <div class="jumbotron">
+                <h1>Poodle</h1>
+                <p>The Podlove way to display, search, aggreagate and to do fancy things with Metadata. Brought to you by the @metaebene.</p>
+            </div>
+            <div class="row" data-template="app:podcasts">
+                <div class="col-6 col-sm-6 col-lg-4" data-template="app:each" data-template-from="podcasts" data-template-to="podcast">
+                    <div class="thumbnail">
+                        <a data-template="app:podcast-icon"/>
+                        <div class="caption">
+                            <h5 data-template="app:podcast-title"/>
+                            <p data-template="app:podcast-subtitle"/>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-xs-6 col-sm-3 sidebar-offcanvas" id="sidebar" role="navigation">
+            <div class="list-group">
+                <a href="#" class="list-group-item active">Link</a>
+            </div>
+        </div><!--/span-->
+    </div>
+    <hr/>
+    <footer>
+        <p>Podlove 2014</p>
+    </footer>    
+    
+    <!-- div class="row">
         <div class="col-md-12">
             <div class="page-header">
                 <h1>Poodle <small>aka 'the Podlove Matrix'</small>
@@ -33,6 +53,16 @@
         </div>
     </div>
     <div class="row podcasts" data-template="app:podcasts">
+        <div class="col-md-4" data-template="app:each" data-template-from="podcasts" data-template-to="podcast">
+            <div class="thumbnail">
+                <a data-template="app:podcast-icon"/>
+                <div class="caption">
+                    <h3 data-template="app:podcast-title"/>
+                    <p data-template="app:podcast-subtitle"/>
+                </div>
+            </div>
+        </div>    
+    
         <ul class="media-list">
             <div class="col-md-12" data-template="app:each" data-template-from="podcasts" data-template-to="podcast">
                 <li class="media podcast">
@@ -48,6 +78,5 @@
                 </li>
             </div>
         </ul>
-    </div>
-    <!-- div data-template="app:rss"/-->
+    </div-->
 </div>
