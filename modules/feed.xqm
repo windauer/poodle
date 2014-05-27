@@ -1,5 +1,8 @@
 xquery version "3.0";
 
+
+module namespace feed="http://podlove.org/podlove-matrix/feed";
+
 import module namespace config="http://podlove.org/podlove-matrix/config" at "config.xqm";
 
 import module namespace httpclient="http://exist-db.org/xquery/httpclient";
@@ -12,7 +15,7 @@ declare namespace atom="http://www.w3.org/2005/Atom";
 declare namespace content="http://purl.org/rss/1.0/modules/content/";
 
 (: get all feed pages :)
-declare %private function local:get-feed-page($data,$has-next) {
+declare %private function feed:get-feed-page($data,$has-next) {
     if(exists($has-next) and string-length($has-next) gt 0)
     then (
         let $nextPageData := httpclient:get(xs:anyURI($has-next),false(), ())
@@ -26,35 +29,37 @@ declare %private function local:get-feed-page($data,$has-next) {
                 </channel>
             </rss>
          return
-             local:get-feed-page($updated-feed-data,data($nextPageData//atom:link[@rel='next']/@href))
+             feed:get-feed-page($updated-feed-data,data($nextPageData//atom:link[@rel='next']/@href))
          
     )else (
         $data
     )
 };
 
-declare function local:aggregate-feed($feedURI as xs:anyURI) {
+declare function feed:aggregate-feed($feedURI as xs:anyURI) {
     let $data :=  httpclient:get($feedURI,false(), ())
-    let $aggregated-feed := local:get-feed-page($data, data($data//atom:link[@rel='next']/@href)) 
+    let $aggregated-feed := feed:get-feed-page($data, data($data//atom:link[@rel='next']/@href)) 
     return $aggregated-feed
 
 };
 
+declare function feed:updates-feeds($feedURI as xs:anyURI) {
+    let $data-root := $config:app-root || "/data/podcast"
+    let $feeds := <feeds>
+        <feed>http://cre.fm/feed/m4a/</feed>
+        <feed>http://freakshow.fm/feed/m4a/</feed>
+        <feed>http://not-safe-for-work.de/feed/m4a/</feed>
+        <feed>http://fokus-europa.de/feed/m4a/</feed>
+        <feed>http://raumzeit-podcast.de/feed/m4a/</feed>
+        <feed>http://der-lautsprecher.de/feed/m4a/</feed>
+        <feed>http://logbuch-netzpolitik.de/feed/m4a</feed>
+        <feed>http://newz-of-the-world.com/feed/m4a</feed>
+    </feeds>
 
-let $data-root := $config:app-root || "/data/podcast"
-let $feeds := <feeds>
-                <feed>http://cre.fm/feed/m4a/</feed>
-                <feed>http://freakshow.fm/feed/m4a/</feed>
-                <feed>http://not-safe-for-work.de/feed/m4a/</feed>
-                <feed>http://fokus-europa.de/feed/m4a/</feed>
-                <feed>http://raumzeit-podcast.de/feed/m4a/</feed>
-                <feed>http://der-lautsprecher.de/feed/m4a/</feed>
-                <feed>http://logbuch-netzpolitik.de/feed/m4a</feed>
-                <feed>http://newz-of-the-world.com/feed/m4a</feed>
-            </feeds>
-
-return
-for $feed in $feeds//feed
-    let $data := local:aggregate-feed(xs:anyURI($feed/text()))
-    return 
-        xmldb:store($data-root,util:uuid($data//channel/title/text()) || ".xml", $data)
+    return
+        for $feed in $feeds//feed
+        let $data := feed:aggregate-feed(xs:anyURI($feed/text()))
+        return
+            xmldb:store($data-root,util:uuid($data//channel/title/text()) || ".xml", $data)
+    
+};

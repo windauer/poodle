@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:pod="http://sw.deri.org/2005/07/podcast#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/elements/1.1/" 
+    xmlns="http://purl.org/rss/1.0/">
+    
+    <channel rdf:about="http://freakshow.fm/feed/m4a/">
+        <title>Freakshow</title>
+        <description>Freak Show ist ein zweiwöchentlicher Podcast über das Leben mit Computern und Technik im 21. Jahrhundert und über sonstige digitale Fragen. Mit Tim Pritlove, Denis Ahrens, hukl, roddi und Clemens Schrimpe. Freak Show hieß früher mal mobileMacs..</description> 
+        <pod:credit>
+            <foaf:Person>
+                <foaf:name>Tim Pritlove</foaf:name> 
+                <foaf:mbox rdf:resource="mailto:tim@pritlove.de"/>
+                <pod:role>Owner</pod:role>
+                <pod:role>Speaker</pod:role>                                
+            </foaf:Person>
+            <foaf:Person>
+                <foaf:name>Denis Ahrens</foaf:name> 
+                <foaf:mbox rdf:resource="mailto:"/>                
+                <pod:role>Speaker</pod:role>
+            </foaf:Person>
+            <foaf:Person>
+                <foaf:name>hukl</foaf:name> 
+                <foaf:mbox rdf:resource="mailto:"/>                
+                <pod:role>Speaker</pod:role>
+            </foaf:Person>
+            <foaf:Person>
+                <foaf:name>roddi</foaf:name> 
+                <foaf:mbox rdf:resource="mailto:"/>                
+                <pod:role>Speaker</pod:role>
+            </foaf:Person>
+            <foaf:Person>
+                <foaf:name>Clemens Schrimpe</foaf:name> 
+                <foaf:mbox rdf:resource="mailto:aidan.hogan@deri.org"/>                
+                <pod:role>Speaker</pod:role>
+            </foaf:Person>                         
+        </pod:credit>
+        <dc:subject>
+            <pod:category>
+                <pod:domain rdf:resource="http://example.com/Taxonomy/"/>
+                    <dc:title>Semantic Web</dc:title> 
+            </pod:category>
+        </dc:subject>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="http://freakshow.fm/fs132-denk-nicht-in-layern-denk-in-schichten" />                 
+            </rdf:Seq>
+        </items>
+    </channel>
+    
+    <pod:Podcast rdf:about="http://freakshow.fm/fs132-denk-nicht-in-layern-denk-in-schichten">
+        <dc:creator>Tim Pritlove</dc:creator> 
+        <title>Denk nicht in Layern, denk in Schichten</title>
+        <pod:explicit>false</pod:explicit>
+        <description>Der re:publica 14 ist eine längere Pause geschuldet aber dafür bieten wir auch einen ersten Rückblick auf die Veranstaltung. Clemens war wieder für das Netzwerk zuständig und berichtet vom Aufbau, Debugging und Performance des Netzwerks. Etwas gelangweilt setzen wir uns ein wenig mit Apple auseinander und grübeln über eine mögliche Zukunft von App.net nachdem die Zeichen der Plattform eher auf Sturm stehen und viele schon die Geier kreisen sehen.</description> 
+        <pod:hasMedia>
+            <pod:File rdf:about="http://meta.metaebene.me/media/mm/fs132-denk-nicht-in-layern-denk-in-schichten.m4a" 
+                pod:fileSize="696320"
+                pod:type="audio/mpeg"
+                pod:expression="full"
+                pod:bitrate=""
+                pod:duration=""
+                pod:isDefault="true"
+            />
+            <pod:File rdf:about="http://meta.metaebene.me/media/mm/fs132-denk-nicht-in-layern-denk-in-schichten.mp3" 
+                pod:fileSize="1097728"
+                pod:type="audio/mp3"
+                pod:expression="full"
+                pod:isDefault="false"
+            />
+            <pod:File rdf:about="http://meta.metaebene.me/media/mm/fs132-denk-nicht-in-layern-denk-in-schichten-intro.mp4" 
+                pod:fileSize="84392"
+                pod:type="audio/mp4"
+                pod:expression="sample"
+                pod:isDefault="false"
+            />
+            
+            <pod:File rdf:about="http://meta.metaebene.me/media/mm/fs132-denk-nicht-in-layern-denk-in-schichten-teaser.mp4" 
+                pod:fileSize="84392"
+                pod:type="video/mp4"
+                pod:expression="sample"
+                pod:isDefault="false"
+                pod:width="1920"
+                pod:height="1200" 
+            />
+            
+        </pod:hasMedia>
+    </pod:Podcast>
+
+    <item rdf:about="http://freakshow.fm/fs132-denk-nicht-in-layern-denk-in-schichten">
+        <title>Denk nicht in Layern, denk in Schichten</title> 
+        <link>http://freakshow.fm/fs132-denk-nicht-in-layern-denk-in-schichten</link>
+        <dc:description>
+            Der re:publica 14 ist eine längere Pause geschuldet aber dafür bieten wir auch einen ersten Rückblick auf die Veranstaltung. Clemens war wieder für das Netzwerk zuständig und berichtet vom Aufbau, Debugging und Performance des Netzwerks. Etwas gelangweilt setzen wir uns ein wenig mit Apple auseinander und grübeln über eine mögliche Zukunft von App.net nachdem die Zeichen der Plattform eher auf Sturm stehen und viele schon die Geier kreisen sehen.            
+        </dc:description>
+        
+        <dc:creator>Tim Pritlove</dc:creator>
+        
+        <dc:subject>XML</dc:subject>
+    </item> 
+      
+</rdf:RDF>
+
