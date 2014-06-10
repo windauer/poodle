@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="200">
     <httpclient:headers>
-        <httpclient:header name="Content-Type" value="text/xml; charset=UTF-8"/>
+        <httpclient:header name="Last-Modified" value="Fri, 16 May 2014 20:21:49 GMT"/>
         <httpclient:header name="ETag" value="oycsceNmEHL/KV2agc5eRzVgxpM"/>
-        <httpclient:header name="Last-Modified" value="Sun, 11 May 2014 20:41:23 GMT"/>
-        <httpclient:header name="Date" value="Sun, 11 May 2014 20:48:43 GMT"/>
-        <httpclient:header name="Expires" value="Sun, 11 May 2014 20:48:43 GMT"/>
+        <httpclient:header name="Content-Type" value="text/xml; charset=UTF-8"/>
+        <httpclient:header name="Date" value="Fri, 16 May 2014 20:21:49 GMT"/>
+        <httpclient:header name="Expires" value="Fri, 16 May 2014 20:21:49 GMT"/>
         <httpclient:header name="Cache-Control" value="private, max-age=0"/>
         <httpclient:header name="X-Content-Type-Options" value="nosniff"/>
         <httpclient:header name="X-XSS-Protection" value="1; mode=block"/>
@@ -14,7 +14,7 @@
         <httpclient:header name="Transfer-Encoding" value="chunked"/>
     </httpclient:headers>
     <httpclient:body mimetype="text/xml; charset=UTF-8" type="xml">
-        <rss xmlns:psc="http://podlove.org/simple-chapters" xmlns:fh="http://purl.org/syndication/history/1.0" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+        <rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:psc="http://podlove.org/simple-chapters" xmlns:fh="http://purl.org/syndication/history/1.0" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
             <channel>
                 <title>Der Lautsprecher</title>
                 <link>http://der-lautsprecher.de</link>

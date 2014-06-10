@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:psc="http://podlove.org/simple-chapters" xmlns:fh="http://purl.org/syndication/history/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:psc="http://podlove.org/simple-chapters" xmlns:fh="http://purl.org/syndication/history/1.0" version="2.0">
     <channel>
         <title>Raumzeit</title>
         <link>http://raumzeit-podcast.de</link>
         <description>Der Podcast über Raumfahrt – mit Tim Pritlove</description>
-        <lastBuildDate>Thu, 17 Apr 2014 15:16:10 +0000</lastBuildDate>
+        <lastBuildDate>Wed, 14 May 2014 11:09:54 +0000</lastBuildDate>
         <atom:link rel="alternate" type="application/rss+xml" title="Raumzeit (MP3 Audio)" href="http://raumzeit-podcast.de/feed/mp3/?redirect=no"/>
         <atom:link rel="alternate" type="application/rss+xml" title="Raumzeit (Ogg Vorbis Audio)" href="http://raumzeit-podcast.de/feed/oga/?redirect=no"/>
         <atom:link rel="next" href="http://raumzeit-podcast.de/feed/m4a/?paged=2&amp;redirect=no"/>
         <atom:link rel="first" href="http://raumzeit-podcast.de/feed/m4a/?redirect=no"/>
         <atom:link rel="last" href="http://raumzeit-podcast.de/feed/m4a/?paged=2&amp;redirect=no"/>
         <language>de-DE</language>
+        <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=timpritlove&amp;url=http%3A%2F%2Fraumzeit-podcast.de%2F&amp;language=de_DE&amp;category=text&amp;title=Raumzeit&amp;description=Der+Podcast+%C3%BCber+Raumfahrt+%E2%80%93+mit+Tim+Pritlove&amp;tags=podcast" type="text/html"/>
         <atom:contributor>
             <atom:name>Tim Pritlove</atom:name>
         </atom:contributor>

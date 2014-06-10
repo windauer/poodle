@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:psc="http://podlove.org/simple-chapters" xmlns:fh="http://purl.org/syndication/history/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:psc="http://podlove.org/simple-chapters" xmlns:fh="http://purl.org/syndication/history/1.0" version="2.0">
     <channel>
         <title>Newz of the World</title>
         <link>http://newz-of-the-world.com</link>
         <description>Tim and Mark talk about The Newz (TM)</description>
-        <lastBuildDate>Wed, 30 Apr 2014 11:09:48 +0000</lastBuildDate>
+        <lastBuildDate>Thu, 15 May 2014 13:03:15 +0000</lastBuildDate>
         <atom:link rel="alternate" type="application/rss+xml" title="Newz of the World (MP3)" href="http://newz-of-the-world.com/feed/mp3/"/>
         <atom:link rel="alternate" type="application/rss+xml" title="Newz of the World (Vorbis)" href="http://newz-of-the-world.com/feed/oga/"/>
         <atom:link rel="next" href="http://newz-of-the-world.com/feed/m4a/?paged=2"/>
@@ -39,6 +39,162 @@
         <feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="newz-of-the-world"/>
         <atom:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/"/>
         <atom:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://metaebene.superfeedr.com/"/>
+        <item>
+            <title>NEWZ078 Get Your Printers Ready</title>
+            <link>http://feedproxy.google.com/~r/newz-of-the-world/~3/WiFmgDnjqXM/</link>
+            <pubDate>Thu, 15 May 2014 12:03:08 +0000</pubDate>
+            <guid isPermaLink="false">podlove-2014-05-15t11:21:27+00:00-c1292f234a42573</guid>
+            <description>At the top of the news pyramid today is a major mining accident in Soma, Turkey. While over in Eastern Ukraine, two more regions have voted for independence.  The Algerian president, despite failing health and remaining largely invisible, has won a 4th term. Climate scientists say El Niño will be here any day now. Credit agencies are patting Portugal on the back as that country steps out of the financial recovery program. And we finish today with some reflections on this year's Re:publica conference.</description>
+            <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=243&amp;url=http%3A%2F%2Fnewz-of-the-world.com%2Fnewz078-get-your-printers-ready%2F&amp;language=en_GB&amp;category=audio&amp;title=NEWZ078+Get+Your+Printers+Ready&amp;description=Turkish+Mining+Disaster+%E2%80%94+Donetsk+Referendum+%E2%80%94+Algerian+President+%E2%80%94+El+Ni%C3%B1o+%E2%80%94+Portugal+Economy+%E2%80%94+Re%3Apublica14+At+the+top+of+the+news+pyramid+today+is+a+major+mining+accident...&amp;tags=podcast%2C+newz%2C+news%2C+mark+fonseca+rendeiro%2C+bicyclemark%2C+tim+pritlove%2C+metaebene" type="text/html"/>
+            <psc:chapters version="1.2">
+                <psc:chapter start="00:00:00.000" title="Intro"/>
+                <psc:chapter start="00:00:14.302" title="Prologue"/>
+                <psc:chapter start="00:01:18.042" title="282 Killed in Turkish Mine Collapse"/>
+                <psc:chapter start="00:11:01.052" title="Donetsk Votes for Autonomy (and Lugansk)"/>
+                <psc:chapter start="00:22:09.375" title="Bouteflika Begins 4th Term in Algeria"/>
+                <psc:chapter start="00:27:25.870" title="El Niño Climate Expected to Return"/>
+                <psc:chapter start="00:32:55.891" title="Portugal Leaves Bailout Mode"/>
+                <psc:chapter start="00:38:57.255" title="Epilogue"/>
+            </psc:chapters>
+            <atom:link rel="http://podlove.org/deep-link" href="http://newz-of-the-world.com/newz078-get-your-printers-ready/#"/>
+            <itunes:duration>00:46:24</itunes:duration>
+            <itunes:author>Metaebene Personal Media - Tim Pritlove</itunes:author>
+            <itunes:subtitle>Turkish Mining Disaster — Donetsk Referendum — Algerian President — El Niño — Portugal Economy — Re:publica14</itunes:subtitle>
+            <itunes:summary>At the top of the news pyramid today is a major mining accident in Soma, Turkey. While over in Eastern Ukraine, two more regions have voted for independence.  The Algerian president, despite failing health and remaining largely invisible, has won a 4th term. Climate scientists say El Niño will be here any day now. Credit agencies are patting Portugal on the back as that country steps out of the financial recovery program. And we finish today with some reflections on this year's Re:publica conference.</itunes:summary>
+            <itunes:image href="http://meta.metaebene.me/media/newz/newz078-get-your-printers-ready.jpg"/>
+            <content:encoded>&lt;p&gt;
+    &lt;strong&gt;Turkish Mining Disaster — Donetsk Referendum — Algerian President — El Niño — Portugal Economy — Re:publica14&lt;/strong&gt; 
+&lt;/p&gt;
+
+&lt;p style="clear: both"&gt;&lt;a target="_blank" href="http://meta.metaebene.me/media/newz/newz078-get-your-printers-ready.jpg"&gt;&lt;img style="float: right; padding: 5px; margin: 5px; margin-left: 20px; border-style: solid; border-width: 1px; border-color: black;" src="http://meta.metaebene.me/media/newz/newz078-get-your-printers-ready.jpg" alt="Episode image for NEWZ078 Get Your Printers Ready" width="200" height="200" /&gt;&lt;/a&gt;At the top of the news pyramid today is a major mining accident in Soma, Turkey. While over in Eastern Ukraine, two more regions have voted for independence.  The Algerian president, despite failing health and remaining largely invisible, has won a 4th term. Climate scientists say El Niño will be here any day now. Credit agencies are patting Portugal on the back as that country steps out of the financial recovery program. And we finish today with some reflections on this year's Re:publica conference. &lt;/p&gt;
+
+
+
+
+
+&lt;table class="podlove-contributors-table"&gt;
+		&lt;tbody&gt;
+				    		    			    		
+
+&lt;tr&gt;
+			&lt;td class="avatar_cell"&gt;
+			&lt;img alt="avatar" src="http://meta.metaebene.me/media/metaebene/contributors/bicyclemark.jpg" class="avatar avatar-50 photo" height="50" width="50" /&gt;		&lt;/td&gt;
+		&lt;td class="title_cell"&gt;
+		Mark Fonseca Rendeiro
+					&lt;br&gt;&lt;em&gt;Amsterdam, Netherlands&lt;/em&gt;
+			&lt;/td&gt;
+			&lt;td class="social_cell"&gt;
+					&lt;a target="_blank" title="Citizenreporter.org" href="http://citizenreporter.org/"&gt;
+				&lt;img width="32" height="32" src="http://newz-of-the-world.com/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/www-128.png" class="podlove-contributor-button" alt="Citizenreporter.org" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="Twitter" href="https://twitter.com/bicyclemark"&gt;
+				&lt;img width="32" height="32" src="http://newz-of-the-world.com/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/twitter-128.png" class="podlove-contributor-button" alt="Twitter" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="Facebook" href="https://facebook.com/bicyclemark"&gt;
+				&lt;img width="32" height="32" src="http://newz-of-the-world.com/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/facebook-128.png" class="podlove-contributor-button" alt="Facebook" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="App.net" href="https://alpha.app.net/bicyclemark"&gt;
+				&lt;img width="32" height="32" src="http://newz-of-the-world.com/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/adn-128.png" class="podlove-contributor-button" alt="App.net" /&gt;
+			&lt;/a&gt;
+			&lt;/td&gt;
+			&lt;td class="donation_cell"&gt;
+					&lt;a target="_blank" title="Paypal" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=A357AWLUBN9F6"&gt;
+				&lt;img width="32" height="32" src="http://newz-of-the-world.com/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/paypal-128.png" class="podlove-contributor-button" alt="Paypal" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="Bitcoin" href="bitcoin:1Fizgx9LudoKRsrrECt87VAHPothUPCiPf"&gt;
+				&lt;img width="32" height="32" src="http://newz-of-the-world.com/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/bitcoin-128.png" class="podlove-contributor-button" alt="Bitcoin" /&gt;
+			&lt;/a&gt;
+				&lt;/td&gt;
+				&lt;td class="flattr_cell"&gt;
+											&lt;a target="_blank"
+					class="FlattrButton"
+					style="display:none;"
+					title="Flattr Mark Fonseca Rendeiro@NEWZ078 Get Your Printers Ready"
+					rel="flattr;uid:bicyclemark;button:compact;popout:0"
+					href="http://newz-of-the-world.com/newz078-get-your-printers-ready/#b8229f59ace4a526fd766984717ca047"&gt;
+						Flattr Mark Fonseca Rendeiro@NEWZ078 Get Your Printers Ready
+				&lt;/a&gt;
+					&lt;/td&gt;
+	&lt;/tr&gt;		    			    		    			    		
+
+&lt;tr&gt;
+			&lt;td class="avatar_cell"&gt;
+			&lt;img alt="avatar" src="http://www.gravatar.com/avatar/97391367796db965d19e63b690e72b3d?s=50&amp;d=mm&amp;r=g" class="avatar avatar-50 photo" height="50" width="50" /&gt;		&lt;/td&gt;
+		&lt;td class="title_cell"&gt;
+		Tim Pritlove
+					&lt;br&gt;&lt;em&gt;Berlin, Germany&lt;/em&gt;
+			&lt;/td&gt;
+			&lt;td class="social_cell"&gt;
+					&lt;a target="_blank" title="Metaebene Personal Media" href="http://metaebene.me"&gt;
+				&lt;img width="32" height="32" src="http://newz-of-the-world.com/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/www-128.png" class="podlove-contributor-button" alt="Metaebene Personal Media" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="App.net" href="https://alpha.app.net/timpritlove"&gt;
+				&lt;img width="32" height="32" src="http://newz-of-the-world.com/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/adn-128.png" class="podlove-contributor-button" alt="App.net" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="Twitter" href="https://twitter.com/timpritlove"&gt;
+				&lt;img width="32" height="32" src="http://newz-of-the-world.com/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/twitter-128.png" class="podlove-contributor-button" alt="Twitter" /&gt;
+			&lt;/a&gt;
+			&lt;/td&gt;
+			&lt;td class="donation_cell"&gt;
+					&lt;a target="_blank" title="Paypal" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=D5PP5L7BBHY42"&gt;
+				&lt;img width="32" height="32" src="http://newz-of-the-world.com/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/paypal-128.png" class="podlove-contributor-button" alt="Paypal" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="Bitcoin" href="bitcoin:134BBLcbJfkDBopUeNyWuiwASPgoRyxKiF"&gt;
+				&lt;img width="32" height="32" src="http://newz-of-the-world.com/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/bitcoin-128.png" class="podlove-contributor-button" alt="Bitcoin" /&gt;
+			&lt;/a&gt;
+				&lt;/td&gt;
+				&lt;td class="flattr_cell"&gt;
+											&lt;a target="_blank"
+					class="FlattrButton"
+					style="display:none;"
+					title="Flattr Tim Pritlove@NEWZ078 Get Your Printers Ready"
+					rel="flattr;uid:timpritlove;button:compact;popout:0"
+					href="http://newz-of-the-world.com/newz078-get-your-printers-ready/#542476f961f79a0e2371ff04d4cd0b12"&gt;
+						Flattr Tim Pritlove@NEWZ078 Get Your Printers Ready
+				&lt;/a&gt;
+					&lt;/td&gt;
+	&lt;/tr&gt;		    			    			&lt;/tbody&gt;
+&lt;/table&gt;
+
+	&lt;script type="text/javascript"&gt;
+(function() {
+	var s = document.createElement('script'), t = document.getElementsByTagName('script')[0];
+	s.type = 'text/javascript';
+	s.async = true;
+	s.src = 'http://api.flattr.com/js/0.6/load.js?mode=auto';
+	t.parentNode.insertBefore(s, t);
+})();
+&lt;/script&gt;
+
+
+&lt;span class="podlove-duration"&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 00:46:24&lt;/span&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a style="font-style: normal;" href="http://www.bbc.com/news/world-europe-27399229"&gt;Turkish Coal Mining Accident Sparks Anger&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a style="font-style: normal;" href="http://www.theglobeandmail.com/news/world/in-ukraine-donetsk-peoples-republic-lurches-to-life/article18621492/"&gt;Two New Independent States Emerge in Eastern Ukraine&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a style="font-style: normal;" href="http://www.theguardian.com/world/2014/apr/28/abdelaziz-bouteflika-algerian-president-election"&gt;Algerian President Begins 4th Term&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a style="font-style: normal;" href="http://news.sciencemag.org/climate/2014/05/el-nino-coming-back"&gt;El Niño Predicted to&#160;Return Very Soon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a style="font-style: normal;" href="http://www.newyorker.com/online/blogs/elements/2014/05/the-west-antarctica-ice-sheet-melt-defending-the-drama.html"&gt;West Antarctic Ice Sheet Melt&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a style="font-style: normal;" href="http://www.rte.ie/news/business/2014/0509/616252-portugal-rating/"&gt;Rating Agencies Raise Portugal&amp;#8217;s Status&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a style="font-style: normal;" href="https://www.youtube.com/watch?v=GjZwF5KRCbo"&gt;re:publica14 &amp;#8211; Tim&amp;#8217;s Talk&lt;/a&gt;: &lt;a style="font-style: normal;" href="https://www.youtube.com/watch?v=GjZwF5KRCbo"&gt;The Podlove Matrix&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a style="font-style: normal;" href="https://www.flickr.com/photos/chrontourage/3277056691/in/photolist-5ZzLMr-cHEeK-7ytAxd-5htbpP-5avcra-cHEfp-8LQP1G-9xnZWr-7fJEv-8NfJw8-bxJfvo-ioWw6w-ioX2x4-9wXsUd-f9HvAQ-f9tqDX-f9HA33-x3Uf4-39Bbo4-8VBZVE-q8Gba-5P9y9-axivge-toHoK-5YFRuJ-3KRQt6-6uAK5L-4oexRC-6q9Ab5-3L3roS-7R7GKe-7R9n6B-6CmiT2-9Ju8iC-eXLmFJ-qSVWM-7599v9-755smZ-755t1c-5SUDUS-5SUCn5-5SQh9c-5SUyV9-5SUEp3-5SQhBi-5SQj7g-5SUxZE-5SQe2T-5SQiz6-5SQfB4"&gt;Episode Image by&lt;/a&gt; &lt;a style="font-style: normal;" href="http://flickr.com/photos/mattwedgwood"&gt;Mathew&#160;Wedgewood / flickr&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+ &lt;p&gt;&lt;a href="http://newz-of-the-world.com/?flattrss_redirect&amp;amp;id=1547&amp;amp;md5=19b99f879b41fd98d78006706aa58f30" title="Flattr" target="_blank"&gt;&lt;img src="http://newz-of-the-world.com/wp-content/plugins/flattr/img/flattr-badge-large.png" alt="flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/newz-of-the-world/~4/WiFmgDnjqXM" height="1" width="1"/&gt;</content:encoded>
+            <atom:contributor>
+                <atom:name>Mark Fonseca Rendeiro</atom:name>
+                <atom:uri>http://citizenreporter.org/</atom:uri>
+            </atom:contributor>
+            <atom:contributor>
+                <atom:name>Tim Pritlove</atom:name>
+                <atom:uri>http://tim.pritlove.org/</atom:uri>
+            </atom:contributor>
+            <feedburner:origLink xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">http://newz-of-the-world.com/newz078-get-your-printers-ready/</feedburner:origLink>
+            <enclosure url="http://feedproxy.google.com/~r/newz-of-the-world/~5/HUujbQXykv0/newz078-get-your-printers-ready.m4a" length="20767062" type="audio/mp4"/>
+            <feedburner:origEnclosureLink xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">http://meta.metaebene.me/media/newz/newz078-get-your-printers-ready.m4a</feedburner:origEnclosureLink>
+        </item>
         <item>
             <title>NEWZ077 Slowest Military Coup Ever</title>
             <link>http://feedproxy.google.com/~r/newz-of-the-world/~3/edbsGZkAcoM/</link>
@@ -3025,7 +3181,7 @@ After pointing to the recent fate of a journalist personally known to Mark, we p
         </item>
         <item>
             <title>NEWZ058 Fire the Consultants</title>
-            <link>http://feedproxy.google.com/~r/newz-of-the-world/~3/JOecpNdDdso/</link>
+            <link>http://newz-of-the-world.com/newz058-fire-the-consultants/</link>
             <pubDate>Wed, 28 Aug 2013 09:52:00 +0000</pubDate>
             <guid isPermaLink="false">podlove-2013-08-28t09:24:56+00:00-4ed7370678c4145</guid>
             <description>This week it is a question of if and what kind of intervention will take place in Syria. The French president warns of big trouble in the Central African Republic. Every student in Liberia fails the University entrance exam. Putin in ladies underwear painting is confiscated by police.  Zuckerberg unveils internet.org. And Shafiur Rahman's breathtaking Beggars of Bangladesh photos.  NEWZ Source for this week is an internet classic, slate.com.</description>
@@ -3043,6 +3199,7 @@ After pointing to the recent fate of a journalist personally known to Mark, we p
                 <psc:chapter start="00:42:50.771" title="Epilogue"/>
             </psc:chapters>
             <atom:link rel="http://podlove.org/deep-link" href="http://newz-of-the-world.com/newz058-fire-the-consultants/#"/>
+            <enclosure url="http://meta.metaebene.me/media/newz/newz058-fire-the-consultants.m4a" length="19897455" type="audio/mp4"/>
             <itunes:duration>00:44:31</itunes:duration>
             <itunes:author>Metaebene Personal Media - Tim Pritlove</itunes:author>
             <itunes:subtitle>Intervention in Syria — CAR in Trouble — Education Liberia — Putin Painting — internet.org — Bangladesh Beggars</itunes:subtitle>
@@ -3166,7 +3323,7 @@ After pointing to the recent fate of a journalist personally known to Mark, we p
 &lt;li&gt;NEWZ Source: &lt;a href="http://www.slate.com/" target="_blank"&gt;Slate.com&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Episode Image: &lt;a href="http://www.flickr.com/photos/donkeyhotey/7216473832/" target="_blank"&gt;Mark Zuckerberg Caricature&lt;/a&gt; by &lt;a href="http://www.flickr.com/photos/donkeyhotey/" target="_blank"&gt;DonkeyHotey&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
- &lt;p&gt;&lt;a href="http://newz-of-the-world.com/?flattrss_redirect&amp;amp;id=1225&amp;amp;md5=8df6f7c11d45637e704ff2396a809a9a" title="Flattr" target="_blank"&gt;&lt;img src="http://newz-of-the-world.com/wp-content/plugins/flattr/img/flattr-badge-large.png" alt="flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/newz-of-the-world/~4/JOecpNdDdso" height="1" width="1"/&gt;</content:encoded>
+ &lt;p&gt;&lt;a href="http://newz-of-the-world.com/?flattrss_redirect&amp;amp;id=1225&amp;amp;md5=8df6f7c11d45637e704ff2396a809a9a" title="Flattr" target="_blank"&gt;&lt;img src="http://newz-of-the-world.com/wp-content/plugins/flattr/img/flattr-badge-large.png" alt="flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;</content:encoded>
             <atom:contributor>
                 <atom:name>Mark Fonseca Rendeiro</atom:name>
                 <atom:uri>http://citizenreporter.org/</atom:uri>
@@ -3175,9 +3332,6 @@ After pointing to the recent fate of a journalist personally known to Mark, we p
                 <atom:name>Tim Pritlove</atom:name>
                 <atom:uri>http://tim.pritlove.org/</atom:uri>
             </atom:contributor>
-            <feedburner:origLink xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">http://newz-of-the-world.com/newz058-fire-the-consultants/</feedburner:origLink>
-            <enclosure url="http://feedproxy.google.com/~r/newz-of-the-world/~5/MzABJ2A4Pdk/newz058-fire-the-consultants.m4a" length="19897455" type="audio/mp4"/>
-            <feedburner:origEnclosureLink xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">http://meta.metaebene.me/media/newz/newz058-fire-the-consultants.m4a</feedburner:origEnclosureLink>
         </item>
         <item>
             <title>NEWZ057 It’s Ugly and it is Annoying</title>

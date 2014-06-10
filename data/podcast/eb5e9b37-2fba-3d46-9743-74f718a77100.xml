@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:psc="http://podlove.org/simple-chapters" xmlns:fh="http://purl.org/syndication/history/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:psc="http://podlove.org/simple-chapters" xmlns:fh="http://purl.org/syndication/history/1.0" version="2.0">
     <channel>
         <title>Logbuch:Netzpolitik</title>
         <link>http://logbuch-netzpolitik.de</link>
         <description>Rückblicke, Einblicke und Ausblicke auf das netzpolitische Geschehen als wöchentlicher Podcast</description>
-        <lastBuildDate>Fri, 02 May 2014 15:35:16 +0000</lastBuildDate>
+        <lastBuildDate>Thu, 15 May 2014 11:49:19 +0000</lastBuildDate>
         <atom:link rel="alternate" type="application/rss+xml" title="Logbuch:Netzpolitik (MP3 Audio)" href="http://logbuch-netzpolitik.de/feed/mp3/?redirect=no"/>
         <atom:link rel="alternate" type="application/rss+xml" title="Logbuch:Netzpolitik (Ogg Vorbis Audio)" href="http://logbuch-netzpolitik.de/feed/oga/?redirect=no"/>
         <atom:link rel="next" href="http://logbuch-netzpolitik.de/feed/m4a/?paged=2&amp;redirect=no"/>
@@ -3325,7 +3325,7 @@ Man kann sich dagegen wehren.&lt;/p&gt;
 &lt;li&gt;&lt;a href="http://www.google.de/url?sa=t&amp;amp;rct=j&amp;amp;q=&amp;amp;esrc=s&amp;amp;source=web&amp;amp;cd=1&amp;amp;cad=rja&amp;amp;ved=0CCkQFjAA&amp;amp;url=http%3A%2F%2Flogbuch-netzpolitik.de%2Flnp080-digitaler-klimawandel&amp;amp;ei=6WJ7UquGJ8TnswaE14CADQ&amp;amp;usg=AFQjCNHmeYgbnbZInYfgKvtik_KxySFJ-g&amp;amp;sig2=omebKJyqWfqPrJF3gUcztQ&amp;amp;bvm=bv.56146854,d.Yms"&gt;LNP080 Digitaler Klimawandel&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://www.ccc.de/de/updates/2013/routerzwang"&gt;Chaos Computer Club nimmt Stellung zum Routerzwang&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a style="font-style: normal;" href="http://www.faz.net/aktuell/politik/grosse-koalition-union-und-spd-wollen-vorratsdatenspeicherung-12642438.html"&gt;Große Koalition will Vorratsdatenspeicherung&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://chaosradio.ccc.de/cr191.html"&gt;CR191&#160;Die großen Brüder&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://chaosradio.ccc.de/cr191.html" class="broken_link"&gt;CR191&#160;Die großen Brüder&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://www.heise.de/newsticker/meldung/CDU-und-CSU-wollen-Internet-im-NSA-Stil-ueberwachen-2038476.html"&gt;CDU und CSU wollen Internet im NSA-Stil überwachen&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://www.sueddeutsche.de/politik/plaene-des-bundesinnenministers-spd-lehnt-zugriff-auf-mautdaten-ab-1.1811511"&gt;Autobahn-Maut: Friedrich fordert Zugriff auf Mautdaten&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://www.spiegel.de/politik/deutschland/ueberwachung-friedrich-zieht-mautdaten-vorstoss-zurueck-a-932151.html"&gt;Überwachung: Friedrich zieht Mautdaten-Vorstoß zurück&lt;/a&gt;&lt;/li&gt;
@@ -3859,7 +3859,7 @@ Die Franzosen sind empört. EMPÖRT!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Auch in Schleswig-Holstein dürfen Unternehmen Facebook-Seiten haben&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://www.datenschutzzentrum.de/kontakt/ueber-uns.htm"&gt;ULD&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.ndr.de/ratgeber/netzwelt/facebook1055.html"&gt;NDR:&#160;Facebook-Prozess: Schlappe für Datenschützer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.ndr.de/ratgeber/netzwelt/facebook1055.html" class="broken_link"&gt;NDR:&#160;Facebook-Prozess: Schlappe für Datenschützer&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1&gt;Bundesnachrichtendienst zapft bis zu 25 Provider in Deutschland an&lt;/h1&gt;
 &lt;ul&gt;
@@ -5134,7 +5134,7 @@ Wir sprechen natürlich über die jüngsten Neuigkeiten rund um den NSA-GCHQ-Ska
 &lt;li&gt;&lt;a href="http://pastebin.com/Gc1TP48z"&gt;Koen martens: i quit you not&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://twitter.com/mfb/status/363753425403510784"&gt;The incident&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://noisysquare.com/n2-organizations/"&gt;Noisy Square: Organizations&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://noisysquare.com/broken-simcards/" class="broken_link"&gt;Linus N.: Broken simcards&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://noisysquare.com/broken-simcards/"&gt;Linus N.: Broken simcards&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://noisysquare.com/ethics-and-power-in-the-long-war-eleanor-saitta-dymaxion/"&gt;Ethics and Power in the Long War – Eleanor Saitta (Dymaxion)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Edward&#160;Snowden&lt;/strong&gt;&lt;/p&gt;
@@ -8175,7 +8175,7 @@ Thematisch dreht sich natürlich alles um die "Neuigkeit" PRISM und die hochgef�
 &lt;li&gt;&lt;a href="http://www.bundestag.de/dokumente/textarchiv/2013/43243153_kw11_pa_inneres/"&gt;Sachverständigen-Anhörung des Innenausschusses&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://www.bundestag.de/dokumente/textarchiv/2013/43243153_kw11_pa_inneres/"&gt;bundestag.de:&#160;Geplante Auskunftsregelung unter Experten umstritten&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://wiki.vorratsdatenspeicherung.de/Bestandsdaten-StN"&gt;AK Vorrat: Stellungnahme zum Gesetzesentwurf&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://neusprech.org/tag/vorratsdatenspeicherung/" class="broken_link"&gt;Euphemismen zur Vorratsdatenspeicherung&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://neusprech.org/tag/vorratsdatenspeicherung/"&gt;Euphemismen zur Vorratsdatenspeicherung&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Aus Facebook-Likes lassen sich Persönlichkeitseigenschaften vorhersagen&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Forscher haben das Geschäftsmodell von Facebook überraschend bestätigt. Für den Laien mögen die Ergebnisse überraschend sein.&lt;/p&gt;
@@ -9113,7 +9113,7 @@ Thematisch dreht sich natürlich alles um die "Neuigkeit" PRISM und die hochgef�
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Epilog&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="http://neusprech.org/kategorie/neusprechfunk/" class="broken_link"&gt;Neusprechfunk&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://neusprech.org/kategorie/neusprechfunk/"&gt;Neusprechfunk&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
  &lt;p&gt;&lt;a href="http://logbuch-netzpolitik.de/?flattrss_redirect&amp;amp;id=1507&amp;amp;md5=cfa5839b89a05761c27f1629834e31ce" title="Flattr" target="_blank"&gt;&lt;img src="http://metaebene.me/lnp/wp-content/plugins/flattr/img/flattr-badge-large.png" alt="flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;</content:encoded>
             <atom:contributor>
@@ -10503,7 +10503,7 @@ Wir behandeln die kommende EU-Datenschutzverordnung, den nicht enden wollenden S
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="http://logbuch-netzpolitik.de/lnp031"&gt;LNP031 Handwerkliche Fehler&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://www.sabine-verheyen.de/go/presse-pressemeldungen-details/104.html"&gt;Sabine Verheyen: Europaparlament spricht sich gegen zentrale Internet-Regierung aus&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://web.archive.org/web/20130526043946/http://www.net-politics.eu/2012/11/npeu003-what-is-the-itu/"&gt;NPEU003 What is the ITU?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://web.archive.org/web/20130526043946/http://www.net-politics.eu/2012/11/npeu003-what-is-the-itu/" class="broken_link"&gt;NPEU003 What is the ITU?&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;p&gt;&lt;strong&gt;Netzneutralität: Digiges startet Vodafail-Kampagne&lt;/strong&gt;&lt;/p&gt;
@@ -14468,7 +14468,7 @@ synchronisiert.&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://logbuch-netzpolitik.de/lnp011"&gt;LNP011 Popcorn-Potenzial&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://netzpolitik.org/2012/gerichtsurteil-zu-funkzellenabfrage-in-dresden-alles-im-rahmen-des-gesetzes/"&gt;Andre Meister, netzpolitik.org:&#160;Gerichtsurteil zu Funkzellenabfrage in Dresden: Alles im Rahmen des Gesetzes (Update)&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://netzpolitik.org/wp-upload/pmdresden.pdf"&gt;Pressemitteilung der Staatsanwaltschaft Dresden&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://neusprech.org/funkzellenabfrage/" class="broken_link"&gt;Kai Biermann, Neusprechblog: Funkzellenabfrage&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://neusprech.org/funkzellenabfrage/"&gt;Kai Biermann, Neusprechblog: Funkzellenabfrage&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Gründung der &amp;#8220;Internet Defense League&amp;#8221;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Der Blackout Day anlässlich SOPA und PIPA soll nur der Anfang gewesen sein. Die Internet Defense League will dafür sorgen, dass das Internet NIEMALS verliert, so der vielversprechende Slogan.&lt;/p&gt;
@@ -18986,8 +18986,8 @@ Ansonsten gab es wieder viel zu besprechen und wieder gab es zu dem einen oder a
 &lt;ol&gt;
 &lt;li&gt;die Entscheidung des britischen High Court, dass eine Auslieferung von Julian Assange an Schweden zulässig sei bringt neue Bewegung in den Fall WikiLeaks. Wir diskutieren die Ereignisse und die Geschichte von WikiLeaks wie sie sich bisher abgezeichnet hat
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="http://www.judiciary.gov.uk/Resources/JCO/Documents/Judgments/assange-summary.pdf"&gt; Pressemeitteilung des High Court&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.judiciary.gov.uk/Resources/JCO/Documents/Judgments/assange-judgment.pdf"&gt; Vollständiges Urteil&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.judiciary.gov.uk/Resources/JCO/Documents/Judgments/assange-summary.pdf" class="broken_link"&gt; Pressemeitteilung des High Court&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.judiciary.gov.uk/Resources/JCO/Documents/Judgments/assange-judgment.pdf" class="broken_link"&gt; Vollständiges Urteil&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://shop.wikileaks.org/donate"&gt; neue Wikileaks-Spendenseite&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Erich_M%C3%B6chel"&gt; WP: Erich Möchel&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://fm4.orf.at/stories/1690025/"&gt; Auslieferungswahrscheinlichkeit Schweden / UK&lt;/a&gt;&lt;/li&gt;
