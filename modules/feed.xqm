@@ -1,10 +1,7 @@
 xquery version "3.0";
-
-
 module namespace feed="http://podlove.org/podlove-matrix/feed";
 
 import module namespace config="http://podlove.org/podlove-matrix/config" at "config.xqm";
-
 import module namespace httpclient="http://exist-db.org/xquery/httpclient";
 
 declare namespace psc="http://podlove.org/simple-chapters";
@@ -13,6 +10,8 @@ declare namespace feedburner="http://rssnamespace.org/feedburner/ext/1.0";
 declare namespace itunes="http://www.itunes.com/dtds/podcast-1.0.dtd";
 declare namespace atom="http://www.w3.org/2005/Atom";
 declare namespace content="http://purl.org/rss/1.0/modules/content/";
+
+declare variable $feed:data-root := $config:app-root || "/data/podcast";
 
 (: get all feed pages :)
 declare %private function feed:get-feed-page($data,$has-next) {
@@ -43,8 +42,15 @@ declare function feed:aggregate-feed($feedURI as xs:anyURI) {
 
 };
 
+
+declare function feed:store-feed($feedURI as xs:anyURI) {
+    let $login := xmldb:login($feed:data-root, "admin", "")
+    let $data := feed:aggregate-feed($feedURI)//rss
+    return
+        xmldb:store($feed:data-root,util:uuid($data//channel/title/text()) || ".xml", $data)
+};
+
 declare function feed:updates-feeds($feedURI as xs:anyURI) {
-    let $data-root := $config:app-root || "/data/podcast"
     let $feeds := <feeds>
         <feed>http://cre.fm/feed/m4a/</feed>
         <feed>http://freakshow.fm/feed/m4a/</feed>
@@ -56,10 +62,8 @@ declare function feed:updates-feeds($feedURI as xs:anyURI) {
         <feed>http://newz-of-the-world.com/feed/m4a</feed>
     </feeds>
 
-    return
-        for $feed in $feeds//feed
-        let $data := feed:aggregate-feed(xs:anyURI($feed/text()))
-        return
-            xmldb:store($data-root,util:uuid($data//channel/title/text()) || ".xml", $data)
+    for $feed in $feeds//feed
+        return 
+        feed:store-feed(xs:anyURI($feed/text()))
     
 };
