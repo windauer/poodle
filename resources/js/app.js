@@ -12,10 +12,12 @@ jQuery(document).ready(function() {
         console.log("feedURL: ", feedURL)
         var jqxhr = $.ajax({
                 type: "POST",
+                dataType: "json",
                 url: "modules/feed-validator.xql",
                 data: { feedURL: feedURL}
             }).done(function(data) {
                 console.log( "success data:'",data,"'");
+                
             })
             .fail(function(error) {
                 console.log( "fail error:'",error,"'");
