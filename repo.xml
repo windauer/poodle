@@ -2,7 +2,7 @@
 <meta xmlns="http://exist-db.org/xquery/repo">
     <description>The Podlove Matrix</description>
     <author>lasse</author>
-    <website/>
+    <website>podlove.org</website>
     <status>alpha</status>
     <license>MIT</license>
     <copyright>true</copyright>
@@ -10,5 +10,5 @@
     <target>podlove-matrix</target>
     <prepare>pre-install.xql</prepare>
     <finish>post-install.xql</finish>
-    <permissions xmlns:repo="http://exist-db.org/xquery/repo" password="solutions!" user="lasse" group="dba" mode="rwxrwxr-x"/>
+    <permissions user="podlove" password="" group="" mode="rwxrwxr-x"/>
 </meta>

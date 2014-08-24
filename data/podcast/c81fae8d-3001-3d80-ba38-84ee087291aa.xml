@@ -4,7 +4,7 @@
         <title>Newz of the World</title>
         <link>http://newz-of-the-world.com</link>
         <description>Tim and Mark talk about the Newz™</description>
-        <lastBuildDate>Wed, 23 Jul 2014 07:41:58 +0000</lastBuildDate>
+        <lastBuildDate>Mon, 11 Aug 2014 07:38:23 +0000</lastBuildDate>
         <atom:link rel="alternate" type="application/rss+xml" title="Newz of the World (MP3)" href="http://newz-of-the-world.com/feed/mp3/"/>
         <atom:link rel="alternate" type="application/rss+xml" title="Newz of the World (Vorbis)" href="http://newz-of-the-world.com/feed/oga/"/>
         <atom:link rel="next" href="http://newz-of-the-world.com/feed/m4a/?paged=2"/>
@@ -20,7 +20,7 @@
             <atom:name>Tim Pritlove</atom:name>
             <atom:uri>http://tim.pritlove.org/</atom:uri>
         </atom:contributor>
-        <generator>Podlove Podcast Publisher v1.10.16-alpha</generator>
+        <generator>Podlove Podcast Publisher v1.10.19-alpha</generator>
         <itunes:author>Metaebene Personal Media - Tim Pritlove</itunes:author>
         <itunes:summary>Newz of the World is a weekly show about world news. Mark Fonseca Rendeiro and Tim Pritlove come together to present interesting reports and discuss their aspects and possible consequences. Newz of the world wants to be an alternative window to the common media flow and cherry picks interesting developments for you.</itunes:summary>
         <itunes:category text="News &amp; Politics"/>
@@ -39,6 +39,165 @@
         <feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="newz-of-the-world"/>
         <atom:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/"/>
         <atom:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://metaebene.superfeedr.com/"/>
+        <item>
+            <title>NEWZ084 Passing Gas</title>
+            <link>http://feedproxy.google.com/~r/newz-of-the-world/~3/SCCIkEtObiA/</link>
+            <pubDate>Sat, 09 Aug 2014 19:42:35 +0000</pubDate>
+            <guid isPermaLink="false">podlove-2014-08-09t16:17:38+00:00-6c7a943ec68fcf3</guid>
+            <description>As the summer sun warms Europe, US air strikes hit northern Iraq. Israel and Gaza continue to be unable to reach a cease fire. In eastern Ukraine all reports indicate that government forces have separatists surrounded. Nigeria has declared a state of emergency as the Ebola outbreak becomes a global crisis. Meanwhile in southeast Asia 2 former Khmer rouge leaders are found guilty of crimes against humanity. On the business side of things, General Electric has successfully acquired the energy component of Alstom.  This week's NEWZ Source is Bloomberg.com for the financial side of international news.</description>
+            <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=243&amp;url=http%3A%2F%2Fnewz-of-the-world.com%2Fnewz084-passing-gas%2F&amp;language=en_GB&amp;category=audio&amp;title=NEWZ084+Passing+Gas&amp;description=Air+Strikes+Iraq+%E2%80%94+Gaza-Israel+No+Truce+%E2%80%94+Ukraine+Government+Advances+%E2%80%94+International+Ebola+Emergency+%E2%80%94+Refugee+Crisis+%E2%80%94+Khmer+Rouge+Leaders+Guilty+%E2%80%94+GE+Acquires+Alstom+%E2%80%94+Bloomberg+As...&amp;tags=podcast%2C+newz%2C+news%2C+mark+fonseca+rendeiro%2C+bicyclemark%2C+tim+pritlove%2C+metaebene" type="text/html"/>
+            <psc:chapters version="1.2">
+                <psc:chapter start="00:00:00.000" title="Intro"/>
+                <psc:chapter start="00:00:14.153" title="Prologue"/>
+                <psc:chapter start="00:01:42.191" title="US conducting air strikes in Iraq on IS targets"/>
+                <psc:chapter start="00:11:00.780" title="Gaza Crisis Continues"/>
+                <psc:chapter start="00:14:38.331" title="Ukraine Government forces close in on Donetsk and Luhansk"/>
+                <psc:chapter start="00:26:14.153" title="Ebola: Nigeria declares state of emergency"/>
+                <psc:chapter start="00:32:20.233" title="Death toll of migrants trying to get to Europe reaches new heights"/>
+                <psc:chapter start="00:38:18.502" title="Two former Khmer Rouge leaders found guilty of crimes against humanity"/>
+                <psc:chapter start="00:41:55.914" title="General Electric Buys Alstom's Energy Unit"/>
+                <psc:chapter start="00:47:15.279" title="Newz Source: Bloomberg"/>
+                <psc:chapter start="00:49:25.746" title="Epilogue"/>
+            </psc:chapters>
+            <atom:link rel="http://podlove.org/deep-link" href="http://newz-of-the-world.com/newz084-passing-gas/#"/>
+            <itunes:duration>00:50:11</itunes:duration>
+            <itunes:author>Metaebene Personal Media - Tim Pritlove</itunes:author>
+            <itunes:subtitle>Air Strikes Iraq — Gaza-Israel No Truce — Ukraine Government Advances — International Ebola Emergency — Refugee Crisis — Khmer Rouge Leaders Guilty — GE Acquires Alstom — Bloomberg</itunes:subtitle>
+            <itunes:summary>As the summer sun warms Europe, US air strikes hit northern Iraq. Israel and Gaza continue to be unable to reach a cease fire. In eastern Ukraine all reports indicate that government forces have separatists surrounded. Nigeria has declared a state of emergency as the Ebola outbreak becomes a global crisis. Meanwhile in southeast Asia 2 former Khmer rouge leaders are found guilty of crimes against humanity. On the business side of things, General Electric has successfully acquired the energy component of Alstom.  This week's NEWZ Source is Bloomberg.com for the financial side of international news.</itunes:summary>
+            <itunes:image href="http://meta.metaebene.me/media/newz/newz084-passing-gas.jpg"/>
+            <content:encoded>&lt;p&gt;
+    &lt;strong&gt;Air Strikes Iraq — Gaza-Israel No Truce — Ukraine Government Advances — International Ebola Emergency — Refugee Crisis — Khmer Rouge Leaders Guilty — GE Acquires Alstom — Bloomberg&lt;/strong&gt; 
+&lt;/p&gt;
+
+&lt;p style="clear: both"&gt;&lt;a target="_blank" href="http://meta.metaebene.me/media/newz/newz084-passing-gas.jpg"&gt;&lt;img style="float: right; padding: 5px; margin: 5px; margin-left: 20px; border-style: solid; border-width: 1px; border-color: black;" src="http://meta.metaebene.me/media/newz/newz084-passing-gas.jpg" alt="Episode image for NEWZ084 Passing Gas" width="200" height="200" /&gt;&lt;/a&gt;As the summer sun warms Europe, US air strikes hit northern Iraq. Israel and Gaza continue to be unable to reach a cease fire. In eastern Ukraine all reports indicate that government forces have separatists surrounded. Nigeria has declared a state of emergency as the Ebola outbreak becomes a global crisis. Meanwhile in southeast Asia 2 former Khmer rouge leaders are found guilty of crimes against humanity. On the business side of things, General Electric has successfully acquired the energy component of Alstom.  This week's NEWZ Source is Bloomberg.com for the financial side of international news. &lt;/p&gt;
+
+
+
+
+
+&lt;table class="podlove-contributors-table"&gt;
+		&lt;tbody&gt;
+				    		    			    		
+
+&lt;tr&gt;
+			&lt;td class="avatar_cell"&gt;
+			&lt;img alt="avatar" src="http://meta.metaebene.me/media/metaebene/contributors/bicyclemark.jpg" class="avatar avatar-50 photo" height="50" width="50" /&gt;		&lt;/td&gt;
+		&lt;td class="title_cell"&gt;
+		Mark Fonseca Rendeiro
+					&lt;br&gt;&lt;em&gt;Amsterdam, Netherlands&lt;/em&gt;
+			&lt;/td&gt;
+			&lt;td class="social_cell"&gt;
+					&lt;a target="_blank" title="Citizenreporter.org" href="http://citizenreporter.org/"&gt;
+				&lt;img width="32" height="32" src="http://newz-of-the-world.com/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/www-128.png" class="podlove-contributor-button" alt="Citizenreporter.org" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="Twitter" href="https://twitter.com/bicyclemark"&gt;
+				&lt;img width="32" height="32" src="http://newz-of-the-world.com/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/twitter-128.png" class="podlove-contributor-button" alt="Twitter" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="Facebook" href="https://facebook.com/bicyclemark"&gt;
+				&lt;img width="32" height="32" src="http://newz-of-the-world.com/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/facebook-128.png" class="podlove-contributor-button" alt="Facebook" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="App.net" href="https://alpha.app.net/bicyclemark"&gt;
+				&lt;img width="32" height="32" src="http://newz-of-the-world.com/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/adn-128.png" class="podlove-contributor-button" alt="App.net" /&gt;
+			&lt;/a&gt;
+			&lt;/td&gt;
+			&lt;td class="donation_cell"&gt;
+					&lt;a target="_blank" title="Paypal" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=A357AWLUBN9F6"&gt;
+				&lt;img width="32" height="32" src="http://newz-of-the-world.com/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/paypal-128.png" class="podlove-contributor-button" alt="Paypal" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="Bitcoin" href="bitcoin:1Fizgx9LudoKRsrrECt87VAHPothUPCiPf"&gt;
+				&lt;img width="32" height="32" src="http://newz-of-the-world.com/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/bitcoin-128.png" class="podlove-contributor-button" alt="Bitcoin" /&gt;
+			&lt;/a&gt;
+				&lt;/td&gt;
+				&lt;td class="flattr_cell"&gt;
+											&lt;a target="_blank"
+					class="FlattrButton"
+					style="display:none;"
+					title="Flattr Mark Fonseca Rendeiro@NEWZ084 Passing Gas"
+					rel="flattr;uid:bicyclemark;button:compact;popout:0"
+					href="http://newz-of-the-world.com/newz084-passing-gas/#b8229f59ace4a526fd766984717ca047"&gt;
+						Flattr Mark Fonseca Rendeiro@NEWZ084 Passing Gas
+				&lt;/a&gt;
+					&lt;/td&gt;
+	&lt;/tr&gt;		    			    		    			    		
+
+&lt;tr&gt;
+			&lt;td class="avatar_cell"&gt;
+			&lt;img alt="avatar" src="https://www.gravatar.com/avatar/97391367796db965d19e63b690e72b3d?s=50&amp;d=mm&amp;r=g" class="avatar avatar-50 photo" height="50" width="50" /&gt;		&lt;/td&gt;
+		&lt;td class="title_cell"&gt;
+		Tim Pritlove
+					&lt;br&gt;&lt;em&gt;Ulm, Germany&lt;/em&gt;
+			&lt;/td&gt;
+			&lt;td class="social_cell"&gt;
+					&lt;a target="_blank" title="Metaebene Personal Media" href="http://metaebene.me"&gt;
+				&lt;img width="32" height="32" src="http://newz-of-the-world.com/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/www-128.png" class="podlove-contributor-button" alt="Metaebene Personal Media" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="App.net" href="https://alpha.app.net/timpritlove"&gt;
+				&lt;img width="32" height="32" src="http://newz-of-the-world.com/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/adn-128.png" class="podlove-contributor-button" alt="App.net" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="Twitter" href="https://twitter.com/timpritlove"&gt;
+				&lt;img width="32" height="32" src="http://newz-of-the-world.com/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/twitter-128.png" class="podlove-contributor-button" alt="Twitter" /&gt;
+			&lt;/a&gt;
+			&lt;/td&gt;
+			&lt;td class="donation_cell"&gt;
+					&lt;a target="_blank" title="Paypal" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=D5PP5L7BBHY42"&gt;
+				&lt;img width="32" height="32" src="http://newz-of-the-world.com/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/paypal-128.png" class="podlove-contributor-button" alt="Paypal" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="Bitcoin" href="bitcoin:134BBLcbJfkDBopUeNyWuiwASPgoRyxKiF"&gt;
+				&lt;img width="32" height="32" src="http://newz-of-the-world.com/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/bitcoin-128.png" class="podlove-contributor-button" alt="Bitcoin" /&gt;
+			&lt;/a&gt;
+				&lt;/td&gt;
+				&lt;td class="flattr_cell"&gt;
+											&lt;a target="_blank"
+					class="FlattrButton"
+					style="display:none;"
+					title="Flattr Tim Pritlove@NEWZ084 Passing Gas"
+					rel="flattr;uid:timpritlove;button:compact;popout:0"
+					href="http://newz-of-the-world.com/newz084-passing-gas/#542476f961f79a0e2371ff04d4cd0b12"&gt;
+						Flattr Tim Pritlove@NEWZ084 Passing Gas
+				&lt;/a&gt;
+					&lt;/td&gt;
+	&lt;/tr&gt;		    			    			&lt;/tbody&gt;
+&lt;/table&gt;
+
+	&lt;script type="text/javascript"&gt;
+(function() {
+	var s = document.createElement('script'), t = document.getElementsByTagName('script')[0];
+	s.type = 'text/javascript';
+	s.async = true;
+	s.src = 'https://api.flattr.com/js/0.6/load.js?mode=auto';
+	t.parentNode.insertBefore(s, t);
+})();
+&lt;/script&gt;
+
+
+&lt;span class="podlove-duration"&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 00:50:11&lt;/span&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a style="font-style: normal;" href="http://online.wsj.com/articles/u-s-planes-start-airstrike-on-iraq-militants-1407503573"&gt;US Launches Airstrikes in Northern Iraq&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a style="font-style: normal;" href="http://www.haaretz.com/news/diplomacy-defense/1.609676"&gt;Israel-Gaza: No Ceasefire&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a style="font-style: normal;" href="http://www.bloomberg.com/news/2014-08-08/ukraine-says-it-s-tightening-encirclement-of-rebels.html"&gt;Ukrainian Government Closes in on Rebels&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a style="font-style: normal;" href="http://www.bbc.com/news/world-europe-28687172"&gt;Russia Puts New Sanctions on Food from West&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a style="font-style: normal;" href="http://www.cbc.ca/news/health/ebola-outbreak-deemed-a-global-health-emergency-by-who-1.2730931"&gt;WHO Declares Ebola Global Health Emergency&#160;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a style="font-style: normal;" href="http://www.telegraph.co.uk/news/worldnews/europe/france/11021739/Calais-thousands-of-migrants-waiting-hoping-to-get-to-Britain.html"&gt;Thousands of Refugees Wait in Calais&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a style="font-style: normal;" href="http://www.nytimes.com/2014/08/08/world/asia/decades-after-khmer-rouges-rule-2-senior-leaders-are-convicted-in-cambodia.html?_r=0"&gt;2 Khmer Rouge Leaders Found Guilty in Cambodia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a style="font-style: normal;" href="http://www.denverpost.com/breakingnews/ci_26306230/khmer-rouge-diary-everyone-works-like-animals"&gt;Khmer Rouge Era Diary Published&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a style="font-style: normal;" href="http://www.forbes.com/sites/greatspeculations/2014/06/25/ge-set-to-expand-its-power-business-with-alstom-acquisition/"&gt;GE Acquires Alstom Energy Unit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;NEWZ Source: &lt;a style="font-style: normal;" href="http//bloomberg.com" class="broken_link"&gt;Bloomberg.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+ &lt;p&gt;&lt;a href="http://newz-of-the-world.com/?flattrss_redirect&amp;amp;id=1586&amp;amp;md5=44bbe389deb4c103bfcddcd65c8ae83d" title="Flattr" target="_blank"&gt;&lt;img src="http://newz-of-the-world.com/wp-content/plugins/flattr/img/flattr-badge-large.png" alt="flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/newz-of-the-world/~4/SCCIkEtObiA" height="1" width="1"/&gt;</content:encoded>
+            <atom:contributor>
+                <atom:name>Mark Fonseca Rendeiro</atom:name>
+                <atom:uri>http://citizenreporter.org/</atom:uri>
+            </atom:contributor>
+            <atom:contributor>
+                <atom:name>Tim Pritlove</atom:name>
+                <atom:uri>http://tim.pritlove.org/</atom:uri>
+            </atom:contributor>
+            <feedburner:origLink xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">http://newz-of-the-world.com/newz084-passing-gas/</feedburner:origLink>
+            <enclosure url="http://feedproxy.google.com/~r/newz-of-the-world/~5/kKJrj1eTCAs/newz084-passing-gas.m4a" length="22614935" type="audio/mp4"/>
+            <feedburner:origEnclosureLink xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">http://newz-of-the-world.com/podlove/file/3576/s/feed/c/m4a/newz084-passing-gas.m4a</feedburner:origEnclosureLink>
+        </item>
         <item>
             <title>NEWZ083 Colombia Special</title>
             <link>http://feedproxy.google.com/~r/newz-of-the-world/~3/awOfDha7eQ8/</link>
@@ -364,7 +523,7 @@ Unfortunately, our connection with Daniel was quite flaky so that the show might
 &lt;p&gt;Links:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a style="font-style: normal;" href="http://rt.com/business/sochi-olympics-income-exceed-908/" target="_blank"&gt;Sochi Olympic Committee Announces 22 Million $ Profit&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a style="font-style: normal;" href="http://www.washingtonpost.com/world/europe/russian-invites-diplomats-to-inspect-shelling-site/2014/07/15/0cf467c6-0be9-11e4-bd2c-919fc31dc2e6_story.html" target="_blank"&gt;Unclaimed Air Strike In Eastern Ukraine Kills 11&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a style="font-style: normal;" href="http://www.washingtonpost.com/world/europe/russian-invites-diplomats-to-inspect-shelling-site/2014/07/15/0cf467c6-0be9-11e4-bd2c-919fc31dc2e6_story.html" target="_blank" class="broken_link"&gt;Unclaimed Air Strike In Eastern Ukraine Kills 11&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a style="font-style: normal;" href="http://www.bloomberg.com/news/2014-07-11/iraq-kurds-increase-control-over-biggest-kirkuk-oilfields.html" target="_blank"&gt;Kurdish Army Takes Control of Kirkuk Oil Fields&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a style="font-style: normal;" href="http://www.nytimes.com/interactive/2014/07/15/world/middleeast/toll-israel-gaza-conflict.html" target="_blank"&gt;Death Toll in Israel and Gaza Day-By-Day&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a style="font-style: normal;" href="http://www.trust.org/item/20140707162619-4u9rd" target="_blank"&gt;Doctors Without Borders Releases Critical Report&lt;/a&gt;&lt;/li&gt;
@@ -2255,7 +2414,7 @@ Unfortunately, our connection with Daniel was quite flaky so that the show might
 &lt;li&gt;&lt;a style="font-style: normal;" href="http://citizenreporter.org/2014/01/things-you-see-in-an-abu-dhabi-courthouse/" target="_blank"&gt;Things You See in a Abu Dhabi Courthouse&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a style="font-style: normal;" href="http://www.csmonitor.com/World/Security-Watch/Backchannels/2014/0117/What-does-Egypt-s-yes-vote-in-the-constitutional-referendum-mean" target="_blank"&gt;Egyptian Constitution Gets a Yes&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a style="font-style: normal;" href="http://www.globalpost.com/photo-galleries/planet-pic/6049010/dramatic-images-molotov-cocktails-and-tear-gas-raining-down-protesters-kyiv" target="_blank"&gt;Photo Gallery of Kiev Protests Over the Weekend&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a style="font-style: normal;" href="http://tswi.biz/" target="_blank" class="broken_link"&gt;The State We&amp;#8217;re In Podcast with FEMEN Leader&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a style="font-style: normal;" href="http://tswi.biz/" target="_blank"&gt;The State We&amp;#8217;re In Podcast with FEMEN Leader&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a style="font-style: normal;" href="http://www.bbc.co.uk/news/world-latin-america-25836208" target="_blank"&gt;Argentina Restricts Online Shopping&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a style="font-style: normal;" href="http://www.euractiv.com/europes-east/georgie-cries-foul-russia-shifts-news-532930" target="_blank"&gt;Georgia Says Russia Has Expanded Border&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;NEWZ Source: &lt;a style="font-style: normal;" href="http://7daysindubai.com" target="_blank"&gt;7 Days Dubai&lt;/a&gt;&lt;/li&gt;
@@ -3058,7 +3217,7 @@ Unfortunately, our connection with Daniel was quite flaky so that the show might
         </item>
         <item>
             <title>NEWZ064 Whose Temple Is It?</title>
-            <link>http://feedproxy.google.com/~r/newz-of-the-world/~3/BKW933rS4io/</link>
+            <link>http://newz-of-the-world.com/newz064-whose-temple-is-it/</link>
             <pubDate>Fri, 01 Nov 2013 10:35:20 +0000</pubDate>
             <guid isPermaLink="false">podlove-2013-11-01t09:48:01+00:00-1fd628aee6f04b3</guid>
             <description>This week we start with the breaking news that Israel has bombed military bases in Syria. While in Bulgaria authorities are unable to cope with the influx of Syrian refugees.  Cambodia and Thailand promise peace regardless of who the international court declares as the owner of the Preah Vihear temple. Over in Brazil a new law may soon get passed that would further restrict abortion in some unprecedented ways. Our NEWZ Source for this week is a great source for science, environment and technology news, Fast Company.</description>
@@ -3075,6 +3234,7 @@ Unfortunately, our connection with Daniel was quite flaky so that the show might
                 <psc:chapter start="00:40:02.156" title="Epilogue"/>
             </psc:chapters>
             <atom:link rel="http://podlove.org/deep-link" href="http://newz-of-the-world.com/newz064-whose-temple-is-it/#"/>
+            <enclosure url="http://newz-of-the-world.com/podlove/file/3263/s/feed/c/m4a/newz064-whose-temple-is-it.m4a" length="18406597" type="audio/mp4"/>
             <itunes:duration>00:41:09</itunes:duration>
             <itunes:author>Metaebene Personal Media - Tim Pritlove</itunes:author>
             <itunes:subtitle>Israel Bombs Syria – Bulgaria Refugees – Cambodia Thailand Peace – Dread Pirate Roberts – Brazil Abortion – Fast Company</itunes:subtitle>
@@ -3196,7 +3356,7 @@ Unfortunately, our connection with Daniel was quite flaky so that the show might
 &lt;li&gt;NEWZ Source: &lt;a style="font-style: normal;" href="http://www.fastcompany.com/" target="_blank"&gt;Fast Company&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Episode Image: &lt;a href="http://www.flickr.com/photos/trojantraveler/5560216407/" target="_blank"&gt;PreahSoldiers&lt;/a&gt; by &lt;a href="http://www.flickr.com/photos/trojantraveler/" target="_blank"&gt;Trojan Traveller&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
- &lt;p&gt;&lt;a href="http://newz-of-the-world.com/?flattrss_redirect&amp;amp;id=1274&amp;amp;md5=41598c7900698d12b128ab6c0313fab7" title="Flattr" target="_blank"&gt;&lt;img src="http://newz-of-the-world.com/wp-content/plugins/flattr/img/flattr-badge-large.png" alt="flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/newz-of-the-world/~4/BKW933rS4io" height="1" width="1"/&gt;</content:encoded>
+ &lt;p&gt;&lt;a href="http://newz-of-the-world.com/?flattrss_redirect&amp;amp;id=1274&amp;amp;md5=41598c7900698d12b128ab6c0313fab7" title="Flattr" target="_blank"&gt;&lt;img src="http://newz-of-the-world.com/wp-content/plugins/flattr/img/flattr-badge-large.png" alt="flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;</content:encoded>
             <atom:contributor>
                 <atom:name>Mark Fonseca Rendeiro</atom:name>
                 <atom:uri>http://citizenreporter.org/</atom:uri>
@@ -3205,9 +3365,6 @@ Unfortunately, our connection with Daniel was quite flaky so that the show might
                 <atom:name>Tim Pritlove</atom:name>
                 <atom:uri>http://tim.pritlove.org/</atom:uri>
             </atom:contributor>
-            <feedburner:origLink xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">http://newz-of-the-world.com/newz064-whose-temple-is-it/</feedburner:origLink>
-            <enclosure url="http://feedproxy.google.com/~r/newz-of-the-world/~5/vYjOsAIM9FU/newz064-whose-temple-is-it.m4a" length="18406597" type="audio/mp4"/>
-            <feedburner:origEnclosureLink xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">http://newz-of-the-world.com/podlove/file/3263/s/feed/c/m4a/newz064-whose-temple-is-it.m4a</feedburner:origEnclosureLink>
         </item>
         <item>
             <title>NEWZ063 It’s Dark But It’s Not Over</title>
@@ -9269,7 +9426,7 @@ And to wrap it all up we discuss the call for more debate or disagreement on the
 &lt;li&gt;&lt;a href="http://www.fastcoexist.com/1680334/worlds-first-deep-sea-mining-project-gets-approval" target="_blank"&gt;Deep Sea Mining Set to Begin&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://www.theage.com.au/world/ryan-rallies-republican-base-to-romneys-banner-20120813-244yx.html" target="_blank"&gt;Romney Names Ryan as Running Mate&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://in.reuters.com/article/2012/08/09/agriculture-commerzbank-idINL6E8J9ADE20120809" target="_blank"&gt;Commerz Bank Pulls Out of Food Speculation&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://allafrica.com/stories/201208131342.html" target="_blank"&gt;Violence at Platinum Mines in South Africa&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://allafrica.com/stories/201208131342.html" target="_blank" class="broken_link"&gt;Violence at Platinum Mines in South Africa&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://www.mineweb.com/mineweb/view/mineweb/en/page35?oid=156857&amp;amp;sn=Detail&amp;amp;pid=35" target="_blank"&gt;Platinum Mining Companies of South Africa in Financial Trouble&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://edition.cnn.com/2012/08/09/world/americas/uruguay-marijuana-proposal/index.html" target="_blank"&gt;Uruguay Proposes New Level of Marijuana Legalization&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Episode image: &lt;a href="http://www.flickr.com/photos/newformula/490542743/" target="_blank"&gt;newformula&lt;/a&gt;&lt;/li&gt;

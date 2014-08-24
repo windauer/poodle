@@ -6,6 +6,21 @@
 jQuery(document).ready(function() {
     console.log("loaded app.js");
     
+    function displayResult(data){
+        console.log( "success data:'",data,"'"); 
+        
+        console.log( "START DISPLAY SCHEMATRON MESSAGES"); 
+        $(data.schematron.report.message).each(function( index ) {
+            console.log( index + ": " , this );
+            var message = this;
+            console.log("message level:", this.level)
+            console.log("message text:", this["#text"])
+        });
+        
+        
+        console.log( "STOP DISPLAY SCHEMATRON MESSAGES"); 
+    };
+    
     $("#validateBtn").click(function() {
         console.log("executing validate!")
         var feedURL = $("#inputFeedURL").val();
@@ -16,7 +31,8 @@ jQuery(document).ready(function() {
                 url: "modules/feed-validator.xql",
                 data: { feedURL: feedURL}
             }).done(function(data) {
-                console.log( "success data:'",data,"'");
+                displayResult(data)
+                
                 
             })
             .fail(function(error) {
@@ -33,6 +49,7 @@ jQuery(document).ready(function() {
          
          
     });
+    
     $( "#update-feeds" ).click(function() {
         console.log("executing updates-feeds")
         var jqxhr = $.ajax( "modules/feed-validator.xql")

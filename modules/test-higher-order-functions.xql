@@ -25,15 +25,19 @@ declare function local:link($item as item()*){
 };
 
 
-declare variable $local:CONFIG :=
+declare variable $local:PODLOVE-HANDLER :=
     map {
-         "rss" := local:rss#1,
-         "channel" := local:channel#1,
-         "title" := local:title#1,
          "link" := local:link#1
 };
 
-declare function local:parse-xml($xml, $config){
+declare variable $local:SCHEMATRON-ONLY-HANDLER :=
+    map {
+        "rss" := local:rss#1,
+        "channel" := local:channel#1,
+        "title" := local:title#1
+};
+
+declare function local:parse-rss($xml, $config){
  for $node in $xml
     let $fn-name := name($node)
     return
@@ -42,7 +46,7 @@ declare function local:parse-xml($xml, $config){
                 if(map:contains($config, $fn-name))
                 then (
                     $config($fn-name)($node),
-                    local:parse-xml($node/*, $config)
+                    local:parse-rss($node/*, $config)
                 )else (
                     <error>no function for elment {$fn-name}</error>    
                 )
@@ -54,11 +58,11 @@ declare function local:parse-xml($xml, $config){
          else if ($node instance of processing-instruction())
                  then 'processing-instruction'
          else 'unknown'            
-            
-           
 };
+
+
     
-let $config := $local:CONFIG
+let $config := map:new (($local:SCHEMATRON-ONLY-HANDLER,$local:PODLOVE-HANDLER))
 let $xml := <rss>
                 <channel>
                     <title>MyTitle</title>
@@ -68,7 +72,7 @@ let $xml := <rss>
 return 
     <result>
         {
-            local:parse-xml($xml, $config)    
+            local:parse-rss($xml, $config)    
        
         }
     </result>

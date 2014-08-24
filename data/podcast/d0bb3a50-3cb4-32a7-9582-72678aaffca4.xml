@@ -1,70 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:psc="http://podlove.org/simple-chapters" xmlns:fh="http://purl.org/syndication/history/1.0" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
-    <channel>
-        <title>Fokus Europa</title>
-        <link>http://fokus-europa.de</link>
-        <description>Gespräche über die europäische Idee</description>
-        <lastBuildDate>Tue, 29 Jul 2014 08:00:16 +0000</lastBuildDate>
-        <atom:link rel="alternate" type="application/rss+xml" title="Fokus Europa (MP3 Audio)" href="http://fokus-europa.de/feed/mp3/"/>
-        <atom:link rel="alternate" type="application/rss+xml" title="Fokus Europa (Ogg Vorbis Audio)" href="http://fokus-europa.de/feed/oga/"/>
-        <atom:link rel="alternate" type="application/rss+xml" title="Fokus Europa (Opus Audio)" href="http://fokus-europa.de/feed/opus/"/>
-        <atom:link rel="first" href="http://fokus-europa.de/feed/m4a/"/>
-        <language>de-DE</language>
-        <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=timpritlove&amp;url=http%3A%2F%2Ffokus-europa.de%2F&amp;language=de_DE&amp;category=audio&amp;title=Fokus+Europa&amp;description=Politik.+Kultur.+Gemeinschaft-&amp;tags=podcast%2C+fokuseuropa%2C+boellstiftung" type="text/html"/>
-        <atom:contributor>
-            <atom:name>Tim Pritlove</atom:name>
-            <atom:uri>http://tim.pritlove.org/</atom:uri>
-        </atom:contributor>
-        <generator>Podlove Podcast Publisher v1.10.19-alpha</generator>
-        <itunes:author>Heinrich Böll Stiftung</itunes:author>
-        <itunes:summary>Fokus Europa ist eine Interview-Serie mit Experten über die europäische Idee, den Stand der Vereinigung und ihren aktuellen Zustand. Moderator Tim Pritlove hinterfragt und diskutiert im Dialog über Ziele, Träume und Wirklichkeit in Europa.</itunes:summary>
-        <itunes:category text="Education"/>
-        <itunes:category text="Society &amp; Culture"/>
-        <itunes:category text="News &amp; Politics"/>
-        <itunes:owner>
-            <itunes:name>Tim Pritlove</itunes:name>
-            <itunes:email>fokuseuropa@metaebene.me</itunes:email>
-        </itunes:owner>
-        <itunes:image href="http://meta.metaebene.me/media/fokuseuropa/ci/fokus-europa-logo-1.1.jpg"/>
-        <itunes:subtitle>Gespräche über die europäische Idee</itunes:subtitle>
-        <itunes:keywords>heinrich boell stiftung, interview, podcast, gespräch, europa, europäische union, europäisches parlament, europäische kommission</itunes:keywords>
-        <itunes:block>no</itunes:block>
-        <itunes:explicit>no</itunes:explicit>
-        <atom:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/fokus-europa-m4a"/>
-        <feedburner:info uri="fokus-europa-m4a"/>
-        <atom:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/"/>
-        <atom:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://metaebene.superfeedr.com/"/>
-        <item>
-            <title>FE006 Festung Europa</title>
-            <link>http://fokus-europa.de/podcast/fe006-festung-europa/</link>
-            <pubDate>Tue, 29 Jul 2014 08:00:16 +0000</pubDate>
-            <guid isPermaLink="false">podlove-2014-07-27t14:42:53+00:00-fabdb8bb7b1b9c9</guid>
-            <description>Mit dem wachsenden europäischen Wohlstand und der zunehmenden Erweiterung des EU-Gebiets hat sich über die Jahre auch die Abschottung gegenüber Nicht-EU-Staaten verstärkt. Der mangelnde Fortschritt und die anhaltenden Krisen in Nordafrika, Nahost und Osteuropa führen aber zu einem wachsenden Zustrom an Flüchtlingen, mit dem sich Europa sehr schwer tut. Statt klarer politischer Wege wird bisher her eher der Ausbau der "Festung Europa" vorangetrieben.
+<httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="200">
+    <httpclient:headers>
+        <httpclient:header name="Content-Type" value="text/xml; charset=UTF-8"/>
+        <httpclient:header name="ETag" value="b6KKvcsHnLAymYhmOfAfQPgLYfo"/>
+        <httpclient:header name="Last-Modified" value="Sat, 23 Aug 2014 09:57:50 GMT"/>
+        <httpclient:header name="Date" value="Sat, 23 Aug 2014 10:16:18 GMT"/>
+        <httpclient:header name="Expires" value="Sat, 23 Aug 2014 10:16:18 GMT"/>
+        <httpclient:header name="Cache-Control" value="private, max-age=0"/>
+        <httpclient:header name="X-Content-Type-Options" value="nosniff"/>
+        <httpclient:header name="X-XSS-Protection" value="1; mode=block"/>
+        <httpclient:header name="Server" value="GSE"/>
+        <httpclient:header name="Alternate-Protocol" value="80:quic"/>
+        <httpclient:header name="Transfer-Encoding" value="chunked"/>
+    </httpclient:headers>
+    <httpclient:body mimetype="text/xml; charset=UTF-8" type="xml">
+        <rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:psc="http://podlove.org/simple-chapters" xmlns:fh="http://purl.org/syndication/history/1.0" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+            <channel>
+                <title>Fokus Europa</title>
+                <link>http://fokus-europa.de</link>
+                <description>Gespräche über die europäische Idee</description>
+                <lastBuildDate>Tue, 29 Jul 2014 08:00:16 +0000</lastBuildDate>
+                <atom:link rel="alternate" type="application/rss+xml" title="Fokus Europa (MP3 Audio)" href="http://fokus-europa.de/feed/mp3/"/>
+                <atom:link rel="alternate" type="application/rss+xml" title="Fokus Europa (Ogg Vorbis Audio)" href="http://fokus-europa.de/feed/oga/"/>
+                <atom:link rel="alternate" type="application/rss+xml" title="Fokus Europa (Opus Audio)" href="http://fokus-europa.de/feed/opus/"/>
+                <atom:link rel="first" href="http://fokus-europa.de/feed/m4a/"/>
+                <language>de-DE</language>
+                <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=timpritlove&amp;url=http%3A%2F%2Ffokus-europa.de%2F&amp;language=de_DE&amp;category=audio&amp;title=Fokus+Europa&amp;description=Politik.+Kultur.+Gemeinschaft-&amp;tags=podcast%2C+fokuseuropa%2C+boellstiftung" type="text/html"/>
+                <atom:contributor>
+                    <atom:name>Tim Pritlove</atom:name>
+                    <atom:uri>http://tim.pritlove.org/</atom:uri>
+                </atom:contributor>
+                <generator>Podlove Podcast Publisher v1.10.19-alpha</generator>
+                <itunes:author>Heinrich Böll Stiftung</itunes:author>
+                <itunes:summary>Fokus Europa ist eine Interview-Serie mit Experten über die europäische Idee, den Stand der Vereinigung und ihren aktuellen Zustand. Moderator Tim Pritlove hinterfragt und diskutiert im Dialog über Ziele, Träume und Wirklichkeit in Europa.</itunes:summary>
+                <itunes:category text="Education"/>
+                <itunes:category text="Society &amp; Culture"/>
+                <itunes:category text="News &amp; Politics"/>
+                <itunes:owner>
+                    <itunes:name>Tim Pritlove</itunes:name>
+                    <itunes:email>fokuseuropa@metaebene.me</itunes:email>
+                </itunes:owner>
+                <itunes:image href="http://meta.metaebene.me/media/fokuseuropa/ci/fokus-europa-logo-1.1.jpg"/>
+                <itunes:subtitle>Gespräche über die europäische Idee</itunes:subtitle>
+                <itunes:keywords>heinrich boell stiftung, interview, podcast, gespräch, europa, europäische union, europäisches parlament, europäische kommission</itunes:keywords>
+                <itunes:block>no</itunes:block>
+                <itunes:explicit>no</itunes:explicit>
+                <atom:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/fokus-europa-m4a"/>
+                <feedburner:info uri="fokus-europa-m4a"/>
+                <atom:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/"/>
+                <atom:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://metaebene.superfeedr.com/"/>
+                <item>
+                    <title>FE006 Festung Europa</title>
+                    <link>http://fokus-europa.de/podcast/fe006-festung-europa/</link>
+                    <pubDate>Tue, 29 Jul 2014 08:00:16 +0000</pubDate>
+                    <guid isPermaLink="false">podlove-2014-07-27t14:42:53+00:00-fabdb8bb7b1b9c9</guid>
+                    <description>Mit dem wachsenden europäischen Wohlstand und der zunehmenden Erweiterung des EU-Gebiets hat sich über die Jahre auch die Abschottung gegenüber Nicht-EU-Staaten verstärkt. Der mangelnde Fortschritt und die anhaltenden Krisen in Nordafrika, Nahost und Osteuropa führen aber zu einem wachsenden Zustrom an Flüchtlingen, mit dem sich Europa sehr schwer tut. Statt klarer politischer Wege wird bisher her eher der Ausbau der "Festung Europa" vorangetrieben.
 
 Über dieses Thema sprechen wir in dieser Ausgabe mit Karl Kopp - zuständig für Europapolitik bei der Menschenrechtsorganisation Pro Asyl. Wir unterhalten uns über die Situation an den Grenzen, der Arbeit der "Agentur" Frontex und die Realität der Flüchtlinge.</description>
-            <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=timpritlove&amp;url=http%3A%2F%2Ffokus-europa.de%2Fpodcast%2Ffe006-festung-europa%2F&amp;language=de_DE&amp;category=audio&amp;title=FE006+Festung+Europa&amp;description=Die+Fl%C3%BCchtlingssituation+an+den+Europ%C3%A4ischen+Grenzen+und+die+EU-Migrationspolitik+Karl+Kopp+Pro+Asyl+Mit+dem+wachsenden+europ%C3%A4ischen+Wohlstand+und+der+zunehmenden+Erweiterung+des+EU-Gebiets+hat+sich+%C3%BCber+die+Jahre+auch...&amp;tags=podcast%2C+fokuseuropa%2C+boellstiftung" type="text/html"/>
-            <psc:chapters version="1.2">
-                <psc:chapter start="00:00:00.000" title="Intro"/>
-                <psc:chapter start="00:00:24.953" title="Vorstellung"/>
-                <psc:chapter start="00:06:19.296" title="Flüchtlingssituation in Europa"/>
-                <psc:chapter start="00:12:27.875" title="Europawahl und das Flüchtlingsthema"/>
-                <psc:chapter start="00:16:29.672" title="Rechtliche Situation"/>
-                <psc:chapter start="00:28:24.929" title="Frontex und die europäische Politik"/>
-                <psc:chapter start="00:35:36.049" title="Mögliche Massnahmen zur Problembewältigung"/>
-                <psc:chapter start="00:41:12.921" title="Chancen durch Asylpolitik"/>
-                <psc:chapter start="00:49:26.656" title="Einfluss auf die EU-Politik"/>
-                <psc:chapter start="00:59:44.857" title="Vision für eine zukünftige Politik"/>
-                <psc:chapter start="01:19:27.973" title="EuGH und EGMR"/>
-                <psc:chapter start="01:25:41.530" title="Ausklang"/>
-            </psc:chapters>
-            <atom:link rel="http://podlove.org/deep-link" href="http://fokus-europa.de/podcast/fe006-festung-europa/#"/>
-            <itunes:duration>01:30:46</itunes:duration>
-            <itunes:author>Heinrich Böll Stiftung</itunes:author>
-            <itunes:subtitle>Die Flüchtlingssituation an den Europäischen Grenzen und die EU-Migrationspolitik</itunes:subtitle>
-            <itunes:summary>Mit dem wachsenden europäischen Wohlstand und der zunehmenden Erweiterung des EU-Gebiets hat sich über die Jahre auch die Abschottung gegenüber Nicht-EU-Staaten verstärkt. Der mangelnde Fortschritt und die anhaltenden Krisen in Nordafrika, Nahost und Osteuropa führen aber zu einem wachsenden Zustrom an Flüchtlingen, mit dem sich Europa sehr schwer tut. Statt klarer politischer Wege wird bisher her eher der Ausbau der "Festung Europa" vorangetrieben.
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=timpritlove&amp;url=http%3A%2F%2Ffokus-europa.de%2Fpodcast%2Ffe006-festung-europa%2F&amp;language=de_DE&amp;category=audio&amp;title=FE006+Festung+Europa&amp;description=Die+Fl%C3%BCchtlingssituation+an+den+Europ%C3%A4ischen+Grenzen+und+die+EU-Migrationspolitik+Karl+Kopp+Pro+Asyl+Mit+dem+wachsenden+europ%C3%A4ischen+Wohlstand+und+der+zunehmenden+Erweiterung+des+EU-Gebiets+hat+sich+%C3%BCber+die+Jahre+auch...&amp;tags=podcast%2C+fokuseuropa%2C+boellstiftung" type="text/html"/>
+                    <psc:chapters version="1.2">
+                        <psc:chapter start="00:00:00.000" title="Intro"/>
+                        <psc:chapter start="00:00:24.953" title="Vorstellung"/>
+                        <psc:chapter start="00:06:19.296" title="Flüchtlingssituation in Europa"/>
+                        <psc:chapter start="00:12:27.875" title="Europawahl und das Flüchtlingsthema"/>
+                        <psc:chapter start="00:16:29.672" title="Rechtliche Situation"/>
+                        <psc:chapter start="00:28:24.929" title="Frontex und die europäische Politik"/>
+                        <psc:chapter start="00:35:36.049" title="Mögliche Massnahmen zur Problembewältigung"/>
+                        <psc:chapter start="00:41:12.921" title="Chancen durch Asylpolitik"/>
+                        <psc:chapter start="00:49:26.656" title="Einfluss auf die EU-Politik"/>
+                        <psc:chapter start="00:59:44.857" title="Vision für eine zukünftige Politik"/>
+                        <psc:chapter start="01:19:27.973" title="EuGH und EGMR"/>
+                        <psc:chapter start="01:25:41.530" title="Ausklang"/>
+                    </psc:chapters>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://fokus-europa.de/podcast/fe006-festung-europa/#"/>
+                    <itunes:duration>01:30:46</itunes:duration>
+                    <itunes:author>Heinrich Böll Stiftung</itunes:author>
+                    <itunes:subtitle>Die Flüchtlingssituation an den Europäischen Grenzen und die EU-Migrationspolitik</itunes:subtitle>
+                    <itunes:summary>Mit dem wachsenden europäischen Wohlstand und der zunehmenden Erweiterung des EU-Gebiets hat sich über die Jahre auch die Abschottung gegenüber Nicht-EU-Staaten verstärkt. Der mangelnde Fortschritt und die anhaltenden Krisen in Nordafrika, Nahost und Osteuropa führen aber zu einem wachsenden Zustrom an Flüchtlingen, mit dem sich Europa sehr schwer tut. Statt klarer politischer Wege wird bisher her eher der Ausbau der "Festung Europa" vorangetrieben.
 
 Über dieses Thema sprechen wir in dieser Ausgabe mit Karl Kopp - zuständig für Europapolitik bei der Menschenrechtsorganisation Pro Asyl. Wir unterhalten uns über die Situation an den Grenzen, der Arbeit der "Agentur" Frontex und die Realität der Flüchtlinge.</itunes:summary>
-            <content:encoded>  
+                    <content:encoded>  
   
 
 &lt;p class="episode_subtitle"&gt;&lt;strong&gt;&lt;em&gt;Die Flüchtlingssituation an den Europäischen Grenzen und die EU-Migrationspolitik&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
@@ -129,40 +144,40 @@ jQuery('#podlovewebplayer_cdb16c45fe2119cf6050b87ea2159ffa0ebb495f').podlovewebp
 			&lt;/p&gt;
 		&lt;/div&gt;
 	</content:encoded>
-            <atom:contributor>
-                <atom:name>Tim Pritlove</atom:name>
-                <atom:uri>http://tim.pritlove.org/</atom:uri>
-            </atom:contributor>
-            <enclosure url="http://feedproxy.google.com/~r/fokus-europa-m4a/~5/534HeUond-U/fe006-festung-europa.m4a" length="57125406" type="audio/mp4"/>
-            <feedburner:origEnclosureLink>http://fokus-europa.de/podlove/file/75/s/feed/c/m4a/fe006-festung-europa.m4a</feedburner:origEnclosureLink>
-        </item>
-        <item>
-            <title>FE005 Die Europäische Kommission</title>
-            <link>http://fokus-europa.de/podcast/fe005-die-europaeische-kommission/</link>
-            <pubDate>Fri, 13 Jun 2014 08:10:01 +0000</pubDate>
-            <guid isPermaLink="false">podlove-2014-06-02t07:54:22+00:00-8831b0c18ef2f72</guid>
-            <description>Die Europäische Kommission wird häufig als die "Regierung" der EU missverstanden da sie das Initiativrecht für gesetzliche Vorstösse besitzt und entsprechend in der Öffentlichkeit wahrgenommen wird. Tatsächlich ist die Arbeit der Kommission viel stärker im Kontext der anderen Institutionen zu sehen und ist wie auch das Parlament stark vom supranationalen Konsens und Kompromissen geprägt.
+                    <atom:contributor>
+                        <atom:name>Tim Pritlove</atom:name>
+                        <atom:uri>http://tim.pritlove.org/</atom:uri>
+                    </atom:contributor>
+                    <enclosure url="http://feedproxy.google.com/~r/fokus-europa-m4a/~5/534HeUond-U/fe006-festung-europa.m4a" length="57125406" type="audio/mp4"/>
+                    <feedburner:origEnclosureLink>http://fokus-europa.de/podlove/file/75/s/feed/c/m4a/fe006-festung-europa.m4a</feedburner:origEnclosureLink>
+                </item>
+                <item>
+                    <title>FE005 Die Europäische Kommission</title>
+                    <link>http://fokus-europa.de/podcast/fe005-die-europaeische-kommission/</link>
+                    <pubDate>Fri, 13 Jun 2014 08:10:01 +0000</pubDate>
+                    <guid isPermaLink="false">podlove-2014-06-02t07:54:22+00:00-8831b0c18ef2f72</guid>
+                    <description>Die Europäische Kommission wird häufig als die "Regierung" der EU missverstanden da sie das Initiativrecht für gesetzliche Vorstösse besitzt und entsprechend in der Öffentlichkeit wahrgenommen wird. Tatsächlich ist die Arbeit der Kommission viel stärker im Kontext der anderen Institutionen zu sehen und ist wie auch das Parlament stark vom supranationalen Konsens und Kompromissen geprägt.
 
 Wir sprechen in dieser Ausgabe mit Michaele Schreyer, die als Teil der Prodi-Kommission von 1999 bis 2004 Haushalts-Kommissarin war und die heute Vizepräsidentin der Europäischen Bewegung Deutschland ist. Sie berichtet von Ihren Erfahrungen als Kommissarin, dem Eindruck, den sie von der Zusammenarbeit innerhalb der Kommission und vom Zusammenspiel mit dem Rat der EU</description>
-            <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=timpritlove&amp;url=http%3A%2F%2Ffokus-europa.de%2Fpodcast%2Ffe005-die-europaeische-kommission%2F&amp;language=de_DE&amp;category=audio&amp;title=FE005+Die+Europ%C3%A4ische+Kommission&amp;description=%C3%9Cber+die+Strukur+und+Arbeit+der+Europ%C3%A4ischen+Kommission+Michaele+Schreyer+Die+Europ%C3%A4ische+Kommission+wird+h%C3%A4ufig+als+die+%22Regierung%22+der+EU+missverstanden+da+sie+das+Initiativrecht+f%C3%BCr+gesetzliche+Vorst%C3%B6sse+besitzt+und...&amp;tags=podcast%2C+fokuseuropa%2C+boellstiftung" type="text/html"/>
-            <psc:chapters version="1.2">
-                <psc:chapter start="00:00:00.000" title="Intro"/>
-                <psc:chapter start="00:00:25.007" title="Vorstellung"/>
-                <psc:chapter start="00:12:03.339" title="Bildung der EU-Kommission"/>
-                <psc:chapter start="00:24:44.434" title="Aufgaben der Kommission"/>
-                <psc:chapter start="00:31:38.751" title="Politsche Struktur und Arbeitsstil"/>
-                <psc:chapter start="00:49:40.258" title="Die Kommission und die anderen EU-Institutionen"/>
-                <psc:chapter start="01:02:56.417" title="Der EU-Haushalt"/>
-                <psc:chapter start="01:10:44.423" title="Wandel der EU-Machtstrukturen"/>
-            </psc:chapters>
-            <atom:link rel="http://podlove.org/deep-link" href="http://fokus-europa.de/podcast/fe005-die-europaeische-kommission/#"/>
-            <itunes:duration>01:15:54</itunes:duration>
-            <itunes:author>Heinrich Böll Stiftung</itunes:author>
-            <itunes:subtitle>Über die Strukur und Arbeit der Europäischen Kommission</itunes:subtitle>
-            <itunes:summary>Die Europäische Kommission wird häufig als die "Regierung" der EU missverstanden da sie das Initiativrecht für gesetzliche Vorstösse besitzt und entsprechend in der Öffentlichkeit wahrgenommen wird. Tatsächlich ist die Arbeit der Kommission viel stärker im Kontext der anderen Institutionen zu sehen und ist wie auch das Parlament stark vom supranationalen Konsens und Kompromissen geprägt.
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=timpritlove&amp;url=http%3A%2F%2Ffokus-europa.de%2Fpodcast%2Ffe005-die-europaeische-kommission%2F&amp;language=de_DE&amp;category=audio&amp;title=FE005+Die+Europ%C3%A4ische+Kommission&amp;description=%C3%9Cber+die+Strukur+und+Arbeit+der+Europ%C3%A4ischen+Kommission+Michaele+Schreyer+Die+Europ%C3%A4ische+Kommission+wird+h%C3%A4ufig+als+die+%22Regierung%22+der+EU+missverstanden+da+sie+das+Initiativrecht+f%C3%BCr+gesetzliche+Vorst%C3%B6sse+besitzt+und...&amp;tags=podcast%2C+fokuseuropa%2C+boellstiftung" type="text/html"/>
+                    <psc:chapters version="1.2">
+                        <psc:chapter start="00:00:00.000" title="Intro"/>
+                        <psc:chapter start="00:00:25.007" title="Vorstellung"/>
+                        <psc:chapter start="00:12:03.339" title="Bildung der EU-Kommission"/>
+                        <psc:chapter start="00:24:44.434" title="Aufgaben der Kommission"/>
+                        <psc:chapter start="00:31:38.751" title="Politsche Struktur und Arbeitsstil"/>
+                        <psc:chapter start="00:49:40.258" title="Die Kommission und die anderen EU-Institutionen"/>
+                        <psc:chapter start="01:02:56.417" title="Der EU-Haushalt"/>
+                        <psc:chapter start="01:10:44.423" title="Wandel der EU-Machtstrukturen"/>
+                    </psc:chapters>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://fokus-europa.de/podcast/fe005-die-europaeische-kommission/#"/>
+                    <itunes:duration>01:15:54</itunes:duration>
+                    <itunes:author>Heinrich Böll Stiftung</itunes:author>
+                    <itunes:subtitle>Über die Strukur und Arbeit der Europäischen Kommission</itunes:subtitle>
+                    <itunes:summary>Die Europäische Kommission wird häufig als die "Regierung" der EU missverstanden da sie das Initiativrecht für gesetzliche Vorstösse besitzt und entsprechend in der Öffentlichkeit wahrgenommen wird. Tatsächlich ist die Arbeit der Kommission viel stärker im Kontext der anderen Institutionen zu sehen und ist wie auch das Parlament stark vom supranationalen Konsens und Kompromissen geprägt.
 
 Wir sprechen in dieser Ausgabe mit Michaele Schreyer, die als Teil der Prodi-Kommission von 1999 bis 2004 Haushalts-Kommissarin war und die heute Vizepräsidentin der Europäischen Bewegung Deutschland ist. Sie berichtet von Ihren Erfahrungen als Kommissarin, dem Eindruck, den sie von der Zusammenarbeit innerhalb der Kommission und vom Zusammenspiel mit dem Rat der EU</itunes:summary>
-            <content:encoded>  
+                    <content:encoded>  
   
 
 &lt;p class="episode_subtitle"&gt;&lt;strong&gt;&lt;em&gt;Über die Strukur und Arbeit der Europäischen Kommission&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
@@ -223,43 +238,43 @@ Wir sprechen in dieser Ausgabe mit Michaele Schreyer, die als Teil der Prodi-Kom
 			&lt;/p&gt;
 		&lt;/div&gt;
 	</content:encoded>
-            <atom:contributor>
-                <atom:name>Tim Pritlove</atom:name>
-                <atom:uri>http://tim.pritlove.org/</atom:uri>
-            </atom:contributor>
-            <enclosure url="http://feedproxy.google.com/~r/fokus-europa-m4a/~5/X1M1gWBt1OQ/fe005-die-europaeische-kommission.m4a" length="32940493" type="audio/mp4"/>
-            <feedburner:origEnclosureLink>http://fokus-europa.de/podlove/file/70/s/feed/c/m4a/fe005-die-europaeische-kommission.m4a</feedburner:origEnclosureLink>
-        </item>
-        <item>
-            <title>FE004 Das Europäische Parlament</title>
-            <link>http://fokus-europa.de/podcast/fe004-das-europaeische-parlament/</link>
-            <pubDate>Sun, 01 Jun 2014 19:26:40 +0000</pubDate>
-            <guid isPermaLink="false">podlove-2014-06-01t18:06:20+00:00-49ad99e7f9b80b8</guid>
-            <description>Das Europäische Parlament hat über die Jahre einen deutlichen Zuwachs an Macht und Aufmerksamkeit erfahren, doch sind die Prozesse und Funktionsweise dieser bürgernächsten und demokratischsten Institution der Europäischen Union vielen unbekannt oder aus anderen Gründen ein Rätsel. Die Bedeutung der Ausschüsse und ihrer Berichterstatter und das Prinzip der konsensualen Beschlussfindung ist in den meisten nationalen Parlamenten so nicht bekannt.
+                    <atom:contributor>
+                        <atom:name>Tim Pritlove</atom:name>
+                        <atom:uri>http://tim.pritlove.org/</atom:uri>
+                    </atom:contributor>
+                    <enclosure url="http://feedproxy.google.com/~r/fokus-europa-m4a/~5/X1M1gWBt1OQ/fe005-die-europaeische-kommission.m4a" length="32940493" type="audio/mp4"/>
+                    <feedburner:origEnclosureLink>http://fokus-europa.de/podlove/file/70/s/feed/c/m4a/fe005-die-europaeische-kommission.m4a</feedburner:origEnclosureLink>
+                </item>
+                <item>
+                    <title>FE004 Das Europäische Parlament</title>
+                    <link>http://fokus-europa.de/podcast/fe004-das-europaeische-parlament/</link>
+                    <pubDate>Sun, 01 Jun 2014 19:26:40 +0000</pubDate>
+                    <guid isPermaLink="false">podlove-2014-06-01t18:06:20+00:00-49ad99e7f9b80b8</guid>
+                    <description>Das Europäische Parlament hat über die Jahre einen deutlichen Zuwachs an Macht und Aufmerksamkeit erfahren, doch sind die Prozesse und Funktionsweise dieser bürgernächsten und demokratischsten Institution der Europäischen Union vielen unbekannt oder aus anderen Gründen ein Rätsel. Die Bedeutung der Ausschüsse und ihrer Berichterstatter und das Prinzip der konsensualen Beschlussfindung ist in den meisten nationalen Parlamenten so nicht bekannt.
 
 Wir sprechen mit Eva Horn, Mitarbeiterin im Büro der Europaabgeordneten Heide Rühl über das Parlament, die Machtstrukturen innerhalb der Union, die Arbeit der Parlamentarier, den Irrsinn zweier Parlamentssitze, den Einfluss von Lobbygruppen und rechten Anti-Europäer auf das Parlament.</description>
-            <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=timpritlove&amp;url=http%3A%2F%2Ffokus-europa.de%2Fpodcast%2Ffe004-das-europaeische-parlament%2F&amp;language=de_DE&amp;category=audio&amp;title=FE004+Das+Europ%C3%A4ische+Parlament&amp;description=%C3%9Cber+die+Arbeit+und+Wahrnehmung+des+EU-Parlaments+und+der+Parlamentarier+Eva+Horn+Das+Europ%C3%A4ische+Parlament+hat+%C3%BCber+die+Jahre+einen+deutlichen+Zuwachs+an+Macht+und+Aufmerksamkeit+erfahren%2C+doch+sind+die...&amp;tags=podcast%2C+fokuseuropa%2C+boellstiftung" type="text/html"/>
-            <psc:chapters version="1.2">
-                <psc:chapter start="00:00:00.000" title="Intro"/>
-                <psc:chapter start="00:00:24.859" title="Begrüßung"/>
-                <psc:chapter start="00:00:56.201" title="Europäisches Parlament"/>
-                <psc:chapter start="00:08:05.155" title="Machtbalance und Entscheidungsprozesse"/>
-                <psc:chapter start="00:31:57.695" title="Wahrnehmungen und Belastungen der Parlamentarier"/>
-                <psc:chapter start="00:38:25.724" title="Brüssel und Straßburg"/>
-                <psc:chapter start="00:42:02.728" title="Europawahlen"/>
-                <psc:chapter start="00:45:37.492" title="Wie vermittelt man Europa?"/>
-                <psc:chapter start="00:53:11.405" title="Umgang mit Lobbygruppen"/>
-                <psc:chapter start="01:01:05.523" title="Einblicke in das EU-Parlament erhalten"/>
-                <psc:chapter start="01:09:43.640" title="Zukünftige Entwicklungen"/>
-            </psc:chapters>
-            <atom:link rel="http://podlove.org/deep-link" href="http://fokus-europa.de/podcast/fe004-das-europaeische-parlament/#"/>
-            <itunes:duration>01:15:54</itunes:duration>
-            <itunes:author>Heinrich Böll Stiftung</itunes:author>
-            <itunes:subtitle>Über die Arbeit und Wahrnehmung des EU-Parlaments und der Parlamentarier</itunes:subtitle>
-            <itunes:summary>Das Europäische Parlament hat über die Jahre einen deutlichen Zuwachs an Macht und Aufmerksamkeit erfahren, doch sind die Prozesse und Funktionsweise dieser bürgernächsten und demokratischsten Institution der Europäischen Union vielen unbekannt oder aus anderen Gründen ein Rätsel. Die Bedeutung der Ausschüsse und ihrer Berichterstatter und das Prinzip der konsensualen Beschlussfindung ist in den meisten nationalen Parlamenten so nicht bekannt.
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=timpritlove&amp;url=http%3A%2F%2Ffokus-europa.de%2Fpodcast%2Ffe004-das-europaeische-parlament%2F&amp;language=de_DE&amp;category=audio&amp;title=FE004+Das+Europ%C3%A4ische+Parlament&amp;description=%C3%9Cber+die+Arbeit+und+Wahrnehmung+des+EU-Parlaments+und+der+Parlamentarier+Eva+Horn+Das+Europ%C3%A4ische+Parlament+hat+%C3%BCber+die+Jahre+einen+deutlichen+Zuwachs+an+Macht+und+Aufmerksamkeit+erfahren%2C+doch+sind+die...&amp;tags=podcast%2C+fokuseuropa%2C+boellstiftung" type="text/html"/>
+                    <psc:chapters version="1.2">
+                        <psc:chapter start="00:00:00.000" title="Intro"/>
+                        <psc:chapter start="00:00:24.859" title="Begrüßung"/>
+                        <psc:chapter start="00:00:56.201" title="Europäisches Parlament"/>
+                        <psc:chapter start="00:08:05.155" title="Machtbalance und Entscheidungsprozesse"/>
+                        <psc:chapter start="00:31:57.695" title="Wahrnehmungen und Belastungen der Parlamentarier"/>
+                        <psc:chapter start="00:38:25.724" title="Brüssel und Straßburg"/>
+                        <psc:chapter start="00:42:02.728" title="Europawahlen"/>
+                        <psc:chapter start="00:45:37.492" title="Wie vermittelt man Europa?"/>
+                        <psc:chapter start="00:53:11.405" title="Umgang mit Lobbygruppen"/>
+                        <psc:chapter start="01:01:05.523" title="Einblicke in das EU-Parlament erhalten"/>
+                        <psc:chapter start="01:09:43.640" title="Zukünftige Entwicklungen"/>
+                    </psc:chapters>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://fokus-europa.de/podcast/fe004-das-europaeische-parlament/#"/>
+                    <itunes:duration>01:15:54</itunes:duration>
+                    <itunes:author>Heinrich Böll Stiftung</itunes:author>
+                    <itunes:subtitle>Über die Arbeit und Wahrnehmung des EU-Parlaments und der Parlamentarier</itunes:subtitle>
+                    <itunes:summary>Das Europäische Parlament hat über die Jahre einen deutlichen Zuwachs an Macht und Aufmerksamkeit erfahren, doch sind die Prozesse und Funktionsweise dieser bürgernächsten und demokratischsten Institution der Europäischen Union vielen unbekannt oder aus anderen Gründen ein Rätsel. Die Bedeutung der Ausschüsse und ihrer Berichterstatter und das Prinzip der konsensualen Beschlussfindung ist in den meisten nationalen Parlamenten so nicht bekannt.
 
 Wir sprechen mit Eva Horn, Mitarbeiterin im Büro der Europaabgeordneten Heide Rühl über das Parlament, die Machtstrukturen innerhalb der Union, die Arbeit der Parlamentarier, den Irrsinn zweier Parlamentssitze, den Einfluss von Lobbygruppen und rechten Anti-Europäer auf das Parlament.</itunes:summary>
-            <content:encoded>  
+                    <content:encoded>  
   
 
 &lt;p class="episode_subtitle"&gt;&lt;strong&gt;&lt;em&gt;Über die Arbeit und Wahrnehmung des EU-Parlaments und der Parlamentarier&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
@@ -322,46 +337,46 @@ Wir sprechen mit Eva Horn, Mitarbeiterin im Büro der Europaabgeordneten Heide R
 			&lt;/p&gt;
 		&lt;/div&gt;
 	</content:encoded>
-            <atom:contributor>
-                <atom:name>Tim Pritlove</atom:name>
-                <atom:uri>http://tim.pritlove.org/</atom:uri>
-            </atom:contributor>
-            <enclosure url="http://feedproxy.google.com/~r/fokus-europa-m4a/~5/xMwa851D4JM/fe004-das-europaeische-parlament.m4a" length="28889788" type="audio/mp4"/>
-            <feedburner:origEnclosureLink>http://fokus-europa.de/podlove/file/68/s/feed/c/m4a/fe004-das-europaeische-parlament.m4a</feedburner:origEnclosureLink>
-        </item>
-        <item>
-            <title>FE003 Die Europäische Union</title>
-            <link>http://fokus-europa.de/podcast/fe003-die-europaeische-union/</link>
-            <pubDate>Fri, 09 May 2014 11:53:31 +0000</pubDate>
-            <guid isPermaLink="false">podlove-2014-04-24t18:07:10+00:00-b255df7bede8d6b</guid>
-            <description>Die Europäische Union ist ein komplexes Unterfangen und leidet in der seiner Effizienz am notwendigen Konsens mit der Politik und Kultur der Mitgliedsländer. Doch dort liegt auch die Stärke des Bündnisses, das sich in einem jahrzehntelangen Anpassungsprozess politische Strukturen erarbeitet hat, für die es in der Welt sonst kein Gleichnis gibt. Und langsam verlagern sich Aufgaben und Pflichten in die EU die lange Zeit als nationale Eigenschaft galten.
+                    <atom:contributor>
+                        <atom:name>Tim Pritlove</atom:name>
+                        <atom:uri>http://tim.pritlove.org/</atom:uri>
+                    </atom:contributor>
+                    <enclosure url="http://feedproxy.google.com/~r/fokus-europa-m4a/~5/xMwa851D4JM/fe004-das-europaeische-parlament.m4a" length="28889788" type="audio/mp4"/>
+                    <feedburner:origEnclosureLink>http://fokus-europa.de/podlove/file/68/s/feed/c/m4a/fe004-das-europaeische-parlament.m4a</feedburner:origEnclosureLink>
+                </item>
+                <item>
+                    <title>FE003 Die Europäische Union</title>
+                    <link>http://fokus-europa.de/podcast/fe003-die-europaeische-union/</link>
+                    <pubDate>Fri, 09 May 2014 11:53:31 +0000</pubDate>
+                    <guid isPermaLink="false">podlove-2014-04-24t18:07:10+00:00-b255df7bede8d6b</guid>
+                    <description>Die Europäische Union ist ein komplexes Unterfangen und leidet in der seiner Effizienz am notwendigen Konsens mit der Politik und Kultur der Mitgliedsländer. Doch dort liegt auch die Stärke des Bündnisses, das sich in einem jahrzehntelangen Anpassungsprozess politische Strukturen erarbeitet hat, für die es in der Welt sonst kein Gleichnis gibt. Und langsam verlagern sich Aufgaben und Pflichten in die EU die lange Zeit als nationale Eigenschaft galten.
 
 In der dritten Ausgabe unserer Sendereihe treffen wir auf Almut Möller, Programmleiterin des  Alfred von Oppenheim-Zentrum für Europäische Zukunftsfragen bei der Deutschen Gesellschaft für Auswärtige Politik (DGAP). Mit ihr sprechen wir über das Wesen der Europäischen Debatte, die Struktur der Europäischen Union und dem Machtverhältnis seiner Institutionen, dem "Glauben an Europa", der wachsenden Bedeutung des europäischen Themas in der Politik und die Ziele der Union in den nächsten Jahrzehnten – ein aufschlussreiches und reichhaltiges Gespräch über das Projekt EU.</description>
-            <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=timpritlove&amp;url=http%3A%2F%2Ffokus-europa.de%2Fpodcast%2Ffe003-die-europaeische-union%2F&amp;language=de_DE&amp;category=audio&amp;title=FE003+Die+Europ%C3%A4ische+Union&amp;description=%C3%9Cber+die+Entstehung+und+Strukturen+der+Union%2C+der+Beziehung+der+Menschen+zum+B%C3%BCndnis+und+seine+k%C3%BCnftigen+Ziele+Almut+M%C3%B6ller+Die+Europ%C3%A4ische+Union+ist+ein+komplexes+Unterfangen+und+leidet+in+der...&amp;tags=podcast%2C+fokuseuropa%2C+boellstiftung" type="text/html"/>
-            <psc:chapters version="1.2">
-                <psc:chapter start="00:00:00.000" title="Intro"/>
-                <psc:chapter start="00:00:23.484" title="Vorstellung"/>
-                <psc:chapter start="00:06:56.760" title="Sprache und Europäische Debatte"/>
-                <psc:chapter start="00:16:55.188" title="Entstehung der EU"/>
-                <psc:chapter start="00:27:38.531" title="Das Drei-Säulen-Modell"/>
-                <psc:chapter start="00:33:49.974" title="Die Europäischen Verträge"/>
-                <psc:chapter start="00:38:54.708" title="Eine Europäische Verfassung"/>
-                <psc:chapter start="00:45:31.193" title="Der Glaube an Europa"/>
-                <psc:chapter start="00:51:54.937" title="Struktur der EU"/>
-                <psc:chapter start="01:07:28.526" title="Personen und die neue Bedeutung der Europäischen Politik"/>
-                <psc:chapter start="01:16:51.958" title="Machtstrukturen"/>
-                <psc:chapter start="01:23:45.313" title="Weiterentwicklung der EU-Struktur"/>
-                <psc:chapter start="01:30:58.286" title="Transparenz, Internationale Verträge und die Ziele der EU"/>
-                <psc:chapter start="01:46:30.208" title="Verabschiedung"/>
-            </psc:chapters>
-            <atom:link rel="http://podlove.org/deep-link" href="http://fokus-europa.de/podcast/fe003-die-europaeische-union/#"/>
-            <itunes:duration>01:48:02</itunes:duration>
-            <itunes:author>Heinrich Böll Stiftung</itunes:author>
-            <itunes:subtitle>Über die Entstehung und Strukturen der Union, der Beziehung der Menschen zum Bündnis und seine künftigen Ziele</itunes:subtitle>
-            <itunes:summary>Die Europäische Union ist ein komplexes Unterfangen und leidet in der seiner Effizienz am notwendigen Konsens mit der Politik und Kultur der Mitgliedsländer. Doch dort liegt auch die Stärke des Bündnisses, das sich in einem jahrzehntelangen Anpassungsprozess politische Strukturen erarbeitet hat, für die es in der Welt sonst kein Gleichnis gibt. Und langsam verlagern sich Aufgaben und Pflichten in die EU die lange Zeit als nationale Eigenschaft galten.
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=timpritlove&amp;url=http%3A%2F%2Ffokus-europa.de%2Fpodcast%2Ffe003-die-europaeische-union%2F&amp;language=de_DE&amp;category=audio&amp;title=FE003+Die+Europ%C3%A4ische+Union&amp;description=%C3%9Cber+die+Entstehung+und+Strukturen+der+Union%2C+der+Beziehung+der+Menschen+zum+B%C3%BCndnis+und+seine+k%C3%BCnftigen+Ziele+Almut+M%C3%B6ller+Die+Europ%C3%A4ische+Union+ist+ein+komplexes+Unterfangen+und+leidet+in+der...&amp;tags=podcast%2C+fokuseuropa%2C+boellstiftung" type="text/html"/>
+                    <psc:chapters version="1.2">
+                        <psc:chapter start="00:00:00.000" title="Intro"/>
+                        <psc:chapter start="00:00:23.484" title="Vorstellung"/>
+                        <psc:chapter start="00:06:56.760" title="Sprache und Europäische Debatte"/>
+                        <psc:chapter start="00:16:55.188" title="Entstehung der EU"/>
+                        <psc:chapter start="00:27:38.531" title="Das Drei-Säulen-Modell"/>
+                        <psc:chapter start="00:33:49.974" title="Die Europäischen Verträge"/>
+                        <psc:chapter start="00:38:54.708" title="Eine Europäische Verfassung"/>
+                        <psc:chapter start="00:45:31.193" title="Der Glaube an Europa"/>
+                        <psc:chapter start="00:51:54.937" title="Struktur der EU"/>
+                        <psc:chapter start="01:07:28.526" title="Personen und die neue Bedeutung der Europäischen Politik"/>
+                        <psc:chapter start="01:16:51.958" title="Machtstrukturen"/>
+                        <psc:chapter start="01:23:45.313" title="Weiterentwicklung der EU-Struktur"/>
+                        <psc:chapter start="01:30:58.286" title="Transparenz, Internationale Verträge und die Ziele der EU"/>
+                        <psc:chapter start="01:46:30.208" title="Verabschiedung"/>
+                    </psc:chapters>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://fokus-europa.de/podcast/fe003-die-europaeische-union/#"/>
+                    <itunes:duration>01:48:02</itunes:duration>
+                    <itunes:author>Heinrich Böll Stiftung</itunes:author>
+                    <itunes:subtitle>Über die Entstehung und Strukturen der Union, der Beziehung der Menschen zum Bündnis und seine künftigen Ziele</itunes:subtitle>
+                    <itunes:summary>Die Europäische Union ist ein komplexes Unterfangen und leidet in der seiner Effizienz am notwendigen Konsens mit der Politik und Kultur der Mitgliedsländer. Doch dort liegt auch die Stärke des Bündnisses, das sich in einem jahrzehntelangen Anpassungsprozess politische Strukturen erarbeitet hat, für die es in der Welt sonst kein Gleichnis gibt. Und langsam verlagern sich Aufgaben und Pflichten in die EU die lange Zeit als nationale Eigenschaft galten.
 
 In der dritten Ausgabe unserer Sendereihe treffen wir auf Almut Möller, Programmleiterin des  Alfred von Oppenheim-Zentrum für Europäische Zukunftsfragen bei der Deutschen Gesellschaft für Auswärtige Politik (DGAP). Mit ihr sprechen wir über das Wesen der Europäischen Debatte, die Struktur der Europäischen Union und dem Machtverhältnis seiner Institutionen, dem "Glauben an Europa", der wachsenden Bedeutung des europäischen Themas in der Politik und die Ziele der Union in den nächsten Jahrzehnten – ein aufschlussreiches und reichhaltiges Gespräch über das Projekt EU.</itunes:summary>
-            <content:encoded>  
+                    <content:encoded>  
   
 
 &lt;p class="episode_subtitle"&gt;&lt;strong&gt;&lt;em&gt;Über die Entstehung und Strukturen der Union, der Beziehung der Menschen zum Bündnis und seine künftigen Ziele&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
@@ -424,45 +439,45 @@ In der dritten Ausgabe unserer Sendereihe treffen wir auf Almut Möller, Program
 			&lt;/p&gt;
 		&lt;/div&gt;
 	</content:encoded>
-            <atom:contributor>
-                <atom:name>Tim Pritlove</atom:name>
-                <atom:uri>http://tim.pritlove.org/</atom:uri>
-            </atom:contributor>
-            <enclosure url="http://feedproxy.google.com/~r/fokus-europa-m4a/~5/97kerUnpZGI/fe003-die-europaeische-union.m4a" length="67866372" type="audio/mp4"/>
-            <feedburner:origEnclosureLink>http://fokus-europa.de/podlove/file/64/s/feed/c/m4a/fe003-die-europaeische-union.m4a</feedburner:origEnclosureLink>
-        </item>
-        <item>
-            <title>FE002 Deutschland und Europa</title>
-            <link>http://fokus-europa.de/podcast/fe002-deutschland-und-europa/</link>
-            <pubDate>Thu, 24 Apr 2014 14:54:51 +0000</pubDate>
-            <guid isPermaLink="false">podlove-2014-02-17t14:16:50+00:00-2b213e539c0b251</guid>
-            <description>Nachdem wir in der ersten Folge einen Blick auf den geschichtlichen Verlauf der europäischen Einigung seit dem ersten Weltkrieg geworfen haben, wagt auch die zweite Runde einen weiteren Blick auf die Vergangenheit, wechselt aber den Blickwinkel leicht und richtet ihn auf Deutschland selbst. Wie hat sich das Verhältnis von Deutschland zu den anderen europäischen Staaten entwickelt? Wie wurde Deutschland wahrgenommen und wie hat sich diese Sicht über die Jahrzehnte bis heute verändert? Welche Aufgaben stehen für Deutschland heute in Europa an und wie soll die deutsche Rolle weiterentwickelt werden?
+                    <atom:contributor>
+                        <atom:name>Tim Pritlove</atom:name>
+                        <atom:uri>http://tim.pritlove.org/</atom:uri>
+                    </atom:contributor>
+                    <enclosure url="http://feedproxy.google.com/~r/fokus-europa-m4a/~5/97kerUnpZGI/fe003-die-europaeische-union.m4a" length="67866372" type="audio/mp4"/>
+                    <feedburner:origEnclosureLink>http://fokus-europa.de/podlove/file/64/s/feed/c/m4a/fe003-die-europaeische-union.m4a</feedburner:origEnclosureLink>
+                </item>
+                <item>
+                    <title>FE002 Deutschland und Europa</title>
+                    <link>http://fokus-europa.de/podcast/fe002-deutschland-und-europa/</link>
+                    <pubDate>Thu, 24 Apr 2014 14:54:51 +0000</pubDate>
+                    <guid isPermaLink="false">podlove-2014-02-17t14:16:50+00:00-2b213e539c0b251</guid>
+                    <description>Nachdem wir in der ersten Folge einen Blick auf den geschichtlichen Verlauf der europäischen Einigung seit dem ersten Weltkrieg geworfen haben, wagt auch die zweite Runde einen weiteren Blick auf die Vergangenheit, wechselt aber den Blickwinkel leicht und richtet ihn auf Deutschland selbst. Wie hat sich das Verhältnis von Deutschland zu den anderen europäischen Staaten entwickelt? Wie wurde Deutschland wahrgenommen und wie hat sich diese Sicht über die Jahrzehnte bis heute verändert? Welche Aufgaben stehen für Deutschland heute in Europa an und wie soll die deutsche Rolle weiterentwickelt werden?
 
 Um all dies zu hinterfragen und zu ergründen sprechen wir in dieser Ausgabe von Fokus Europa mit Ulrike Guérot. Die Politikwissenschaftlerin ist seit langem mit Europafragen beschäftigt und hat besondere Erfahrungen mit dem Verhältnis zwischen Deutschland und Frankreich gesammelt. Sie war ihn zahlreichen Organisationen engagiert bis sie zur Open Society Initiative for Europe kam, wo sie vor kurzem eine neue Aufgabe übernommen hat.</description>
-            <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=timpritlove&amp;url=http%3A%2F%2Ffokus-europa.de%2Fpodcast%2Ffe002-deutschland-und-europa%2F&amp;language=de_DE&amp;category=audio&amp;title=FE002+Deutschland+und+Europa&amp;description=Das+Verh%C3%A4ltnis+von+Deutschland+zu+Europa+seit+dem+Ende+des+2.+Weltkriegs+Ulrike+Gu%C3%A9rot+Open+Society+Foundations+Europe+Nachdem+wir+in+der+ersten+Folge+einen+Blick+auf+den+geschichtlichen+Verlauf...&amp;tags=podcast%2C+fokuseuropa%2C+boellstiftung" type="text/html"/>
-            <psc:chapters version="1.2">
-                <psc:chapter start="00:00:00.000" title="Intro"/>
-                <psc:chapter start="00:00:25.929" title="Einführung"/>
-                <psc:chapter start="00:01:29.602" title="Ulrike Guérot"/>
-                <psc:chapter start="00:05:50.398" title="Deutschland nach dem Krieg"/>
-                <psc:chapter start="00:11:21.005" title="Deutschland und Frankreich"/>
-                <psc:chapter start="00:33:17.461" title="Deutschland und Großbritannien"/>
-                <psc:chapter start="00:38:39.373" title="Ausrichtung nach Osten"/>
-                <psc:chapter start="00:51:28.968" title="Die 80er und der Mauerfall"/>
-                <psc:chapter start="00:57:36.333" title="Europa und die DDR"/>
-                <psc:chapter start="01:01:18.983" title="Die Wiedervereinigung und die EU"/>
-                <psc:chapter start="01:15:33.522" title="Deutschland und Polen"/>
-                <psc:chapter start="01:22:42.650" title="Die zweite Deutsche Frage"/>
-                <psc:chapter start="01:36:31.883" title="Verabschiedung"/>
-            </psc:chapters>
-            <atom:link rel="http://podlove.org/deep-link" href="http://fokus-europa.de/podcast/fe002-deutschland-und-europa/#"/>
-            <itunes:duration>01:37:33</itunes:duration>
-            <itunes:author>Heinrich Böll Stiftung</itunes:author>
-            <itunes:subtitle>Das Verhältnis von Deutschland zu Europa seit dem Ende des 2. Weltkriegs</itunes:subtitle>
-            <itunes:summary>Nachdem wir in der ersten Folge einen Blick auf den geschichtlichen Verlauf der europäischen Einigung seit dem ersten Weltkrieg geworfen haben, wagt auch die zweite Runde einen weiteren Blick auf die Vergangenheit, wechselt aber den Blickwinkel leicht und richtet ihn auf Deutschland selbst. Wie hat sich das Verhältnis von Deutschland zu den anderen europäischen Staaten entwickelt? Wie wurde Deutschland wahrgenommen und wie hat sich diese Sicht über die Jahrzehnte bis heute verändert? Welche Aufgaben stehen für Deutschland heute in Europa an und wie soll die deutsche Rolle weiterentwickelt werden?
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=timpritlove&amp;url=http%3A%2F%2Ffokus-europa.de%2Fpodcast%2Ffe002-deutschland-und-europa%2F&amp;language=de_DE&amp;category=audio&amp;title=FE002+Deutschland+und+Europa&amp;description=Das+Verh%C3%A4ltnis+von+Deutschland+zu+Europa+seit+dem+Ende+des+2.+Weltkriegs+Ulrike+Gu%C3%A9rot+Open+Society+Foundations+Europe+Nachdem+wir+in+der+ersten+Folge+einen+Blick+auf+den+geschichtlichen+Verlauf...&amp;tags=podcast%2C+fokuseuropa%2C+boellstiftung" type="text/html"/>
+                    <psc:chapters version="1.2">
+                        <psc:chapter start="00:00:00.000" title="Intro"/>
+                        <psc:chapter start="00:00:25.929" title="Einführung"/>
+                        <psc:chapter start="00:01:29.602" title="Ulrike Guérot"/>
+                        <psc:chapter start="00:05:50.398" title="Deutschland nach dem Krieg"/>
+                        <psc:chapter start="00:11:21.005" title="Deutschland und Frankreich"/>
+                        <psc:chapter start="00:33:17.461" title="Deutschland und Großbritannien"/>
+                        <psc:chapter start="00:38:39.373" title="Ausrichtung nach Osten"/>
+                        <psc:chapter start="00:51:28.968" title="Die 80er und der Mauerfall"/>
+                        <psc:chapter start="00:57:36.333" title="Europa und die DDR"/>
+                        <psc:chapter start="01:01:18.983" title="Die Wiedervereinigung und die EU"/>
+                        <psc:chapter start="01:15:33.522" title="Deutschland und Polen"/>
+                        <psc:chapter start="01:22:42.650" title="Die zweite Deutsche Frage"/>
+                        <psc:chapter start="01:36:31.883" title="Verabschiedung"/>
+                    </psc:chapters>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://fokus-europa.de/podcast/fe002-deutschland-und-europa/#"/>
+                    <itunes:duration>01:37:33</itunes:duration>
+                    <itunes:author>Heinrich Böll Stiftung</itunes:author>
+                    <itunes:subtitle>Das Verhältnis von Deutschland zu Europa seit dem Ende des 2. Weltkriegs</itunes:subtitle>
+                    <itunes:summary>Nachdem wir in der ersten Folge einen Blick auf den geschichtlichen Verlauf der europäischen Einigung seit dem ersten Weltkrieg geworfen haben, wagt auch die zweite Runde einen weiteren Blick auf die Vergangenheit, wechselt aber den Blickwinkel leicht und richtet ihn auf Deutschland selbst. Wie hat sich das Verhältnis von Deutschland zu den anderen europäischen Staaten entwickelt? Wie wurde Deutschland wahrgenommen und wie hat sich diese Sicht über die Jahrzehnte bis heute verändert? Welche Aufgaben stehen für Deutschland heute in Europa an und wie soll die deutsche Rolle weiterentwickelt werden?
 
 Um all dies zu hinterfragen und zu ergründen sprechen wir in dieser Ausgabe von Fokus Europa mit Ulrike Guérot. Die Politikwissenschaftlerin ist seit langem mit Europafragen beschäftigt und hat besondere Erfahrungen mit dem Verhältnis zwischen Deutschland und Frankreich gesammelt. Sie war ihn zahlreichen Organisationen engagiert bis sie zur Open Society Initiative for Europe kam, wo sie vor kurzem eine neue Aufgabe übernommen hat.</itunes:summary>
-            <content:encoded>  
+                    <content:encoded>  
   
 
 &lt;p class="episode_subtitle"&gt;&lt;strong&gt;&lt;em&gt;Das Verhältnis von Deutschland zu Europa seit dem Ende des 2. Weltkriegs&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
@@ -527,48 +542,48 @@ Um all dies zu hinterfragen und zu ergründen sprechen wir in dieser Ausgabe von
 			&lt;/p&gt;
 		&lt;/div&gt;
 	</content:encoded>
-            <atom:contributor>
-                <atom:name>Tim Pritlove</atom:name>
-                <atom:uri>http://tim.pritlove.org/</atom:uri>
-            </atom:contributor>
-            <enclosure url="http://feedproxy.google.com/~r/fokus-europa-m4a/~5/jFbVqLH0N8E/fe002-deutschland-und-europa.m4a" length="61339765" type="audio/mp4"/>
-            <feedburner:origEnclosureLink>http://fokus-europa.de/podlove/file/9/s/feed/c/m4a/fe002-deutschland-und-europa.m4a</feedburner:origEnclosureLink>
-        </item>
-        <item>
-            <title>FE001 Geschichte der Europäischen Einigung</title>
-            <link>http://fokus-europa.de/podcast/fe001-geschichte-der-europaeischen-einigung/</link>
-            <pubDate>Wed, 09 Apr 2014 11:00:29 +0000</pubDate>
-            <guid isPermaLink="false">podlove-2014-02-03t11:33:05+00:00-73b5c6ed4bcbd05</guid>
-            <description>Diese erste Folge von Fokus Europa ist ein Gespräch mit Eckart Stratenschulte, dem Leiter der Europäischen Akademie Berlin, über die Geschichte der Europäischen Einigung.
+                    <atom:contributor>
+                        <atom:name>Tim Pritlove</atom:name>
+                        <atom:uri>http://tim.pritlove.org/</atom:uri>
+                    </atom:contributor>
+                    <enclosure url="http://feedproxy.google.com/~r/fokus-europa-m4a/~5/jFbVqLH0N8E/fe002-deutschland-und-europa.m4a" length="61339765" type="audio/mp4"/>
+                    <feedburner:origEnclosureLink>http://fokus-europa.de/podlove/file/9/s/feed/c/m4a/fe002-deutschland-und-europa.m4a</feedburner:origEnclosureLink>
+                </item>
+                <item>
+                    <title>FE001 Geschichte der Europäischen Einigung</title>
+                    <link>http://fokus-europa.de/podcast/fe001-geschichte-der-europaeischen-einigung/</link>
+                    <pubDate>Wed, 09 Apr 2014 11:00:29 +0000</pubDate>
+                    <guid isPermaLink="false">podlove-2014-02-03t11:33:05+00:00-73b5c6ed4bcbd05</guid>
+                    <description>Diese erste Folge von Fokus Europa ist ein Gespräch mit Eckart Stratenschulte, dem Leiter der Europäischen Akademie Berlin, über die Geschichte der Europäischen Einigung.
 
 Vor 100 Jahren begann der Erste Weltkrieg und damit wurde im Kontinent Europa auf eine schmerzvolle Art und Weise eine langfristige Transformation eingeleitet, die erst ein halbes Jahrhundert später zu Frieden und Stabilität führte.
 
 Gemeinsam blicken wir auf die Geschichte der europäischen Einigung, die besonders durch die beiden Weltkriege zunächst einmal vollkommen aus den Fugen geriet und dessen Schock aber letztlich die europäischen Nationen zwang, sich einer politischen, integrativen Einigung zu öffnen. Dies war letztlich die Basis einer friedlichen Entwicklung, die bis heute erfolgreich weitere kriegerische Auseinandersetzungen unter den Mitgliedern der Europäischen Union unterbunden und faktisch unmöglich gemacht hat.</description>
-            <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=timpritlove&amp;url=http%3A%2F%2Ffokus-europa.de%2Fpodcast%2Ffe001-geschichte-der-europaeischen-einigung%2F&amp;language=de_DE&amp;category=audio&amp;title=FE001+Geschichte+der+Europ%C3%A4ischen+Einigung&amp;description=Vom+Ersten+Weltkrieg+zur+neuen+europ%C3%A4ischen+Ordnung+Eckart+Stratenschulte+Leiter+Europ%C3%A4ische+Akademie+Berlin+Diese+erste+Folge+von+Fokus+Europa+ist+ein+Gespr%C3%A4ch+mit+Eckart+Stratenschulte%2C+dem+Leiter+der+Europ%C3%A4ischen+Akademie...&amp;tags=podcast%2C+fokuseuropa%2C+boellstiftung" type="text/html"/>
-            <psc:chapters version="1.2">
-                <psc:chapter start="00:00:00.000" title="Intro"/>
-                <psc:chapter start="00:00:24.823" title="Einführung"/>
-                <psc:chapter start="00:05:17.505" title="Die alte Ordnung Europas"/>
-                <psc:chapter start="00:17:53.526" title="Die Nachkriegssituation"/>
-                <psc:chapter start="00:29:56.401" title="Die ersten Europäischen Institutionen"/>
-                <psc:chapter start="00:46:12.016" title="Die NATO"/>
-                <psc:chapter start="00:48:23.802" title="Die Europäische Außen- und Sicherheitspolitik"/>
-                <psc:chapter start="00:52:52.042" title="Non-EU Organisationen"/>
-                <psc:chapter start="01:02:45.094" title="Die OSZE"/>
-                <psc:chapter start="01:10:33.443" title="Das Euroopäische Gefühl"/>
-                <psc:chapter start="01:16:15.797" title="Die Zukunft der Europäischen Einigung"/>
-                <psc:chapter start="01:23:29.286" title="Epilog"/>
-            </psc:chapters>
-            <atom:link rel="http://podlove.org/deep-link" href="http://fokus-europa.de/podcast/fe001-geschichte-der-europaeischen-einigung/#"/>
-            <itunes:duration>01:24:56</itunes:duration>
-            <itunes:author>Heinrich Böll Stiftung</itunes:author>
-            <itunes:subtitle>Vom Ersten Weltkrieg zur neuen europäischen Ordnung</itunes:subtitle>
-            <itunes:summary>Diese erste Folge von Fokus Europa ist ein Gespräch mit Eckart Stratenschulte, dem Leiter der Europäischen Akademie Berlin, über die Geschichte der Europäischen Einigung.
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=timpritlove&amp;url=http%3A%2F%2Ffokus-europa.de%2Fpodcast%2Ffe001-geschichte-der-europaeischen-einigung%2F&amp;language=de_DE&amp;category=audio&amp;title=FE001+Geschichte+der+Europ%C3%A4ischen+Einigung&amp;description=Vom+Ersten+Weltkrieg+zur+neuen+europ%C3%A4ischen+Ordnung+Eckart+Stratenschulte+Leiter+Europ%C3%A4ische+Akademie+Berlin+Diese+erste+Folge+von+Fokus+Europa+ist+ein+Gespr%C3%A4ch+mit+Eckart+Stratenschulte%2C+dem+Leiter+der+Europ%C3%A4ischen+Akademie...&amp;tags=podcast%2C+fokuseuropa%2C+boellstiftung" type="text/html"/>
+                    <psc:chapters version="1.2">
+                        <psc:chapter start="00:00:00.000" title="Intro"/>
+                        <psc:chapter start="00:00:24.823" title="Einführung"/>
+                        <psc:chapter start="00:05:17.505" title="Die alte Ordnung Europas"/>
+                        <psc:chapter start="00:17:53.526" title="Die Nachkriegssituation"/>
+                        <psc:chapter start="00:29:56.401" title="Die ersten Europäischen Institutionen"/>
+                        <psc:chapter start="00:46:12.016" title="Die NATO"/>
+                        <psc:chapter start="00:48:23.802" title="Die Europäische Außen- und Sicherheitspolitik"/>
+                        <psc:chapter start="00:52:52.042" title="Non-EU Organisationen"/>
+                        <psc:chapter start="01:02:45.094" title="Die OSZE"/>
+                        <psc:chapter start="01:10:33.443" title="Das Euroopäische Gefühl"/>
+                        <psc:chapter start="01:16:15.797" title="Die Zukunft der Europäischen Einigung"/>
+                        <psc:chapter start="01:23:29.286" title="Epilog"/>
+                    </psc:chapters>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://fokus-europa.de/podcast/fe001-geschichte-der-europaeischen-einigung/#"/>
+                    <itunes:duration>01:24:56</itunes:duration>
+                    <itunes:author>Heinrich Böll Stiftung</itunes:author>
+                    <itunes:subtitle>Vom Ersten Weltkrieg zur neuen europäischen Ordnung</itunes:subtitle>
+                    <itunes:summary>Diese erste Folge von Fokus Europa ist ein Gespräch mit Eckart Stratenschulte, dem Leiter der Europäischen Akademie Berlin, über die Geschichte der Europäischen Einigung.
 
 Vor 100 Jahren begann der Erste Weltkrieg und damit wurde im Kontinent Europa auf eine schmerzvolle Art und Weise eine langfristige Transformation eingeleitet, die erst ein halbes Jahrhundert später zu Frieden und Stabilität führte.
 
 Gemeinsam blicken wir auf die Geschichte der europäischen Einigung, die besonders durch die beiden Weltkriege zunächst einmal vollkommen aus den Fugen geriet und dessen Schock aber letztlich die europäischen Nationen zwang, sich einer politischen, integrativen Einigung zu öffnen. Dies war letztlich die Basis einer friedlichen Entwicklung, die bis heute erfolgreich weitere kriegerische Auseinandersetzungen unter den Mitgliedern der Europäischen Union unterbunden und faktisch unmöglich gemacht hat.</itunes:summary>
-            <content:encoded>  
+                    <content:encoded>  
   
 
 &lt;p class="episode_subtitle"&gt;&lt;strong&gt;&lt;em&gt;Vom Ersten Weltkrieg zur neuen europäischen Ordnung&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
@@ -635,12 +650,14 @@ Gemeinsam blicken wir auf die Geschichte der europäischen Einigung, die besonde
 			&lt;/p&gt;
 		&lt;/div&gt;
 	</content:encoded>
-            <atom:contributor>
-                <atom:name>Tim Pritlove</atom:name>
-                <atom:uri>http://tim.pritlove.org/</atom:uri>
-            </atom:contributor>
-            <enclosure url="http://feedproxy.google.com/~r/fokus-europa-m4a/~5/NSTv02NoEtE/fe001-geschichte-der-europaeischen-einigung.m4a" length="53474891" type="audio/mp4"/>
-            <feedburner:origEnclosureLink>http://fokus-europa.de/podlove/file/1/s/feed/c/m4a/fe001-geschichte-der-europaeischen-einigung.m4a</feedburner:origEnclosureLink>
-        </item>
-    </channel>
-</rss>
+                    <atom:contributor>
+                        <atom:name>Tim Pritlove</atom:name>
+                        <atom:uri>http://tim.pritlove.org/</atom:uri>
+                    </atom:contributor>
+                    <enclosure url="http://feedproxy.google.com/~r/fokus-europa-m4a/~5/NSTv02NoEtE/fe001-geschichte-der-europaeischen-einigung.m4a" length="53474891" type="audio/mp4"/>
+                    <feedburner:origEnclosureLink>http://fokus-europa.de/podlove/file/1/s/feed/c/m4a/fe001-geschichte-der-europaeischen-einigung.m4a</feedburner:origEnclosureLink>
+                </item>
+            </channel>
+        </rss>
+    </httpclient:body>
+</httpclient:response>

@@ -2,10 +2,10 @@
 <httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="200">
     <httpclient:headers>
         <httpclient:header name="Content-Type" value="text/xml; charset=UTF-8"/>
-        <httpclient:header name="ETag" value="a0Gu/ajrKjjzNl9sbXjfq1ilnkc"/>
-        <httpclient:header name="Last-Modified" value="Sun, 03 Aug 2014 21:23:47 GMT"/>
-        <httpclient:header name="Date" value="Sun, 03 Aug 2014 21:41:25 GMT"/>
-        <httpclient:header name="Expires" value="Sun, 03 Aug 2014 21:41:25 GMT"/>
+        <httpclient:header name="ETag" value="KFl64xzix2EQGYkO1J1+csL8c0w"/>
+        <httpclient:header name="Last-Modified" value="Sat, 23 Aug 2014 10:01:20 GMT"/>
+        <httpclient:header name="Date" value="Sat, 23 Aug 2014 10:16:24 GMT"/>
+        <httpclient:header name="Expires" value="Sat, 23 Aug 2014 10:16:24 GMT"/>
         <httpclient:header name="Cache-Control" value="private, max-age=0"/>
         <httpclient:header name="X-Content-Type-Options" value="nosniff"/>
         <httpclient:header name="X-XSS-Protection" value="1; mode=block"/>
@@ -30,7 +30,7 @@
                     <atom:name>Tim Pritlove</atom:name>
                     <atom:uri>http://tim.pritlove.org/</atom:uri>
                 </atom:contributor>
-                <generator>Podlove Podcast Publisher v1.10.16-alpha</generator>
+                <generator>Podlove Podcast Publisher v1.10.19-alpha</generator>
                 <itunes:author>Metaebene Personal Media</itunes:author>
                 <itunes:summary>Der Lautsprecher ist ein Forum für Podcaster und solche, die es vielleicht werden wollen. Tim Pritlove spricht mit ausgewählten Gästen über Technik, Kultur und Methoden des Podcastings.</itunes:summary>
                 <itunes:category text="Technology">

@@ -4,7 +4,7 @@
         <title>Logbuch:Netzpolitik</title>
         <link>http://logbuch-netzpolitik.de</link>
         <description>Rückblicke, Einblicke und Ausblicke auf das netzpolitische Geschehen als wöchentlicher Podcast</description>
-        <lastBuildDate>Fri, 01 Aug 2014 22:24:24 +0000</lastBuildDate>
+        <lastBuildDate>Thu, 21 Aug 2014 19:11:27 +0000</lastBuildDate>
         <atom:link rel="alternate" type="application/rss+xml" title="Logbuch:Netzpolitik (MP3 Audio)" href="http://logbuch-netzpolitik.de/feed/mp3/"/>
         <atom:link rel="alternate" type="application/rss+xml" title="Logbuch:Netzpolitik (Ogg Vorbis Audio)" href="http://logbuch-netzpolitik.de/feed/oga/"/>
         <atom:link rel="next" href="http://logbuch-netzpolitik.de/feed/m4a/?paged=2"/>
@@ -20,7 +20,7 @@
             <atom:name>Tim Pritlove</atom:name>
             <atom:uri>http://tim.pritlove.org/</atom:uri>
         </atom:contributor>
-        <generator>Podlove Podcast Publisher v1.10.16-alpha</generator>
+        <generator>Podlove Podcast Publisher v1.10.19-alpha</generator>
         <itunes:author>Metaebene Personal Media - Tim Pritlove</itunes:author>
         <itunes:summary>Logbuch:Netzpolitik ist ein in der Regel wöchentlich erscheinender Podcast, der im Dialog zwischen Linus Neumann und Tim Pritlove die wichtigsten Themen und Ereignisse mit netzpolitischem Bezug aufgreift und diskutiert.</itunes:summary>
         <itunes:category text="News &amp; Politics"/>
@@ -39,6 +39,334 @@
         <feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="logbuch-netzpolitik"/>
         <atom:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/"/>
         <atom:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://metaebene.superfeedr.com/"/>
+        <item>
+            <title>LNP113 Cyber</title>
+            <link>http://feedproxy.google.com/~r/logbuch-netzpolitik/~3/Ct-kLcD-Sc8/lnp113-cyber</link>
+            <pubDate>Thu, 21 Aug 2014 19:11:27 +0000</pubDate>
+            <guid isPermaLink="false">podlove-2014-08-21t17:59:53+00:00-2b1db04166ded4c</guid>
+            <description>Tim ist wieder da und wir steigen gleich ein mit einer Sendung voller Nicht-Nachrichten: die Digitale Agenda wird verkündet und bleibt schwammig, das ebenfalls mit angekündigte IT-Sicherheitsgesetz ist in seinen Zielsetzungen auch diffus und über allem bricht noch die Neuigkeit herein, dass der Auslandsnachrichtendienst Deutschlands tatsächlich im Ausland aktiv geworden ist. Shocking News. Aber auch Julian Assange bleibt irgendwie undeutlich, in dem er ankündigt, die Botschaft zu verlassen - bloss nicht wann und wie.</description>
+            <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=243&amp;url=http%3A%2F%2Flogbuch-netzpolitik.de%2Flnp113-cyber&amp;language=de_DE&amp;category=audio&amp;title=LNP113+Cyber&amp;description=Tim+ist+wieder+da+und+wir+steigen+gleich+ein+mit+einer+Sendung+voller+Nicht-Nachrichten%3A+die+Digitale+Agenda+wird+verk%C3%BCndet+und+bleibt+schwammig%2C+das+ebenfalls+mit+angek%C3%BCndigte+IT-Sicherheitsgesetz+ist+in+seinen...&amp;tags=podcast%2C+netzpolitik%2C+linus+neumann%2C+tim+pritlove%2C+metaebene" type="text/html"/>
+            <psc:chapters version="1.2">
+                <psc:chapter start="00:00:00.000" title="Intro"/>
+                <psc:chapter start="00:00:38.841" title="Prolog"/>
+                <psc:chapter start="00:01:18.910" title="Digitale Agenda"/>
+                <psc:chapter start="00:45:18.166" title="IT-Sicherheitsgesetz"/>
+                <psc:chapter start="01:19:25.410" title="Der Der BND kann das auch…"/>
+                <psc:chapter start="01:29:02.916" title="Assange wird bald die Botschaft verlassen, sagt aber nicht wie"/>
+                <psc:chapter start="01:34:54.261" title="Epilog"/>
+            </psc:chapters>
+            <atom:link rel="http://podlove.org/deep-link" href="http://logbuch-netzpolitik.de/lnp113-cyber#"/>
+            <itunes:duration>01:36:17</itunes:duration>
+            <itunes:author>Metaebene Personal Media - Tim Pritlove</itunes:author>
+            <itunes:subtitle>Digitale Agenda — IT-Sicherheitsgesetz — Der BND spioniert — Julian Assange</itunes:subtitle>
+            <itunes:summary>Tim ist wieder da und wir steigen gleich ein mit einer Sendung voller Nicht-Nachrichten: die Digitale Agenda wird verkündet und bleibt schwammig, das ebenfalls mit angekündigte IT-Sicherheitsgesetz ist in seinen Zielsetzungen auch diffus und über allem bricht noch die Neuigkeit herein, dass der Auslandsnachrichtendienst Deutschlands tatsächlich im Ausland aktiv geworden ist. Shocking News. Aber auch Julian Assange bleibt irgendwie undeutlich, in dem er ankündigt, die Botschaft zu verlassen - bloss nicht wann und wie.</itunes:summary>
+            <content:encoded>&lt;p&gt;Tim ist wieder da und wir steigen gleich ein mit einer Sendung voller Nicht-Nachrichten: die Digitale Agenda wird verkündet und bleibt schwammig, das ebenfalls mit angekündigte IT-Sicherheitsgesetz ist in seinen Zielsetzungen auch diffus und über allem bricht noch die Neuigkeit herein, dass der Auslandsnachrichtendienst Deutschlands tatsächlich im Ausland aktiv geworden ist. Shocking News. Aber auch Julian Assange bleibt irgendwie undeutlich, in dem er ankündigt, die Botschaft zu verlassen - bloss nicht wann und wie.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Dauer:&lt;/strong&gt; 01:36:17&lt;/p&gt;
+
+
+&lt;div&gt;&lt;/div&gt;
+&lt;div style="text-align: center"&gt;&lt;/div&gt;
+
+&lt;div&gt;
+&lt;table class="podlove-contributors-table"&gt;
+		&lt;tbody&gt;
+				    		    			    		
+
+&lt;tr&gt;
+			&lt;td class="avatar_cell"&gt;
+			&lt;img alt="avatar" src="http://meta.metaebene.me/media/metaebene/contributors/linus-neumann.jpg" class="avatar avatar-50 photo" height="50" width="50" /&gt;		&lt;/td&gt;
+		&lt;td class="title_cell"&gt;
+		Linus Neumann
+			&lt;/td&gt;
+			&lt;td class="social_cell"&gt;
+					&lt;a target="_blank" title="Website" href="http://linus-neumann.de/"&gt;
+				&lt;img width="32" height="32" src="http://logbuch-netzpolitik.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/www-128.png" class="podlove-contributor-button" alt="Website" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="App.net" href="https://alpha.app.net/linuzifer"&gt;
+				&lt;img width="32" height="32" src="http://logbuch-netzpolitik.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/adn-128.png" class="podlove-contributor-button" alt="App.net" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="Twitter" href="https://twitter.com/linuzifer"&gt;
+				&lt;img width="32" height="32" src="http://logbuch-netzpolitik.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/twitter-128.png" class="podlove-contributor-button" alt="Twitter" /&gt;
+			&lt;/a&gt;
+			&lt;/td&gt;
+			&lt;td class="donation_cell"&gt;
+					&lt;a target="_blank" title="Paypal" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=5U2Z7B6A8MHCE"&gt;
+				&lt;img width="32" height="32" src="http://logbuch-netzpolitik.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/paypal-128.png" class="podlove-contributor-button" alt="Paypal" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="Bitcoin" href="bitcoin:162pXHKDr7cHsUXEyr25HpJNiXvgRYLkor"&gt;
+				&lt;img width="32" height="32" src="http://logbuch-netzpolitik.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/bitcoin-128.png" class="podlove-contributor-button" alt="Bitcoin" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="Amazon Wishlist" href="http://www.amazon.de/gp/registry/wishlist/2QN5CA4L3DLF7#?ie=UTF8&amp;site-redirect=de&amp;tag=linusneumannd-21&amp;linkCode=ur2&amp;camp=1638&amp;creative=19454"&gt;
+				&lt;img width="32" height="32" src="http://logbuch-netzpolitik.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/amazonwishlist-128.png" class="podlove-contributor-button" alt="Amazon Wishlist" /&gt;
+			&lt;/a&gt;
+				&lt;/td&gt;
+				&lt;td class="flattr_cell"&gt;
+											&lt;a target="_blank"
+					class="FlattrButton"
+					style="display:none;"
+					title="Flattr Linus Neumann@LNP113 Cyber"
+					rel="flattr;uid:linuzifer;button:compact;popout:0"
+					href="http://logbuch-netzpolitik.de/lnp113-cyber#6a3c009ebe6c965c234c7bfeee3e9d8c"&gt;
+						Flattr Linus Neumann@LNP113 Cyber
+				&lt;/a&gt;
+					&lt;/td&gt;
+	&lt;/tr&gt;		    			    		    			    		
+
+&lt;tr&gt;
+			&lt;td class="avatar_cell"&gt;
+			&lt;img alt="avatar" src="http://meta.metaebene.me/media/metaebene/contributors/tim-pritlove.jpg" class="avatar avatar-50 photo" height="50" width="50" /&gt;		&lt;/td&gt;
+		&lt;td class="title_cell"&gt;
+		Tim Pritlove
+			&lt;/td&gt;
+			&lt;td class="social_cell"&gt;
+					&lt;a target="_blank" title="Website" href="http://metaebene.me"&gt;
+				&lt;img width="32" height="32" src="http://logbuch-netzpolitik.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/www-128.png" class="podlove-contributor-button" alt="Website" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="App.net" href="https://alpha.app.net/timpritlove"&gt;
+				&lt;img width="32" height="32" src="http://logbuch-netzpolitik.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/adn-128.png" class="podlove-contributor-button" alt="App.net" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="Twitter" href="https://twitter.com/timpritlove"&gt;
+				&lt;img width="32" height="32" src="http://logbuch-netzpolitik.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/twitter-128.png" class="podlove-contributor-button" alt="Twitter" /&gt;
+			&lt;/a&gt;
+			&lt;/td&gt;
+			&lt;td class="donation_cell"&gt;
+					&lt;a target="_blank" title="Paypal" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=BQTHPPWX5VQDW"&gt;
+				&lt;img width="32" height="32" src="http://logbuch-netzpolitik.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/paypal-128.png" class="podlove-contributor-button" alt="Paypal" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="Amazon Wishlist" href="http://www.amazon.de/gp/registry/wishlist/2IRJRYW8WNRBR"&gt;
+				&lt;img width="32" height="32" src="http://logbuch-netzpolitik.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/amazonwishlist-128.png" class="podlove-contributor-button" alt="Amazon Wishlist" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="Bitcoin" href="bitcoin:1DUzeNytB6Cbo7RQGrXAfKMLcV6ymSqHFi"&gt;
+				&lt;img width="32" height="32" src="http://logbuch-netzpolitik.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/bitcoin-128.png" class="podlove-contributor-button" alt="Bitcoin" /&gt;
+			&lt;/a&gt;
+				&lt;/td&gt;
+				&lt;td class="flattr_cell"&gt;
+											&lt;a target="_blank"
+					class="FlattrButton"
+					style="display:none;"
+					title="Flattr Tim Pritlove@LNP113 Cyber"
+					rel="flattr;uid:timpritlove;button:compact;popout:0"
+					href="http://logbuch-netzpolitik.de/lnp113-cyber#366fa10d31e0ba5ddaa0a9afd92e44ea"&gt;
+						Flattr Tim Pritlove@LNP113 Cyber
+				&lt;/a&gt;
+					&lt;/td&gt;
+	&lt;/tr&gt;		    			    			&lt;/tbody&gt;
+&lt;/table&gt;
+
+	&lt;script type="text/javascript"&gt;
+(function() {
+	var s = document.createElement('script'), t = document.getElementsByTagName('script')[0];
+	s.type = 'text/javascript';
+	s.async = true;
+	s.src = 'https://api.flattr.com/js/0.6/load.js?mode=auto';
+	t.parentNode.insertBefore(s, t);
+})();
+&lt;/script&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;Digitale Agenda&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.digitale-agenda.de/DA/Navigation/DE/Home/home.html"&gt;Digitale Agenda&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;IT-Sicherheitsgesetz&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.boell.de/de/2014/08/06/politische-loesungen-fuer-eine-sichere-zukunft-der-kommunikation"&gt;Politische Lösungen für eine sichere Zukunft der Kommunikation&lt;/a&gt; (Artikel von Linus, auch bei &lt;a href="http://www.heise.de/security/artikel/Politische-Loesungen-fuer-eine-sichere-Zukunft-der-Kommunikation-2288274.html"&gt;heise&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ccc.de/system/uploads/149/original/StellungnahmeDigitaleAgenda.pdf"&gt;Effektive IT-Sicherheit fördern&lt;/a&gt; (Stellungnahme Linus im BTADA)&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.heise.de/newsticker/meldung/Verfassungsschutz-soll-mehr-zur-IT-Sicherheit-beitragen-2294924.html"&gt;Verfassungsschutz soll mehr zur IT-Sicherheit beitragen&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Der BND kann das auch&amp;#8230;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.spiegel.de/politik/deutschland/bnd-soll-us-aussenministerin-clinton-abgehoert-haben-a-986412.html"&gt;Spionageaffäre: BND hörte US-Außenministerin Clinton ab&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Assange wird bald die Botschaft verlassen, sagt aber nicht wie&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.sueddeutsche.de/politik/wikileaks-gruender-assange-ein-verfahren-mit-risiko-1.2093936"&gt;Wikileaks-Gründer Assange: Ein Verfahren mit Risiko&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+ &lt;p&gt;&lt;a href="http://logbuch-netzpolitik.de/?flattrss_redirect&amp;amp;id=2930&amp;amp;md5=6c5f223b5a9b054e887777ef42253e5b" title="Flattr" target="_blank"&gt;&lt;img src="http://metaebene.me/lnp/wp-content/plugins/flattr/img/flattr-badge-large.png" alt="flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/logbuch-netzpolitik/~4/Ct-kLcD-Sc8" height="1" width="1"/&gt;</content:encoded>
+            <atom:contributor>
+                <atom:name>Linus Neumann</atom:name>
+                <atom:uri>http://www.linus-neumann.de/</atom:uri>
+            </atom:contributor>
+            <atom:contributor>
+                <atom:name>Tim Pritlove</atom:name>
+                <atom:uri>http://tim.pritlove.org/</atom:uri>
+            </atom:contributor>
+            <feedburner:origLink xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">http://logbuch-netzpolitik.de/lnp113-cyber</feedburner:origLink>
+            <enclosure url="http://feedproxy.google.com/~r/logbuch-netzpolitik/~5/zAaClFevjLg/lnp113-cyber.m4a" length="36222944" type="audio/mp4"/>
+            <feedburner:origEnclosureLink xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">http://logbuch-netzpolitik.de/podlove/file/3414/s/feed/c/m4a/lnp113-cyber.m4a</feedburner:origEnclosureLink>
+        </item>
+        <item>
+            <title>LNP112 Die Werdung des Snowdens</title>
+            <link>http://feedproxy.google.com/~r/logbuch-netzpolitik/~3/xUIwt9qrxYc/lnp112-die-werdung-des-snowdens</link>
+            <pubDate>Fri, 15 Aug 2014 09:24:36 +0000</pubDate>
+            <guid isPermaLink="false">podlove-2014-08-15t07:31:12+00:00-67d603e2fcf56cc</guid>
+            <description>Nachdem es uns in den letzten Wochen immer seltener gelungen war, über unsere Defizite im Bereich der Rechtswissenschaften hinweg zu täuschen, lässt Linus sich in dieser Woche durch den Juristen Ulf Buermeyer vertreten, um seinerseits Tim als Moderator zu vertreten.</description>
+            <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=243&amp;url=http%3A%2F%2Flogbuch-netzpolitik.de%2Flnp112-die-werdung-des-snowdens&amp;language=de_DE&amp;category=audio&amp;title=LNP112+Die+Werdung+des+Snowdens&amp;description=Nachdem+es+uns+in+den+letzten+Wochen+immer+seltener+gelungen+war%2C+%C3%BCber+unsere+Defizite+im+Bereich+der+Rechtswissenschaften+hinweg+zu+t%C3%A4uschen%2C+l%C3%A4sst+Linus+sich+in+dieser+Woche+durch+den+Juristen...&amp;tags=CIA%2CFinFisher%2CFunkzellenabfrage%2Cgamma%2CGreenwald%2CNSAUA%2CSpeicherfristen%2Cstille+sms%2CVupen%2Cpodcast%2C+netzpolitik%2C+linus+neumann%2C+tim+pritlove%2C+metaebene" type="text/html"/>
+            <psc:chapters version="1.2">
+                <psc:chapter start="00:00:00.000" title="Intro"/>
+                <psc:chapter start="00:00:23.000" title="Prolog"/>
+                <psc:chapter start="00:13:08.000" title="CIA gibt zu, ihr eigenes parlamentarisches Kontrollgremium überwacht zu haben"/>
+                <psc:chapter start="00:28:41.000" title="7-Tage-IP-Speicherzeit vom BGH genehmigt"/>
+                <psc:chapter start="00:45:11.000" title="Greenwald sagt Auftritt im NSAUA ab"/>
+                <psc:chapter start="00:57:09.000" title="Noch ein Snowden? The Intercept enthüllt Terror-Liste"/>
+                <psc:chapter start="01:11:45.000" title="Finfisher gehackt"/>
+                <psc:chapter start="01:35:23.000" title="Email-Scans nach illegalen Dateien"/>
+                <psc:chapter start="01:46:16.000" title="Überwachungsmaßnahmen im Mobilfunk nehmen zu"/>
+                <psc:chapter start="02:12:07.000" title="Epilog"/>
+            </psc:chapters>
+            <atom:link rel="http://podlove.org/deep-link" href="http://logbuch-netzpolitik.de/lnp112-die-werdung-des-snowdens#"/>
+            <itunes:duration>02:13:10</itunes:duration>
+            <itunes:author>Metaebene Personal Media - Tim Pritlove</itunes:author>
+            <itunes:subtitle>CIA – IP-Speicherfristen – Greenwald nicht im NSAUA – Noch ein Snowden – Finfisher gehackt – Email-Scans – Mobilfunküberwachung</itunes:subtitle>
+            <itunes:summary>Nachdem es uns in den letzten Wochen immer seltener gelungen war, über unsere Defizite im Bereich der Rechtswissenschaften hinweg zu täuschen, lässt Linus sich in dieser Woche durch den Juristen Ulf Buermeyer vertreten, um seinerseits Tim als Moderator zu vertreten.</itunes:summary>
+            <content:encoded>&lt;p&gt;Nachdem es uns in den letzten Wochen immer seltener gelungen war, über unsere Defizite im Bereich der Rechtswissenschaften hinweg zu täuschen, lässt Linus sich in dieser Woche durch den Juristen Ulf Buermeyer vertreten, um seinerseits Tim als Moderator zu vertreten.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Dauer:&lt;/strong&gt; 02:13:10&lt;/p&gt;
+
+
+&lt;div&gt;&lt;/div&gt;
+&lt;div style="text-align: center"&gt;&lt;/div&gt;
+
+&lt;div&gt;
+&lt;table class="podlove-contributors-table"&gt;
+		&lt;tbody&gt;
+				    		    			    		
+
+&lt;tr&gt;
+			&lt;td class="avatar_cell"&gt;
+			&lt;img alt="avatar" src="http://meta.metaebene.me/media/metaebene/contributors/linus-neumann.jpg" class="avatar avatar-50 photo" height="50" width="50" /&gt;		&lt;/td&gt;
+		&lt;td class="title_cell"&gt;
+		Linus Neumann
+			&lt;/td&gt;
+			&lt;td class="social_cell"&gt;
+					&lt;a target="_blank" title="Website" href="http://linus-neumann.de/"&gt;
+				&lt;img width="32" height="32" src="http://logbuch-netzpolitik.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/www-128.png" class="podlove-contributor-button" alt="Website" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="App.net" href="https://alpha.app.net/linuzifer"&gt;
+				&lt;img width="32" height="32" src="http://logbuch-netzpolitik.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/adn-128.png" class="podlove-contributor-button" alt="App.net" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="Twitter" href="https://twitter.com/linuzifer"&gt;
+				&lt;img width="32" height="32" src="http://logbuch-netzpolitik.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/twitter-128.png" class="podlove-contributor-button" alt="Twitter" /&gt;
+			&lt;/a&gt;
+			&lt;/td&gt;
+			&lt;td class="donation_cell"&gt;
+					&lt;a target="_blank" title="Paypal" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=5U2Z7B6A8MHCE"&gt;
+				&lt;img width="32" height="32" src="http://logbuch-netzpolitik.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/paypal-128.png" class="podlove-contributor-button" alt="Paypal" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="Bitcoin" href="bitcoin:162pXHKDr7cHsUXEyr25HpJNiXvgRYLkor"&gt;
+				&lt;img width="32" height="32" src="http://logbuch-netzpolitik.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/bitcoin-128.png" class="podlove-contributor-button" alt="Bitcoin" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="Amazon Wishlist" href="http://www.amazon.de/gp/registry/wishlist/2QN5CA4L3DLF7#?ie=UTF8&amp;site-redirect=de&amp;tag=linusneumannd-21&amp;linkCode=ur2&amp;camp=1638&amp;creative=19454"&gt;
+				&lt;img width="32" height="32" src="http://logbuch-netzpolitik.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/amazonwishlist-128.png" class="podlove-contributor-button" alt="Amazon Wishlist" /&gt;
+			&lt;/a&gt;
+				&lt;/td&gt;
+				&lt;td class="flattr_cell"&gt;
+											&lt;a target="_blank"
+					class="FlattrButton"
+					style="display:none;"
+					title="Flattr Linus Neumann@LNP112 Die Werdung des Snowdens"
+					rel="flattr;uid:linuzifer;button:compact;popout:0"
+					href="http://logbuch-netzpolitik.de/lnp112-die-werdung-des-snowdens#6a3c009ebe6c965c234c7bfeee3e9d8c"&gt;
+						Flattr Linus Neumann@LNP112 Die Werdung des Snowdens
+				&lt;/a&gt;
+					&lt;/td&gt;
+	&lt;/tr&gt;		    			    		    			    		
+
+&lt;tr&gt;
+			&lt;td class="avatar_cell"&gt;
+			&lt;img alt="avatar" src="http://meta.metaebene.me/media/metaebene/contributors/ulf-buermeyer.jpg" class="avatar avatar-50 photo" height="50" width="50" /&gt;		&lt;/td&gt;
+		&lt;td class="title_cell"&gt;
+		Ulf Buermeyer
+			&lt;/td&gt;
+			&lt;td class="social_cell"&gt;
+					&lt;a target="_blank" title="Website" href="http://buermeyer.de"&gt;
+				&lt;img width="32" height="32" src="http://logbuch-netzpolitik.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/www-128.png" class="podlove-contributor-button" alt="Website" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="Twitter" href="https://twitter.com/vieuxrenard"&gt;
+				&lt;img width="32" height="32" src="http://logbuch-netzpolitik.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/twitter-128.png" class="podlove-contributor-button" alt="Twitter" /&gt;
+			&lt;/a&gt;
+			&lt;/td&gt;
+			&lt;td class="donation_cell"&gt;
+				&lt;/td&gt;
+				&lt;td class="flattr_cell"&gt;
+											&lt;a target="_blank"
+					class="FlattrButton"
+					style="display:none;"
+					title="Flattr Ulf Buermeyer@LNP112 Die Werdung des Snowdens"
+					rel="flattr;uid:if0xx;button:compact;popout:0"
+					href="http://logbuch-netzpolitik.de/lnp112-die-werdung-des-snowdens#7a3debcc870115dfab2ba59b64efbaf4"&gt;
+						Flattr Ulf Buermeyer@LNP112 Die Werdung des Snowdens
+				&lt;/a&gt;
+					&lt;/td&gt;
+	&lt;/tr&gt;		    			    			&lt;/tbody&gt;
+&lt;/table&gt;
+
+	&lt;script type="text/javascript"&gt;
+(function() {
+	var s = document.createElement('script'), t = document.getElementsByTagName('script')[0];
+	s.type = 'text/javascript';
+	s.async = true;
+	s.src = 'https://api.flattr.com/js/0.6/load.js?mode=auto';
+	t.parentNode.insertBefore(s, t);
+})();
+&lt;/script&gt;
+&lt;/div&gt;
+&lt;p&gt;Auch das zuletzt großspurig angekündigte Sommerloch fiel bis auf weiteres&#160;aus, so dass wir im angeregten Austausch über die&#160;Meldungen der vergangenen Tage ohne Mühe die Zwei-Stunden-Marke reißen.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Prolog&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://buermeyer.de/ulf/"&gt;Ulf Buermeyer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a style="font-style: normal;" href="http://www.kuechenstud.io/kuechenradio/"&gt;KR378 Mythos USA&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Revision_(Recht)"&gt;Revision&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Berufung_(Recht)"&gt;Berufung&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;CIA gibt zu, ihr eigenes parlamentarisches Kontrollgremium überwacht zu haben&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.nytimes.com/2014/08/01/world/senate-intelligence-commitee-cia-interrogation-report.html"&gt;Inquiry by C.I.A. Affirms It Spied on Senate Panel&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.tagesschau.de/ausland/cia-senat-100.html"&gt;CIA entschuldigt sich für Bespitzelung&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.opensecrets.org/politicians/summary.php?cid=N00007364"&gt;Senator Dianne Feinstein&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lawblog.de/index.php/archives/2014/07/29/provider-duerfen-ip-adressen-speichern/"&gt;Provider dürfen IP-Adressen speichern&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.gesetze-im-internet.de/tkg_2004/__100.html"&gt;§ 100 Störungen von Telekommunikationsanlagen und Missbrauch von Telekommunikationsdiensten&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Greenwald sagt Auftritt im NSAUA ab&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.spiegel.de/politik/deutschland/glenn-greenwald-sagt-zeugenvernehmung-vor-nsa-ausschuss-ab-a-984030.html"&gt;NSA-Ausschuss im Bundestag: Snowden-Vertrauter Greenwald lehnt Aussage ab&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.spiegel.de/politik/deutschland/snowden-oppermann-draengt-whistleblower-zur-rueckkehr-in-die-usa-a-983956.html"&gt;SPD-Fraktionschef Oppermann: &amp;#8220;Snowden darf unser Verhältnis zu den USA nicht belasten&amp;#8221;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Noch ein Snowden? The Intercept enthüllt Terror-Liste&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a style="font-style: normal;" href="https://netzpolitik.org/2014/ueber-eine-million-als-terroristen-in-us-datenbank-erfasst-diesmal-aber-kein-snowden-leak/"&gt;Über eine Million als “Terroristen” in US-Datenbank erfasst, diesmal aber kein Snowden-Leak&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Finfisher gehackt&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://netzpolitik.org/2014/gamma-finfisher-gehackt-werbe-videos-von-exploits-und-quelltext-von-finfly-web-veroeffentlicht/"&gt;Gamma FinFisher gehackt: Werbe-Videos von Exploits und Quelltext von FinFly Web veröffentlicht&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://netzpolitik.org/2014/gamma-finfisher-ueberwachungstechnologie-made-in-germany-gegen-arabischen-fruehling-in-bahrain-eingesetzt/"&gt;Gamma FinFisher: Überwachungstechnologie “made in Germany” gegen Arabischen Frühling in Bahrain eingesetzt (Update)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Vupen"&gt;Vupen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://logbuch-netzpolitik.de/lnp024"&gt;LNP024 Episches Mäandern&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://logbuch-netzpolitik.de/lnp079-lass-uns-nochmal-ueber-den-preis-reden"&gt;LNP079 Lass uns nochmal über den Preis reden&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/24_(Fernsehserie)"&gt;24 (Fernsehserie)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Email-Scans nach illegalen Dateien&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.heise.de/newsticker/meldung/Kinderpornographie-Google-verteidigt-E-Mail-Scan-2284919.html"&gt;Kinderpornographie: Google verteidigt E-Mail-Scan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.spiegel.de/netzwelt/netzpolitik/kinderpornografie-microsoft-scannt-live-und-onedrive-a-984902.html"&gt;Kinderpornografie: Verdächtiger nach Hinweis von Microsoft festgenommen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.heise.de/newsticker/meldung/Deutsche-E-Mail-Anbieter-durchsuchen-Mails-nicht-nach-Kinderpornos-2288305.html"&gt;Deutsche E-Mail-Anbieter durchsuchen Mails nicht nach Kinderpornos&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Überwachungsmaßnahmen im Mobilfunk nehmen zu&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.spiegel.de/politik/deutschland/handy-ortung-verfassungsschutz-verschickt-immer-mehr-stille-sms-a-984665.html"&gt;Heimliche Handy-Ortung: Deutsche Behörden versenden Zehntausende &amp;#8220;stille SMS&amp;#8221;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.lto.de/recht/hintergruende/h/stille-sms-ermaechtigungsgrundlage/"&gt;Stille SMS –&#160;So basteln Sie sich eine Ermächtigungsgrundlage&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://opensource.srlabs.de/projects/mobile-network-assessment-tools/wiki/CatcherCatcher" class="broken_link"&gt;CatcherCatcher – Software, die unter anderem stille SMS sichtbar macht&lt;/a&gt;; gibt es auch als &lt;a href="https://opensource.srlabs.de/projects/mobile-network-assessment-tools/wiki/GSMmap-live" class="broken_link"&gt;Live-System&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://events.ccc.de/congress/2013/Fahrplan/events/5449.html"&gt;30C3: Mobile network attack evolution&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+ &lt;p&gt;&lt;a href="http://logbuch-netzpolitik.de/?flattrss_redirect&amp;amp;id=2919&amp;amp;md5=d2396ef897062376e246a216c525fc60" title="Flattr" target="_blank"&gt;&lt;img src="http://metaebene.me/lnp/wp-content/plugins/flattr/img/flattr-badge-large.png" alt="flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/logbuch-netzpolitik/~4/xUIwt9qrxYc" height="1" width="1"/&gt;</content:encoded>
+            <atom:contributor>
+                <atom:name>Linus Neumann</atom:name>
+                <atom:uri>http://www.linus-neumann.de/</atom:uri>
+            </atom:contributor>
+            <feedburner:origLink xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">http://logbuch-netzpolitik.de/lnp112-die-werdung-des-snowdens</feedburner:origLink>
+            <enclosure url="http://feedproxy.google.com/~r/logbuch-netzpolitik/~5/DgWXB0Ay6WQ/lnp112-die-werdung-des-snowdens.m4a" length="50017871" type="audio/mp4"/>
+            <feedburner:origEnclosureLink xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">http://logbuch-netzpolitik.de/podlove/file/3370/s/feed/c/m4a/lnp112-die-werdung-des-snowdens.m4a</feedburner:origEnclosureLink>
+        </item>
         <item>
             <title>LNP111 Das goldene Häkchen</title>
             <link>http://feedproxy.google.com/~r/logbuch-netzpolitik/~3/z1yfexcY664/lnp111-das-goldene-haekchen</link>
@@ -3715,7 +4043,7 @@ Im weiteren Verlauf kehren wir noch ein paar Kurzmeldungen zusammen und hinterfr
         </item>
         <item>
             <title>LNP090 Vorratsdatenspeicherungssprachregelung</title>
-            <link>http://feedproxy.google.com/~r/logbuch-netzpolitik/~3/EpeCt3XkqD8/lnp090-vorratsdatenspeicherungssprachregelung</link>
+            <link>http://logbuch-netzpolitik.de/lnp090-vorratsdatenspeicherungssprachregelung</link>
             <pubDate>Wed, 22 Jan 2014 16:26:54 +0000</pubDate>
             <guid isPermaLink="false">podlove-2014-01-22t09:31:03+00:00-bb5c528ae115514</guid>
             <description>Deutschland diskutiert über das kaputte Internet. Wir auch. Und wir gehen gleich an die Quelle der Diskussion und haben uns Sascha Lobo ins Studio eingeladen. Meinungsfreudig steigt er in unsere zahlreichen Themen der Woche ein und gibt uns einen Eindruck von seinem Leben als professioneller Interneterklärer.</description>
@@ -3733,6 +4061,7 @@ Im weiteren Verlauf kehren wir noch ein paar Kurzmeldungen zusammen und hinterfr
                 <psc:chapter start="02:03:17.734" title="Epilog"/>
             </psc:chapters>
             <atom:link rel="http://podlove.org/deep-link" href="http://logbuch-netzpolitik.de/lnp090-vorratsdatenspeicherungssprachregelung#"/>
+            <enclosure url="http://logbuch-netzpolitik.de/podlove/file/3011/s/feed/c/m4a/lnp090-vorratsdatenspeicherungssprachregelung.m4a" length="46510675" type="audio/mp4"/>
             <itunes:duration>02:03:55</itunes:duration>
             <itunes:author>Metaebene Personal Media - Tim Pritlove</itunes:author>
             <itunes:subtitle>Internet kaputt — Obama-Rede — Netzneutralität — Vorratsdatenspeicherungssprachregelung — E-Mail-Konto-Klau — Porno-Abmahnungen — Zensurheberrecht</itunes:subtitle>
@@ -3916,7 +4245,7 @@ Zentrale Fragen beantwortet es nicht.&lt;/p&gt;
 &lt;li&gt;&lt;a href="https://netzpolitik.org/2012/der-deutsche-bundestag-fordert-uns-auf-das-bisher-geheim-gehaltene-gutachten-zur-abgeordnetenkorruption-zu-depublizieren/"&gt;Der Deutsche Bundestag fordert uns auf, das bisher geheim gehaltene Gutachten zur Abgeordnetenkorruption zu depublizieren (2012!)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;&#160;&lt;/strong&gt;&lt;/p&gt;
- &lt;p&gt;&lt;a href="http://logbuch-netzpolitik.de/?flattrss_redirect&amp;amp;id=2589&amp;amp;md5=59d4fca535276997d5879057b40813f2" title="Flattr" target="_blank"&gt;&lt;img src="http://metaebene.me/lnp/wp-content/plugins/flattr/img/flattr-badge-large.png" alt="flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/logbuch-netzpolitik/~4/EpeCt3XkqD8" height="1" width="1"/&gt;</content:encoded>
+ &lt;p&gt;&lt;a href="http://logbuch-netzpolitik.de/?flattrss_redirect&amp;amp;id=2589&amp;amp;md5=59d4fca535276997d5879057b40813f2" title="Flattr" target="_blank"&gt;&lt;img src="http://metaebene.me/lnp/wp-content/plugins/flattr/img/flattr-badge-large.png" alt="flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;</content:encoded>
             <atom:contributor>
                 <atom:name>Linus Neumann</atom:name>
                 <atom:uri>http://www.linus-neumann.de/</atom:uri>
@@ -3929,13 +4258,10 @@ Zentrale Fragen beantwortet es nicht.&lt;/p&gt;
                 <atom:name>Sascha Lobo</atom:name>
                 <atom:uri>http://saschalobo.com</atom:uri>
             </atom:contributor>
-            <feedburner:origLink xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">http://logbuch-netzpolitik.de/lnp090-vorratsdatenspeicherungssprachregelung</feedburner:origLink>
-            <enclosure url="http://feedproxy.google.com/~r/logbuch-netzpolitik/~5/Mcx5dCNrPig/lnp090-vorratsdatenspeicherungssprachregelung.m4a" length="46510675" type="audio/mp4"/>
-            <feedburner:origEnclosureLink xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">http://logbuch-netzpolitik.de/podlove/file/3011/s/feed/c/m4a/lnp090-vorratsdatenspeicherungssprachregelung.m4a</feedburner:origEnclosureLink>
         </item>
         <item>
             <title>LNP089 Botschaft bedeutet Botschaft</title>
-            <link>http://feedproxy.google.com/~r/logbuch-netzpolitik/~3/gwqLq5mcM5s/lnp089-botschaft-bedeutet-botschaft</link>
+            <link>http://logbuch-netzpolitik.de/lnp089-botschaft-bedeutet-botschaft</link>
             <pubDate>Fri, 10 Jan 2014 17:47:55 +0000</pubDate>
             <guid isPermaLink="false">podlove-2014-01-10t08:25:25+00:00-b665613e2c25877</guid>
             <description>Nach einem Monat Sendepause nehmen wir im neuen Jahr den Faden auf und versuchen uns die ebenfalls sehr ereignisreichen letzten vier Wochen zusammenzufassen und wagen natürlich auch einen ersten Rückblick auf den 30C3, der eine ausgesprochen ereignisreiche und großartige Veranstaltung war.</description>
@@ -3954,6 +4280,7 @@ Zentrale Fragen beantwortet es nicht.&lt;/p&gt;
                 <psc:chapter start="01:52:28.057" title="Epilog"/>
             </psc:chapters>
             <atom:link rel="http://podlove.org/deep-link" href="http://logbuch-netzpolitik.de/lnp089-botschaft-bedeutet-botschaft#"/>
+            <enclosure url="http://logbuch-netzpolitik.de/podlove/file/2994/s/feed/c/m4a/lnp089-botschaft-bedeutet-botschaft.m4a" length="45975789" type="audio/mp4"/>
             <itunes:duration>02:02:29</itunes:duration>
             <itunes:author>Metaebene Personal Media - Tim Pritlove</itunes:author>
             <itunes:subtitle>30C3 – Vorratsdatenspeicherung – Netzneutralität – ELGA — NSA — Streaming-Abmahnungen — Die neue Datenschutz-Beauftragte — Die neuen Internet-Minister — Ausschuss "Internet und Digitale Agenda"</itunes:subtitle>
@@ -4181,7 +4508,7 @@ Man kann sich dagegen wehren.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a style="font-style: normal" href="http://www.theguardian.com/world/2013/dec/17/merkel-compares-nsa-stasi-obama"&gt;Merkel compared NSA to Stasi in heated encounter with Obama&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
- &lt;p&gt;&lt;a href="http://logbuch-netzpolitik.de/?flattrss_redirect&amp;amp;id=2248&amp;amp;md5=61724fa46a2ac621fa240f8d2b889399" title="Flattr" target="_blank"&gt;&lt;img src="http://metaebene.me/lnp/wp-content/plugins/flattr/img/flattr-badge-large.png" alt="flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/logbuch-netzpolitik/~4/gwqLq5mcM5s" height="1" width="1"/&gt;</content:encoded>
+ &lt;p&gt;&lt;a href="http://logbuch-netzpolitik.de/?flattrss_redirect&amp;amp;id=2248&amp;amp;md5=61724fa46a2ac621fa240f8d2b889399" title="Flattr" target="_blank"&gt;&lt;img src="http://metaebene.me/lnp/wp-content/plugins/flattr/img/flattr-badge-large.png" alt="flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;</content:encoded>
             <atom:contributor>
                 <atom:name>Linus Neumann</atom:name>
                 <atom:uri>http://www.linus-neumann.de/</atom:uri>
@@ -4190,9 +4517,6 @@ Man kann sich dagegen wehren.&lt;/p&gt;
                 <atom:name>Tim Pritlove</atom:name>
                 <atom:uri>http://tim.pritlove.org/</atom:uri>
             </atom:contributor>
-            <feedburner:origLink xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">http://logbuch-netzpolitik.de/lnp089-botschaft-bedeutet-botschaft</feedburner:origLink>
-            <enclosure url="http://feedproxy.google.com/~r/logbuch-netzpolitik/~5/TPY_ZvBcOl4/lnp089-botschaft-bedeutet-botschaft.m4a" length="45975789" type="audio/mp4"/>
-            <feedburner:origEnclosureLink xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">http://logbuch-netzpolitik.de/podlove/file/2994/s/feed/c/m4a/lnp089-botschaft-bedeutet-botschaft.m4a</feedburner:origEnclosureLink>
         </item>
         <item>
             <title>LNP088 Schamoffensive</title>
@@ -11837,7 +12161,7 @@ Wir behandeln die kommende EU-Datenschutzverordnung, den nicht enden wollenden S
 &lt;li&gt;&lt;a href="http://logbuch-netzpolitik.de/lnp019"&gt;LNP019 Peak Pirate&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://www.spiegel.de/politik/deutschland/netzaktivisten-kritisieren-die-piratenpartei-a-872040.html"&gt;Sven Becker, Spiegel Online: Kritik von Netzaktivisten:&#160;Piraten als böse Stiefkinder&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://www.google.de/url?sa=t&amp;amp;rct=j&amp;amp;q=&amp;amp;esrc=s&amp;amp;source=web&amp;amp;cd=1&amp;amp;cad=rja&amp;amp;ved=0CDQQFjAA&amp;amp;url=http%3A%2F%2Fpopcornpiraten.de%2F&amp;amp;ei=e1TQUP7rI6v34QTq8oGICA&amp;amp;usg=AFQjCNFrThIq1Z2VTPlPAcH6bKCSQsuLQQ&amp;amp;bvm=bv.1355534169,d.bGE"&gt;Popcorn-Piraten&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://morlangseinkuenfte.de" class="broken_link"&gt;Junge Piraten: Morlangs Einkünfte&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://morlangseinkuenfte.de"&gt;Junge Piraten: Morlangs Einkünfte&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Epilog&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -13143,7 +13467,7 @@ synchronisiert.&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Allgemein:
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="http://respectmynet.eu"&gt;Netzneutralität prüfen und Verletzungen sammeln: Respect my net&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://echtesnetz.de"&gt;Echtes Netz: Kampagne des Vereins Digitale Gesellschaft&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://echtesnetz.de" class="broken_link"&gt;Echtes Netz: Kampagne des Vereins Digitale Gesellschaft&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://netzpolitik.org/2011/goldmedia-studie-netzneutralitat/"&gt;Netzpolitik.org, 2011: Goldmedia-Studie: Netzneutralität&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
@@ -13675,7 +13999,7 @@ synchronisiert.&lt;/a&gt;&lt;/li&gt;
 &lt;p&gt;&lt;strong&gt;Google integriert die Fahrplandaten der Deutschen Bahn&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="http://logbuch-netzpolitik.de/files/2012/09/tumblr_m6qo19rP5a1rzd3zfo1_1280.jpg"&gt;&lt;img class="alignright size-medium wp-image-728" alt="" src="http://logbuch-netzpolitik.de/files/2012/09/tumblr_m6qo19rP5a1rzd3zfo1_1280-220x300.jpg" width="220" height="300" /&gt;&lt;/a&gt;Unser Gast &lt;a href="http://www.michael-kreil.de/index.php"&gt;Michael Kreil&lt;/a&gt;, der mit &lt;a href="http://openplanb.tumblr.com"&gt;OpenPlanB&lt;/a&gt; vor kurzem die Fahrplandaten der Deutschen Bahn frei ins Netz gestellt hat erzählt uns, wie und warum er das getan hat – und warum es gar nicht so cool ist, dass die Bahn nun mit Google kooperiert – aber eben auch nur mit Google.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="http://zugmonitor.sueddeutsche.de"&gt;Zugmonitor&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://zugmonitor.sueddeutsche.de" class="broken_link"&gt;Zugmonitor&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://www.zeit.de/datenschutz/malte-spitz-vorratsdaten"&gt;Verräterisches Handy: Die Vorratsdaten von Malte Spitz&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://www.hacon.de"&gt;HaCon: Das HAFAS-System&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://openplanb.tumblr.com"&gt;OpenPlanB&lt;/a&gt;&lt;/li&gt;
@@ -14364,7 +14688,7 @@ synchronisiert.&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://netzpolitik.org/2012/kommentarkultur-neu-entwickeln/"&gt;netzpolitik.org: Kommentarkultur neu entwickeln&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://xkcd.com/386/"&gt;xkcd: Somebody is wrong on the Internet&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://blog.refefe.de"&gt;Re:Fefes Blog&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://slashdot.org/moderation.shtml"&gt;Slashdot Moderation System&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://slashdot.org/moderation.shtml" class="broken_link"&gt;Slashdot Moderation System&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Romantischer Ausklang&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -16651,7 +16975,7 @@ synchronisiert.&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://www.bof.nl/2012/05/08/netherlands-first-country-in-europe-with-net-neutrality/"&gt;Bits of Freedom: Netherlands first country in Europe with net neutrality&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://netzpolitik.org/2012/niederlande-netzneutralitats-gesetz-nimmt-erste-hurde/"&gt;Markus Beckedahl, Netzpolitik.org: Niederlande Netzneutralitatsgesetz nimmt&#160;&lt;del&gt;erste&lt;/del&gt;&#160;Hürde&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://digitalegesellschaft.de/2012/05/vorbild-niederlande-echtes-netz-muss-gesichert-werden/"&gt;Digitale Gesellschaft e.V.: Vorbild Niederlande: Echtes Netz muss gesichert werden&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://echtesnetz.de/"&gt;Digitale Gesellschaft e.V.: Echtes Netz&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://echtesnetz.de/" class="broken_link"&gt;Digitale Gesellschaft e.V.: Echtes Netz&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://netzpolitik.org/2011/niederlandisches-parlament-stimmt-fur-netzneutralitat/"&gt;Linus Neumann, netzpolitik.org (2011!): Niederländisches Parlament stimmt für Netzneutralität&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://netzpolitik.org/2011/npp110-netzaktivismus-und-digitale-gesellschaft-e-v/"&gt;NPP110: Netzaktivismus und Digitale Gesellschaft e.V.&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -17401,7 +17725,7 @@ Um dem in &lt;a href="http://logbuch-netzpolitik.de/lnp019"&gt;LNP19&lt;/a&gt; a
 &lt;p&gt;Die konservative Regierung unter David Cameron möchte Überwachungsprogramme etablieren, die weit über die momentane Vorratsdatenspeicherung hinausgehen.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://secure.38degrees.org.uk/page/s/stop-government-snooping#petition"&gt;38 degrees: Stop government snooping&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://action.openrightsgroup.org/ea-campaign/clientcampaign.do?ea.client.id=1422&amp;amp;ea.campaign.id=8227" class="broken_link"&gt;Open Rights Group: Stop the government snooping on every email and facebook message&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://action.openrightsgroup.org/ea-campaign/clientcampaign.do?ea.client.id=1422&amp;amp;ea.campaign.id=8227"&gt;Open Rights Group: Stop the government snooping on every email and facebook message&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://www.homeoffice.gov.uk/counter-terrorism/communications-data/"&gt;Homeoffice.gov.uk: Communications Data&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://www.heise.de/tp/artikel/36/36712/1.html"&gt;Christian Bunke, Telepolis:&#160;Lizenz zum ungehinderten Lauschen und Sammeln&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -17789,7 +18113,7 @@ Um dem in &lt;a href="http://logbuch-netzpolitik.de/lnp019"&gt;LNP19&lt;/a&gt; a
 &lt;/script&gt;
 &lt;/div&gt;
 &lt;p&gt;&lt;strong&gt;Thomas Lohninger&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Zu Gast ist &lt;a href="http://socialhack.eu/"&gt;Thomas Lohninger&lt;/a&gt;, der uns vom netzpolitischen Geschehen in Österreich berichtet. Er podcastet regelmäßig bei &lt;a href="http://www.talkinganthropology.com/"&gt;Talking Anthropology&lt;/a&gt;&#160;und &lt;a href="http://signal.hackerspaces.org/"&gt;signal.hackerspaces&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Zu Gast ist &lt;a href="http://socialhack.eu/"&gt;Thomas Lohninger&lt;/a&gt;, der uns vom netzpolitischen Geschehen in Österreich berichtet. Er podcastet regelmäßig bei &lt;a href="http://www.talkinganthropology.com/"&gt;Talking Anthropology&lt;/a&gt;&#160;und &lt;a href="http://signal.hackerspaces.org/" class="broken_link"&gt;signal.hackerspaces&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;ACTA: Transparenz und Petition&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Eine Anfrage nach dem Informationsfreiheitsgesetz, die Licht auf die Verhandlungen zu Acta werfen wollte, wurde mit der Begründung abgelehnt, sie gefährde die öffentliche Sicherheit. Der Antragsteller Mathias Schindler rüstet dich für das juristische Anfechten der Ablehnung und unterhält Unterstützung durch Spenden. Gleichzeitig erreicht die Petition gegen die Ratifizierung von ACTA über 50.000 Zeichner.&lt;/p&gt;
 &lt;ul&gt;
@@ -18368,7 +18692,7 @@ mehr als 37 Millionen E-Mails und Datenverbindungen überprüft. Dabei diente ei
 &lt;li&gt;&lt;a href="http://dipbt.bundestag.de/dip21/btd/17/086/1708638.pdf"&gt;Bericht des Parlamentarischen Kontrollgremiums über den Einsatz von IMSI-Catchern&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://dipbt.bundestag.de/dip21/btd/17/086/1708639.pdf"&gt;Bericht des Parlamentarischen Kontrollgremiums über Art und Umfang der Maßnahmen zur Beschränkung des Brief-, Post- und Fernmeldegeheimnisses 2010&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/IMSI-Catcher"&gt;Wikipedia: IMSI-Catcher&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://opensource.srlabs.de/login?back_url=http%3A%2F%2Fopensource.srlabs.de%2Fprojects%2Fcatcher"&gt;Open-Source IMSI-Catcher-Detektor für OsmocomBB&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://opensource.srlabs.de/login?back_url=http%3A%2F%2Fopensource.srlabs.de%2Fprojects%2Fcatcher" class="broken_link"&gt;Open-Source IMSI-Catcher-Detektor für OsmocomBB&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://www.linus-neumann.de/2010/12/18/cc-video-der-digitale-briefumschlag/"&gt;Video: Der Digitale Briefumschlag&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://www.gnupg.org/download/"&gt;GnuPG Email-Verschlüsselung für Linux und andere Plattformen&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://gpg4win.org/"&gt;GnuPG für Windows&lt;/a&gt;&lt;/li&gt;
@@ -18711,7 +19035,7 @@ mehr als 37 Millionen E-Mails und Datenverbindungen überprüft. Dabei diente ei
 &lt;li&gt;&lt;a href="http://www.laquadrature.net/acta"&gt;ACTA-Infoseiten von La quadrature du net&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://digitalegesellschaft.de/wp-content/uploads/2011/10/acta-edri-broschuere-deutsche-uebersetzung.pdf"&gt;Info-Broschüre von EDRi.org &amp;amp; Digitale Gesellschaft&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://www.boell.de/demokratie/netz-videomitschnitt-acta-podiumsdiskussion-13230.html"&gt;Podiumsdiskussion ACTA in der Heinrich-Boell-Stuftung Berlin&lt;/a&gt;&lt;a href="http://www.laquadrature.net/acta"&gt;&#160;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.laquadrature.net/en/debunking-the-eu-commissions-lies-about-acta" class="broken_link"&gt;La quadrature du net:&#160;Debunking the EU Commission&amp;#8217;s Lies About ACTA&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.laquadrature.net/en/debunking-the-eu-commissions-lies-about-acta"&gt;La quadrature du net:&#160;Debunking the EU Commission&amp;#8217;s Lies About ACTA&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://www.facebook.com/events/182716005161256/"&gt;Facebook-Seite zu Massenprotesten gegen ACTA am Samstag, 11. Februar 2012&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://mspr0.de/?p=2810"&gt;mspr0: ACTA in plain Deutsch&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://web.archive.org/web/20120415031929/http://www.tagesschau.de:80/ausland/polen434.html"&gt;Tagesschau.de: Geheimes ACTA-Abkommen lässt die Gemüter hochkochen (Polen)&lt;/a&gt;&lt;/li&gt;
@@ -19109,7 +19433,7 @@ Congress-bedingt weiten wir das Themenfeld auch noch ein wenig und beschäftigen
 &lt;p&gt;&lt;strong&gt;Echtes Netz&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Die Kampagne für Netzneutralität des Vereins Digitale Gesellschaft kommt langsam aber sicher ins Rollen und präsentiert auf einer neuen Website Argumentationshilfen für Netzneutralität.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="http://echtesnetz.de/"&gt;Plattform: Echtes Netz&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://echtesnetz.de/" class="broken_link"&gt;Plattform: Echtes Netz&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://netzpolitik.org/2011/28c3-echtes-netz/"&gt;Video: Echtes Netz – Falk Lüke, Markus Beckedahl&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://respectmynet.eu/" target="_blank"&gt;Respect My Net&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -20117,7 +20441,7 @@ Ansonsten gab es wieder viel zu besprechen und wieder gab es zu dem einen oder a
 &lt;p&gt;USA: BSA-Widerstand gegen den Stop Online Piracy Act (SOPA). Ernst gemeinter Widerstand oder nur die Ablehnung des größeren Übels?&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="http://blog.bsa.org/2011/11/21/sopa-needs-work-to-address-innovation-considerations/"&gt;Blogpost BSA&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.bsa.org/country/News%20and%20Events/News%20Archives/en/2011/en-10262011-smithbill.aspx"&gt;Pressemitteilung&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.bsa.org/country/News%20and%20Events/News%20Archives/en/2011/en-10262011-smithbill.aspx" class="broken_link"&gt;Pressemitteilung&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://www.techdirt.com/articles/20111123/11042416888/microsofts-cold-feet-over-sopa-behind-bsas-rethinking-its-views.shtml"&gt;Microsoft scheint die Initiative dahinter ergriffen zu haben.&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;EuGH zu Netzsperren&lt;/h2&gt;
@@ -20776,7 +21100,7 @@ In der ersten Ausgabe versuchen wir zunächst einmal die Basis für die weitere 
 })();
 &lt;/script&gt;
 &lt;/div&gt;
-&lt;p&gt;&lt;strong&gt;Themen&lt;/strong&gt;: Zielsetzung dieses Podcasts; &lt;a href="https://netzpolitik.org/2011/npp110-netzaktivismus-und-digitale-gesellschaft-e-v/" target="_blank"&gt;NPP110: Netzaktivismus&lt;/a&gt;&#160;&lt;a href="https://netzpolitik.org/2011/npp110-netzaktivismus-und-digitale-gesellschaft-e-v/" target="_blank"&gt;und Digitale Gesellschaft e.V.&lt;/a&gt;; Empörung in digitalen Kommunikationsnetzen; Streit in der Szene; &lt;a href="http://alvar.a-blast.org/" target="_blank"&gt;Alvar Freude&lt;/a&gt;; &lt;a href="http://www.vorratsdatenspeicherung.de/" target="_blank"&gt;AK Vorrat&lt;/a&gt;; &lt;a href="http://ak-zensur.de/" target="_blank"&gt;AK Zensur&lt;/a&gt;; &lt;a href="http://blog.fefe.de" target="_blank"&gt;Felix von Leitner&lt;/a&gt;; Datenschutz; Spackeria und Aluhüte; Datenschutz; Die Datenfresser (&lt;a href="http://www.amazon.de/gp/product/3100485181/ref=as_li_ss_tl?ie=UTF8&amp;amp;tag=logbuch-netzpolitik-21&amp;amp;linkCode=as2&amp;amp;camp=1638&amp;amp;creative=19454&amp;amp;creativeASIN=3100485181"&gt;Buch&lt;/a&gt;*, &lt;a href="http://www.amazon.de/gp/product/B0058G4P52/ref=as_li_ss_tl?ie=UTF8&amp;amp;tag=logbuch-netzpolitik-21&amp;amp;linkCode=as2&amp;amp;camp=1638&amp;amp;creative=19454&amp;amp;creativeASIN=B0058G4P52"&gt;Kindle-eBook&lt;/a&gt;*); &lt;a href="http://de.wikipedia.org/wiki/Constanze_Kurz" target="_blank"&gt;Constanze Kurz&lt;/a&gt;; &lt;a href="http://frank.geekheim.de/" target="_blank"&gt;Frank Rieger&lt;/a&gt;;&#160;&lt;a href="http://www.plomlompom.de/" target="_blank"&gt;Christian Heller (plomlompom)&lt;/a&gt;; &lt;a href="http://www.amazon.de/gp/product/3406622232/ref=as_li_ss_tl?ie=UTF8&amp;amp;tag=logbuch-netzpolitik-21&amp;amp;linkCode=as2&amp;amp;camp=1638&amp;amp;creative=19454&amp;amp;creativeASIN=3406622232"&gt;Post Privacy: Prima leben ohne Privatsphäre&lt;/a&gt;* (&lt;a href="http://www.plomlompom.de/PostPrivacyBuch/" target="_blank"&gt;Website zum Buch&lt;/a&gt;); &lt;a href="http://juliaschramm.de/" target="_blank"&gt;Julia Schramm&lt;/a&gt;; &lt;a href="http://mspr0.de/" target="_blank"&gt;Michael Seemann (mspro)&lt;/a&gt;; Facebook; Piratenpartei;&#160;Telekommunikationsgesetz-Novelle;&#160;Netzneutralität; &lt;a href="https://netzpolitik.org/2011/die-dmexco-uberleben-survival-in-der-einode-des-digital-marketing/" target="_blank"&gt;netzpolitik.org:&#160;Die dmexco überleben: Survival in der Einöde des Digital Marketing&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Themen&lt;/strong&gt;: Zielsetzung dieses Podcasts; &lt;a href="https://netzpolitik.org/2011/npp110-netzaktivismus-und-digitale-gesellschaft-e-v/" target="_blank"&gt;NPP110: Netzaktivismus&lt;/a&gt;&#160;&lt;a href="https://netzpolitik.org/2011/npp110-netzaktivismus-und-digitale-gesellschaft-e-v/" target="_blank"&gt;und Digitale Gesellschaft e.V.&lt;/a&gt;; Empörung in digitalen Kommunikationsnetzen; Streit in der Szene; &lt;a href="http://alvar.a-blast.org/" target="_blank"&gt;Alvar Freude&lt;/a&gt;; &lt;a href="http://www.vorratsdatenspeicherung.de/" target="_blank"&gt;AK Vorrat&lt;/a&gt;; &lt;a href="http://ak-zensur.de/" target="_blank"&gt;AK Zensur&lt;/a&gt;; &lt;a href="http://blog.fefe.de" target="_blank"&gt;Felix von Leitner&lt;/a&gt;; Datenschutz; Spackeria und Aluhüte; Datenschutz; Die Datenfresser (&lt;a href="http://www.amazon.de/gp/product/3100485181/ref=as_li_ss_tl?ie=UTF8&amp;amp;tag=logbuch-netzpolitik-21&amp;amp;linkCode=as2&amp;amp;camp=1638&amp;amp;creative=19454&amp;amp;creativeASIN=3100485181"&gt;Buch&lt;/a&gt;*, &lt;a href="http://www.amazon.de/gp/product/B0058G4P52/ref=as_li_ss_tl?ie=UTF8&amp;amp;tag=logbuch-netzpolitik-21&amp;amp;linkCode=as2&amp;amp;camp=1638&amp;amp;creative=19454&amp;amp;creativeASIN=B0058G4P52"&gt;Kindle-eBook&lt;/a&gt;*); &lt;a href="http://de.wikipedia.org/wiki/Constanze_Kurz" target="_blank"&gt;Constanze Kurz&lt;/a&gt;; &lt;a href="http://frank.geekheim.de/" target="_blank"&gt;Frank Rieger&lt;/a&gt;;&#160;&lt;a href="http://www.plomlompom.de/" target="_blank" class="broken_link"&gt;Christian Heller (plomlompom)&lt;/a&gt;; &lt;a href="http://www.amazon.de/gp/product/3406622232/ref=as_li_ss_tl?ie=UTF8&amp;amp;tag=logbuch-netzpolitik-21&amp;amp;linkCode=as2&amp;amp;camp=1638&amp;amp;creative=19454&amp;amp;creativeASIN=3406622232"&gt;Post Privacy: Prima leben ohne Privatsphäre&lt;/a&gt;* (&lt;a href="http://www.plomlompom.de/PostPrivacyBuch/" target="_blank"&gt;Website zum Buch&lt;/a&gt;); &lt;a href="http://juliaschramm.de/" target="_blank"&gt;Julia Schramm&lt;/a&gt;; &lt;a href="http://mspr0.de/" target="_blank"&gt;Michael Seemann (mspro)&lt;/a&gt;; Facebook; Piratenpartei;&#160;Telekommunikationsgesetz-Novelle;&#160;Netzneutralität; &lt;a href="https://netzpolitik.org/2011/die-dmexco-uberleben-survival-in-der-einode-des-digital-marketing/" target="_blank"&gt;netzpolitik.org:&#160;Die dmexco überleben: Survival in der Einöde des Digital Marketing&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;* = Affiliate Links&lt;/p&gt;
  &lt;p&gt;&lt;a href="http://logbuch-netzpolitik.de/?flattrss_redirect&amp;amp;id=39&amp;amp;md5=422d02f083a10f49ada14b5a0e2acd7e" title="Flattr" target="_blank"&gt;&lt;img src="http://metaebene.me/lnp/wp-content/plugins/flattr/img/flattr-badge-large.png" alt="flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;</content:encoded>
             <atom:contributor>
